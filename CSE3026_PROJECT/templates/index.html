@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSE Classes</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>  <!-- Add jQuery -->
+</head>
+<body>
+    <center><h1>NMT CSE/IT CLASSES</h1></center>
+    
+    <form method="POST" action="/">
+        <!-- Your existing checkbox and form structure here -->
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <!-- Button to load classes dynamically without page refresh -->
+    <button id="loadClassesBtn">Load Classes from Database</button>
+
+    <!-- Table to display the classes -->
+    <div id="classesContainer"></div>
+
+    <script>
+        // When the button is clicked, trigger AJAX call to get classes
+        $('#loadClassesBtn').on('click', function() {
+            $.get('/get_classes', function(data) {
+                const classes = data.classes;
+                let containerHtml = '';
+                
+                // Loop through classes and generate HTML dynamically
+                const groups = {
+                    "CS FRESHMEN": [],
+                    "CS SOPHOMORE": [],
+                    "CS JUNIOR": [],
+                    "CS SENIOR": []
+                };
+
+                // Group classes by their level
+                classes.forEach(function(classItem) {
+                    if (classItem.level === 'Freshmen') {
+                        groups['CS FRESHMEN'].push(classItem);
+                    } else if (classItem.level === 'Sophomore') {
+                        groups['CS SOPHOMORE'].push(classItem);
+                    } else if (classItem.level === 'Junior') {
+                        groups['CS JUNIOR'].push(classItem);
+                    } else if (classItem.level === 'Senior') {
+                        groups['CS SENIOR'].push(classItem);
+                    }
+                });
+
+                // Create HTML for each group
+                for (const group in groups) {
+                    if (groups[group].length > 0) {
+                        containerHtml += `
+                            <center><h3 style="background-color: #ADD8E6;">${group}</h3></center>
+                            <div class="top-row">
+                        `;
+                        groups[group].forEach(function(classItem) {
+                            containerHtml += `
+                                <table class="top-class">
+                                    <tr>
+                                        <td style="background-color: ${classItem.color};">${classItem.class_code}</td>
+                                        <td style="background-color: white;"><input type="checkbox" name="checkbox" value="${classItem.class_code}"></td>
+                                    </tr>
+                                </table>
+                            `;
+                        });
+                        containerHtml += '</div>';
+                    }
+                }
+
+                // Insert the dynamic HTML into the container
+                $('#classesContainer').html(containerHtml);
+            });
+        });
+    </script>
+
+    <style>
+        /* Basic container styles */
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            text-align: center;
+        }
+
+        /* Row styles for the top and bottom sections */
+        .top-row, .bottom2-row, .bottom3-row, .bottom4-row, .bottom5-row, .bottom6-row {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* Style for the individual class tables */
+        table {
+            margin: 0 10px;
+            border: none;  /* Remove the border from the table */
+            border-collapse: collapse;
+        }
+
+        td {
+            padding: 8px 15px;
+            text-align: center;
+            border-radius: 25px;  /* This makes the boxes oval */
+            background-color: #f0f0f0; /* A light gray background for better visibility of the oval shape */
+        }
+
+        /* Styling for the checkbox cell */
+        .checkbox-cell {
+            display: flex;
+            justify-content: center;
+        }
+
+        /* Line connecting the top and bottom classes */
+        .line {
+            width: 100%;
+            height: 2px;
+            background-color: black;
+            margin: 10px 0;
+        }
+
+        /* Styling for the top classes */
+        .top-class {
+            margin-bottom: 30px;  /* Increased space between rows */
+        }
+
+        .bottom2-row, .bottom3-row, .bottom4-row, .bottom5-row, .bottom6-row {
+            margin-bottom: 30px;  /* Increased space between rows */
+        }
+    </style>
+
+</body>
+</html>
