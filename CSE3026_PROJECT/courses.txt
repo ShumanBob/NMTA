@@ -1,0 +1,583 @@
+CSE 101, Introduction to Computer Science and Information Technology 
+2 cr, 2 cl hrs
+Usually offered in both the Fall and Spring semesters.
+Students must register for CSE 101 and CSE 101L concurrently
+Brief overview of the discipline of computer science and
+information technology topics including computer
+architecture, operating systems and networks, automata
+and models of computation, programming languages and
+compilers, algorithms, databases, security and
+information assurance, artificial intelligence, graphics,
+and social/ethical issues of computing. (Same as IT 101)
+MW 10:00am - 10:50am
+F 10:00am - 10:50am Lab
+-@-
+CSE 107, Introduction to Computer Programming using Python 
+4 cr, 3 cl hrs, 2 lab hrs
+Co-requisite: Math 103 (MATH 1240)
+Usually offered in the Fall semester.
+Students must register for CSE 107 and CSE 107L
+concurrently
+The course is designed to introduce programming and its
+applications to scientists and engineers. The first part of
+the class focuses on problem solving, algorithm
+development, top-down design, modular programming,
+debugging, testing, data types, flow-control, looping,
+iteration and recursion, fundamental data structures, and
+an introduction to object oriented programming. The
+second part of the class explores data analysis with
+Python. (Same as IT 107)
+MWF 1:00pm - 1:50pm
+MWF 2:00pm - 2:50pm Lab
+-@-
+CSE 113, Introduction to Programming 
+4 cr, 3 cl hrs, 3 lab hrs
+Co-requisite: MATH 131 (MATH 1510)
+Usually offered in both Fall and Spring semesters.
+Students must register for CSE 113 and CSE 113L
+concurrently
+The course is designed to introduce problem solving and
+programming in C to Computer Science majors and
+those interested in applications of the language that
+involve dynamic structures and memory management.
+Topics include algorithm development; top-down
+design; modular programming; debugging; testing;
+control structures including selection, iteration and
+recursion; number systems; data representation; data
+types including arrays, strings, pointers and dynamic
+structures involving memory management. Concepts
+implemented through extensive programming using
+good programming style. (Same as IT 113.)
+MWF 2:00pm - 2:50pm
+M 3:00pm - 6:00pm Lab
+-@-
+CSE 117, Data Structures in Python
+3 cr, 3 cl
+Prerequisite: CSE 107 or CSE 113, with a grade of C or higher; MATH 1240
+Normally offered in Spring semester
+Using objects, lists, tuples, and dictionaries to implement
+data structures such as trees and graphs. Algorithms
+for sorting, searching, and other fundamental operations.
+Introduction to mathematical foundations for analysis
+of iterative and recursive algorithms and for basic
+correctness proofs. The math skills used in the algorithm
+analysis (e.g., series, inductive proofs) will be included in
+the course. Implementation of selected algorithms for
+different applications (e.g., data science, cybersecurity) using
+sound programming methodologies. (same as IT 117)
+-@-
+CSE 122, Algorithms and Data Structures
+3 cr, 3 cl hrs
+Prerequisite: CSE 113 with a grade of C or higher
+Corequisite: MATH 132( Math 1520)
+Usually offered in both Fall and Spring semesters.
+Fundamental data structures including linked lists, trees,
+hash tables, and graphs. Algorithms for sorting,
+searching, and other fundamental operations.
+Introduction to mathematical foundations for analysis of
+iterative and recursive algorithms and for bask
+correctness proofs. Analysis of algorithms.
+Implementation of selected algorithms using sound
+programming methodologies. (Same as IT 122.)
+MWF 11:00am - 11:50am
+-@-
+CSE 209, Programming Language Practicum
+1 cr, 3 lab hrs
+Prerequisite: Knowledge of elementary programming and
+CSE 101 with a grade of C or higher.
+A practical course teaching the use of a programming
+language of current interest. May be repeated for credit
+with different languages.
+-@-
+ CSE 213, Introduction to Object Oriented Programming
+3cr, 3 cl hrs
+Prerequisite: CSE 117 or CSE 122 with a grade of C or higher
+Usually offered in the Spring semester.
+Introduction to programming in an object oriented
+language (e.g., Java): review of problem solving,
+algorithm development, top-down design, modular
+programming, debugging, testing, control structures
+including selection, iteration and recursion, data types
+including arrays, strings, pointers, and dynamic
+structures. Object oriented concepts will include:
+objects, classes, inheritance, instances, methods,
+interfaces, packages, encapsulation, and polymorphism.
+Concepts implemented through extensive programming
+using good programming style. (Same as IT 213.)
+MWF 9:00am - 9:50am
+-@-
+CSE 221, Computer System Organization
+3 cr, 3 cl hrs
+Prerequisite: CSE 101, 122 each with a grade of C or higher
+Usually offered in the Fall semester.
+The hardware/software interface. Basic organization of
+hardware and operating systems. Memories, buses,
+interrupts, input and output, and instruction set
+architecture. Programming in assembly language.
+(Same as IT 221.)
+TR 3:30pm - 4:45pm
+-@-
+CSE 222, Systems Programming
+3 cr, 3 cl hrs
+Prerequisite: CSE 101, 122 each with a grade of C or higher
+Usually offered in the Spring semester
+This course provides an introductory overview of
+operating systems and system programming, mainly
+focusing on system-level programming based on OS
+services and other APIs. Topics include system calls,
+file I/O, files and directories, memory management,
+process control, inter-process communication (IPC),
+socket-based network programming, remote procedure
+call (RPC) programming, and basic security
+mechanisms. Course work includes substantial
+programming homework and team-based projects.
+MWF 11:00am - 11:50am
+-@-
+CSE 241, Foundations of Computer Science
+3 cr, 3 cl hrs
+Prerequisite: MATH 1520 each with a grade of C or higher
+Usually offered in the Fall semester
+Students must register for CSE 241 and CSE 241L
+concurrently
+Propositional and predicate logic. reasoning and
+mathematical proofs. Abstraction, iteration, recursion,
+and induction. discrete structures. concepts of
+algorithms, formal languages, and computation.
+MWF 2:00pm - 2:50pm
+F 9:00am - 9:50am Lab
+-@-
+CSE 307, Python for Data Science
+3 cr, 3 cl hrs
+Prerequisites: MATH 1520; and either CSE 107 or CSE 113, passed with a grade of C or better.
+Types and functions; Mechanisms for parameter passing,
+optional and keyword-based parameters. Dictionary and list
+comprehension. Native data structures, e.g. dictionaries, lists,
+strings, and tuples; arrays using NumPy. File input/output.
+Techniques for noise removal, cleaning, and transformations
+on real-world datasets. 
+MWF 12:00pm - 12:50pm
+-@-
+CSE 320, Video Game Design
+3 cr, 3 cl
+Prerequisites: ENGL 1110; CSE 107 or CSE 113; and CSE 213. CSE prerequisite courses passed with a C or better.
+Normally offered: Spring every other year.
+This course will introduce students to the concepts and tools
+used in 2D and 3D real-time interactive computer video
+games. The course will provide students with a theoretical and
+conceptual understanding of the field of game design, along
+with practical exposure to the process of creating a game.
+Topics introduced in this course include graphics,
+human-computer interaction, artificial intelligence, design
+iteration, rapid prototyping, game mechanics, dynamics and
+balance, flow theory, the nature of fun. Additional topics will
+be selected from parallel processing, networking, and software
+engineering as needed in game development.
+-@-
+CSE 321, Internet and Web Programming
+3 cr, 3 cl hrs
+Prerequisite: CSE 117 or CSE 122 and CSE 213 each with a grade of C or higher
+This course has a practical emphasis on the design and
+techniques for developing internet-based applications,
+mainly focusing on web programming. Topics include
+HTML, client-side scripting language (JavaScript),
+server-side programming (e.g., Servlets, JSP, and J2EE),
+and XML/web services (e.g., Java and .NET). This
+course will also cover some important topics needed for
+internet-based application development, such as Internet
+architectures, basic object-oriented programming (OOP)
+concepts, and web security. Course work includes
+substantial programming homework and team-based
+projects. (Same as IT 321.)
+MWF 11:00am - 11:50am
+-@-
+CSE 324, Principles of Programming Languages
+3 cr, 3 cl hrs
+Prerequisite: CSE 122 with a grade of C or higher
+Usually offered in the Spring semester.
+Introduction to low (micro/macro) and high level
+languages (L/HLLs) -- features and positions within the
+computer system. definition of HLLs of syntax and
+semantics. Data types, control structures, concurrency,
+declarations, procedures. Recursion and recursive
+definitions. Procedural and data abstraction. Critique of
+major programming languages features and design
+issues (e.g., power, efficiency, security, modularity,
+readability, etc).Examples from major realms of current
+programming languages -- imperative (block structured,
+object oriented), declarative (function, logic) paradigms.
+TW 12:30pm - 1:40pm
+-@-
+CSE 325, Principles of Operating Systems
+4 cr, 3 cl hrs, 3 lab hrs
+Prerequisites: CSE 221, 222 each with a grade of C or higher
+Usually offered in the Fall semester.
+Students must register for CSE 325 and CSE 325L
+concurrently
+This course provides an introduction to the fundamentals
+of operating systems and their components. Topics
+include processes and threads, process scheduling,
+process synchronization, deadlocks, memory
+management, file systems, storage systems, I/O systems,
+security and protection, and introduction to distributed
+systems. Each student is expected to design and
+implement components of a small operating system.
+TR 12:30 pm-01:45 pm
+T 05:00 pm-05:50 pm Lab
+-@-
+CSE 326, Software Engineering 
+3 cr, 3 cl hrs
+Prerequisites: CSE 117 or CSE 122, 213 each with a grade of C or higher
+Prerequisites/Co-requisites: ENGL 341
+Usually offered in the Spring semester.
+This course provides the introductory overview of
+software engineering, concentrating on large- scale
+software system design and implementation. Topics
+include software life cycle, UML-based design language,
+design tools and techniques, design documentation,
+software testing, secure software construction, and
+software project management. Course work includes a
+team-based project. (Same as IT 326.)
+TR 3:30-04:45 pm
+-@-
+CSE 328, Secure Software Construction
+3 cr, 2 cl hrs
+Prerequisite: CSE 222, CSE 213 each with a grade of C or higher
+Formal methods and practical techniques for the
+specification, design, implementation, and validation of
+computer software. Current software engineering and
+management practices, with emphasis on ensuring
+software reliability, safety, and security. Course work
+includes a team project to develop a sizeable, real-world
+application software. (Same as IT 328.)
+-@-
+CSE 331, Computer Architecture
+3 cr, 3 cl hrs
+Prerequisite: CSE 221 with a grade of C or higher
+Usually offered in the Spring semester.
+The course introduces the fundamentals of modern
+computer architecture and design. Topics include
+instruction set architectures, pipelining, memory
+hierarchies, instruction-level parallelism, introduction to
+distributed and parallel computing, and performance
+modeling and measurements.
+TR 11:00 am-12:15 pm
+-@-
+CSE 342, Formal Languages and Automata
+3 cr, 3 cl hrs
+Prerequisite: CSE 241 with a grade of C or higher
+Prerequisite/Co-requisite: MATH 352
+Usually offered in the Spring semester.
+Regular expressions. Regular, context-free,
+context-sensitive and unrestricted grammars and
+languages. Finite and pushdown automata. Turing
+machines, recursive and recursively enumerable
+languages. Decidability and the halting problem.
+02:00 pm-03:15 pm
+-@-
+CSE 344, Design and Analysis of Algorithms
+4 cr, 3 cl hrs,
+Prerequisites: CSE 122, CSE 241; MATH 352 each with a grade of C or higher
+Usually offered in the Fall semester.
+Students must register for CSE 344 and CSE 344L
+concurrently.
+Asymptotic complexity of algorithms. Analysis of
+iterative and recursive algorithms; amortized analysis.
+Design paradigms: greedy and dynamic programming
+approaches. Interplay of data structures and algorithms.
+Graph algorithms. Introduction to the theory of
+complexity classes and NP–completeness.
+MWF 12:00 pm-12:50 pm
+W 09:00 am - 09:50 am Lab
+-@-
+CSE 351, Modeling and Simulation Technologies for Information Systems
+3 cr, 3cl hrs
+Prerequisites: CSE 122; CSE 241 each with a grade of C or higher
+Fundamentals and techniques for designing and using
+simulation, modeling, and optimization algorithms with
+applications in system performance modeling, business
+infrastructure modeling, and distributed and parallel
+computing. An introduction to advanced complex
+systems models. (Same as IT 351.)
+-@-
+CSE 353, Introduction to Computer Networks
+3 cr, 3 cl hrs
+Prerequisites: CSE 222 with a grade of C or higher
+Usually offered in the Fall semester
+Introduction to computer networking, the ISOOSI
+protocol stack, LAN, MAN, and WAN. Physical layer:
+transmission media (wireline and wireless); data
+signaling, modulation, and coding; multiplexing. Fiber
+optics networking technology: protocols & examples.
+Data link Layer: error/flow control— protocols design
+issues; MAC protocols for channel access and
+allocation. Wireless technology and protocols standards
+— IEEE 802.11 physical layer and MAC sublayer
+protocols. Network layer: subnet switching
+(CS/DG/VC) & routing protocols (Non/Adaptive);
+Congestion Control and QoS protocols. ISO vs.
+(TCP-UDP)/IP the Internet protocol stacks. Internet
+relays and protocols, e.g., routers, gateways, etc.
+Introduction to network security. Application layer
+protocols, E.G., DNS, E-mail, etc. (Same as IT 353.)
+TR 03:30 pm-04:45 pm
+-@-
+CSE 363 Computer Security
+3 cr, 3 cl hrs.
+Prerequisite: CSE 221 with a grade of C or higher; CSE 353
+Usually offered in the Spring semester
+This course provides an overview of the principles and
+practices of secure computing, mainly focusing on their
+application in security solution design and
+implementation. Topics include risk/threat analysis,
+secure coding practices, cryptographic tools, security
+architectures, system security, software security, and
+network security. Course work include quizzes,
+homework, midterm and final exams, and one final
+team-based project. (Same as IT 363.)
+TR 09:30 am-10:45 am
+-@-
+CSE 373, Introduction to Database Systems
+3 cr, 3 cl hrs
+Prerequisite: 117 or CSE 122; and CSE 241, each with a grade of C or higher
+Conceptual modeling and database design using the
+entity-relationship model. The relational model;
+relational algebra and relational query languages.
+Database integrity. Physical data organization.
+Non-relational models such as NoSQL and graph
+databases. Introduction to concurrency control and
+recovery. Course work includes a project using SQL and
+the Oracle Database Management System. (Same as IT 373.)
+TR 02:00 pm-03:15 pm
+-@-
+CSE 382, 382D, Ethical and Social Issues of Computing Information Technology 
+3 cr, 3 cl hrs
+Usually offered in the Spring semester
+In this class, students will examine ethical and social
+questions regarding computing and information
+technologies. The course challenges students to think
+about connections among digital technologies, the
+responsibilities of information technology professionals,
+and social justice as they study topics such as social
+media, military applications of digital media, gendered
+technologies, and access to information technologies. In
+addition to learning the basics of research ethics and
+social responsibility, students will examine real-world
+debates regarding subjects like big data, computer code,
+and digital networks, and they will analyze the legal,
+political, and social stakes of information technologies.
+(Same as IT 382and PHIL 382) This course may be
+used to satisfy 3 credit hours of the General Education
+Area 5 requirements.
+MWF 11:00 am-11:50 am
+MWF 01:00 pm-01:50 pm
+-@-
+CSE 391, Directed Study, cr and topics arranged
+-@-
+CSE 411, Introduction to Data Science, 3 cr, 3 cl hrs
+Prerequisites: CSE 207 passed with a grade of C or better; MATH 1520, MATH 382 and MATH 382L.
+Data preprocessing: assembly, integration, cleaning, analysis.
+Visualization. Introduction to Machine Learning using Python:
+Continuous and categorical features. Evaluation metrics such
+as F1-score and AuC. Problems from different domains.
+Students are expected to communicate and present their
+findings and results. Every student must complete at least one
+hands-on project.
+TR 02:00 pm-03:15 pm
+-@-
+CSE 423, Compiler Writing
+4 cr, 3 cl hrs, 3 lab hrs
+Prerequisites: CSE 342 with a grade of C or higher; CSE 324, 326, 344
+Co-requisite: CSE 331
+Usually offered in the Spring semester.
+Students must register for CSE 423 and CSE 423L concurrently
+Implementation of compilers for higher level computer
+languages including: parsing, symbol table management,
+code emission, and code optimization. Each student
+implements a small compiler and designs an optimizing
+compiler as a substantial portion of the course grade.
+Individual and group projects. Practice in developing
+software requirement, specification, design, and test plan
+documents.
+TR 12:30 pm-01:45 pm
+TR 12:30 pm-01:45 pm
+W 02:00 pm-02:50 pm Lab
+W 02:00 pm-02:50 pm Lab
+-@-
+CSE 441, Cryptography and Applications
+3 cr, 3 cl hrs (Same as IT 441)
+Prerequisites: CSE 122, CSE 241 each with a grade of C or higher
+This course provides an introductory overview of
+modern cryptographic theory and techniques, mainly
+focusing on their application into real systems. Topics
+include number theory, probability and information
+theory, computational complexity, symmetric and
+asymmetric cryptosystems, one-way functions, block
+and stream ciphers, Kerberos authentication systems,
+public key infrastructure (PKI), secure socket
+layer/transport layer security (SSL/TLS), and
+cryptographic protocols/applications in many real
+systems. Shares lecture with CSE 541 with additional
+expectations for graduate credit. (Same as IT 441.)
+TR 11:00 am-12:15 pm
+-@-
+CSE 451, 451D, Introduction to Parallel Processing
+3 cr, 3 cl hrs
+Prerequisites: CSE 122 with a grade of C or higher
+Introduction to supercomputers and massively-parallel
+machine architecture, models of parallel computation,
+parallel algorithms, synchronization, parallel languages,
+data and functional parallelism, parallel performance
+analysis, popular interfaces, and parallel debugging.
+Students will gain experience in parallelization of
+sequential algorithms and implementation of parallel
+algorithms. (Same as IT 451.)
+-@-
+CSE 452, 452D, Introduction to Sensor Networks
+4 cr, 3 cl hrs, 2 lab hrs
+Prerequisites: CSE 325 and CSE 353, or consent of instructor and advisor
+Introduction to sensory technology with special focus on
+wireless sensor networks (WSNs) applications,
+topologies, deployment, sensed data manipulation,
+mobile ad-hoc wireless communication, security. Low
+power consumption and data rates WSNs protocols (e.g.,
+ZigBee/IEEE808.15.4). Students will get familiar with
+sensor nodes' hardware (motes and sensor boards) and
+programming (TinyOS and ZigBee application objects)
+via a set of practical lab/field experiments that covers
+the design, implementation, deployment, and data
+collection/analysis of some actual WSNs data/vent
+acquisition systems (e.g., environment monitoring,
+remote asynchronous event detection--forest fire, border
+intrusion, tsunami, earthquake, volcanic activities, etc).
+W 04:00 pm-06:30 pm
+-@-
+CSE 453, Advances in Computer Networks and the Internet
+3 cr, 3 cl hrs
+Prerequisite: CSE 353
+In depth coverage of layering of protocols’ stacks
+(ISOOSI and TCP/IP) and computer networks
+architectures, modern examples of LANs, MANs,
+WANs protocols/architectures. Recent developments in
+Fiber optics technology — protocols and architectures.
+High speed “all-fiber-optics” networks.
+Internetworking: global addresses/names and translation,
+virtual networks and tunnels, routing, subnetworks
+switching protocols, IPv6, multicasting. Mobile IP.
+End-to-end protocols, TCP and UDP. Advances in
+congestion control and resource allocation.
+Client-server models & applications. The QoS
+mechanism integrated/differentiated), ATM QoS.
+Network security: information and link security,
+encryption, internetworking security, IPsec, firewalls,
+VPN, wireless security. Analysis of networks protocols.
+(Same as IT 453.)
+-@-
+CSE 454, Computer Graphics
+3 cr, 3 cl hrs
+Prerequisites: CSE 213, 222; MATH 2420 each with a
+grade of C or higher
+Design and implementation of visual interfaces.
+Graphics input and output hardware, display
+programming, 2-D transformations, approximation
+techniques for curve and surface representation.
+Introduction to the creation of 3-D computer-generated
+images, color theory, lighting and shading.
+CSE 463, 463D, Information Assurance, 3 cr, 3 cl hrs
+Prerequisite: Senior standing
+Defense and offensive information warfare. Information
+system security. Computer break-ins, hacking, and other
+attack methods. Vulnerability and risk analysis. Theory
+and applications of cryptography. Intrusion detection
+and incident response. Security planning and
+management. (Same as IT 463.)
+-@-
+CSE 464, Introduction to Soft Computing
+3 cr, 3 cl hrs
+Prerequisites: CSE 344; MATH 382
+Major types of artificial neural networks.Fuzzy logic
+theory and fuzzy systems construction.Genetic
+algorithms and evolutionary computing.Intelligent
+systems and engineering applications.Comparative study
+of the soft computing paradigm as a problem solving
+methodology.
+W 06:00 pm-08:30 pm
+W 06:00 pm-08:30 pm
+-@-
+CSE 465, Introduction to Neural Networks and Applications
+3 cr, 3 cl hrs
+Prerequisites: CSE 207 or CSE 344 passed with a grade of
+C or better; MATH 2420 MATH 382 and MATH 382L; or
+consent of instructor and advisor
+Biological neurons and their modeling, an overview of
+single/multilayer feedforward/back ANN models and
+learning rules, single layer perceptron model, multi-layer
+feedforward error backpropagation, recurrent associative
+memory, Hopfield model, multilayer ANNs for
+clustering & competitive learning, Hamming/Max,
+un/supervised learning, Kohonen SOFM, Learning
+Vector Quantization, counterpropagation ANN model,
+Adaptive Resonance Theory model. ANNs applications
+(projects).
+-@-
+CSE 466, Introduction to Machine Learning
+3 cr, 3 cl hrs
+Prerequisites: CSE 207 or CSE 344 passed with a grade of
+C or better;; MATH 382; or consent of instructor and
+advisor
+This course introduces machine learning concepts such
+as unsupervised and semi-supervised learning, naive
+bayesian, decision trees/regression tree, K-means,
+K-NN, regression, SVM, neural networks. The
+associated
+training & operating algorithms are presented, including
+ensemble machine learning. Solutions for related
+problems such as classification, regression, anomaly
+detection, time series prediction, image-to-image,
+sequence-to-sequence, rule learning, Markov chain
+learning etc. Concepts used to prepare training datasets.
+-@-
+CSE 476, 476D, Visualization
+3 cr, 3 cl hrs
+Prerequisite: CSE 122 with a grade of C or higher, or
+consent of instructor and advisor
+This course presents application of graphical
+visualization to current problems, with a focus on
+extracting and representing information in
+multidimensional data sets using 2D and 3D graphics.
+Topics include visualization tools and techniques,
+human vision and perception, color mapping, sound,
+data representation for insight extraction, time
+visualization, visual analytics, volume rendering, surface
+extraction and rendering. Students will develop
+visualizations of real world problems. (Same as IT
+476.)
+-@-
+CSE 485, Undergraduate Seminar on Special Topics
+3 cr, 3 cl hrs
+Prerequisite: Senior standing, one semester of upper division
+courses in computer science, and consent of the instructor
+A research seminar for undergraduate students with a
+focus either on special topics in computer science or on
+the methodology and skills required for research in
+computer science. Use as technical electives is limited
+(see requirements above), but may be taken multiple
+times as a general elective.
+-@-
+CSE 489, 489D, Special Topics in Computer Science
+3 cr, 3 cl hrs
+Prerequisites: CSE 213, 222 each with a grade of C or higher
+consent of instructor, and junior standing
+Undergraduate special topics in computer science. For a
+list of recent offerings, please visit the department’s
+website.
+-@-
+CSE 491, 491D, Directed Study, cr and topics arranged
+Cannot be used toward graduation.
+-@-
+CSE 493, Undergraduate Thesis, 1cr
+Prerequisite: Acceptance into the Computer Science
+Undergraduate Honors Thesis option.
+-@-
+CSE 494, Undergraduate Thesis, 2cr
+Prerequisite: CSE 493
+-@-
