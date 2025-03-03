@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #f0f4f7;
+}
+.container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px;
+}
+.available-classes, .schedule-container {
+    width: 45%;
+    padding: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h2 {
+    text-align: center;
+    color: #0c2753;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    padding: 8px;
+    margin: 4px 0;
+    background-color: #78291c;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+ul li:hover {
+    background-color: #5f1e16;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+table th, table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+.scheduled-class {
+    background-color: #0c2753;
+    color: white;
+    cursor: pointer;
+}
+.scheduled-class:hover {
+    background-color: #08224f;
+}
+.thursday {
+    background-color: #78291c;
+}
+.tuesday {
+    background-color: #0c2753;
+}
+
+.disabled {
+    background-color: #ff0000;
+    cursor: not-allowed;
+    color: #000000;
+}
+
+/* Navigation Bar */
+nav {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background: rgba(34, 34, 34, 0.8);
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(203, 4, 4, 0.1);
+}
+
+.home-button {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.home-button:hover {
+    color: #ff6600;
+}
