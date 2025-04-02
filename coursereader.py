@@ -66,7 +66,7 @@ def main():
                                 prereqs = re.findall(r"[A-Z]+\s?\d+L?", prereqs_text)  # change +\s to *\s
                                 course_info.append(prereqs)
                         else:
-                                course_info.append([])  # No prerequisites
+                                course_info.append(["NA"])  # No prerequisites
 
 
                         # Extracting corequisites (if any)
@@ -77,19 +77,24 @@ def main():
                                 coreqs = re.findall(r"[A-Z]+\s?\d+L?", coreqs_text, re.IGNORECASE)
                                 course_info.append(coreqs)
                         else:
-                                course_info.append([])  # No corequisites
+                                course_info.append(["NA"])  # No corequisites
 
 
                         time_match = re.findall(r"([MTWRF]+)\s+(\d{1,2}:\d{2}\s*[ap]m\s*-\s*\d{1,2}:\d{2}\s*[ap]m?\s[Lb]?)", course)
                         if time_match:
                                 course_info.append(time_match)
                         else:
-                                course_info.append([])  # No times
+                                course_info.append(["NA"])  # No times
 
                         # Create Course object from course_info list
                         #print(course_info)
                         course_c = Course(course_info[0],course_info[1],course_info[2],course_info[3],course_info[4],course_info[5],course_info[6])
                         writer.writerow([course_info[0][:7].strip(''), course_info[1], course_info[6]])
+                        # To Do:
+                        # Change CSV writing to below format:
+                        # CSE #, Department Code, Days, Time, Full title (times), Credits
+                        # Change labs to be a seperate class
+                        # Change classes to allow sections and different time slots
                         course_list.append(course_c)
 
                 return course_list
