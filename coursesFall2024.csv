@@ -1,0 +1,1358 @@
+DEPT,SUBJECT,TERMDESC,CRN,COURSE,TITLE,MEET1,INSTR,WHERE1,WHERE2,MAXENRL,CREDS,DAY1,DAY2,BEGINTIME1,ENDTIME1,BEGINTIME2,ENDTIME2,rptWHERE,rptDAYS,rptTIME
+AFAS,Air Force Aerospace Studies,Fall 2024,24237,AFAS 120-01,Heritage and Value I Freshman,L,"Bush, Emmette (P) / Lacy, Brent", , ,20,1,W,,1400,1450,,, ,W,1400-1450
+AFAS,Air Force Aerospace Studies,Fall 2024,24240,AFAS 120-02,Heritage and Value I,L,"Lacy, Brent (P)", , ,20,1,W,,1400,1450,,, ,W,1400-1450
+AFAS,Air Force Aerospace Studies,Fall 2024,24238,AFAS 120L-01,Leadership Laboratory Freshman,L,"Vasquez, Vicente (P) / Lacy, Brent", , ,20,1,W,,1500,1700,,, ,W,1500-1700
+AFAS,Air Force Aerospace Studies,Fall 2024,24241,AFAS 120L-02,Leadership Laboratory,L,"Lacy, Brent (P)", , ,20,1,W,,1500,1715,,, ,W,1500-1715
+AFAS,Air Force Aerospace Studies,Fall 2024,24239,AFAS 250-01,Team and Leadership Fund I,L,"Salazar, Juan (P) / Lacy, Brent", , ,20,1,W,,1300,1350,,, ,W,1300-1350
+AFAS,Air Force Aerospace Studies,Fall 2024,24242,AFAS 250L-01,Leadership Lab I,B,"Vasquez, Vicente (P) / Lacy, Brent", , ,20,1,W,,1500,1700,,, ,W,1500-1700
+AFAS,Air Force Aerospace Studies,Fall 2024,24563,AFAS 300-01,Leading Ppl and Eff Comm I,L,"Tootle, Dylan (P) / Lacy, Brent", , ,10,3,TR,,1400,1515,,, ,TR,1400-1515
+AFAS,Air Force Aerospace Studies,Fall 2024,24564,AFAS 300L-01,Air Force Leadership Lab,B,"Tootle, Dylan (P) / Lacy, Brent", , ,10,1,W,,1500,1700,,, ,W,1500-1700
+AFAS,Air Force Aerospace Studies,Fall 2024,24565,AFAS 325-01,AFROTC Directed Studies,D,"Vasquez, Vicente (P) / Lacy, Brent", , ,10,Variable,,,,,,, ,,
+AFAS,Air Force Aerospace Studies,Fall 2024,24243,AFAS 329-01,Active Duty Phys Training Prep,L,"Vasquez, Vicente (P) / Lacy, Brent", , ,20,1,TRF,,630,730,,, ,TRF,0630-0730
+AFAS,Air Force Aerospace Studies,Fall 2024,24566,AFAS 350-01,Air Force ROTC Field Training,L,"Vasquez, Vicente (P) / Lacy, Brent", , ,10,3,,,,,,, ,,
+AFAS,Air Force Aerospace Studies,Fall 2024,24567,AFAS 400-01,Natl Security Leadership Res I,L,"Vasquez, Vicente (P) / Lacy, Brent", , ,10,3,TR,,930,1045,,, ,TR,0930-1045
+AFAS,Air Force Aerospace Studies,Fall 2024,24568,AFAS 400L-01,Air Force Leadership Lab,B,"Vasquez, Vicente (P) / Lacy, Brent", , ,10,1,W,,1500,1700,,, ,W,1500-1700
+BIOL,Biology,Fall 2024,23141,BIOL 1131-01,Intro to Biology & BMS,L,"Goncz, Kaarin (P)",JONESA 101, ,60,1,M,,1200,1250,,,JONESA 101,M,1200-1250
+BIOL,Biology,Fall 2024,23146,BIOL 2110-01,Prin of Bio: Cell & Molecular,L,"Goncz, Kaarin (P)",JONESA 101, ,60,3,MWF,,1100,1150,,,JONESA 101,MWF,1100-1150
+BIOL,Biology,Fall 2024,23021,BIOL 2110L-01,Prin of Bio: Cell & Molec Lab,B,"Goncz, Kaarin (P)",JONESA 224, ,16,1,M,,1400,1630,,,JONESA 224,M,1400-1630
+BIOL,Biology,Fall 2024,23022,BIOL 2110L-02,Prin of Bio: Cell & Molec Lab,B,"Goncz, Kaarin (P)",JONESA 224, ,16,1,T,,1400,1630,,,JONESA 224,T,1400-1630
+BIOL,Biology,Fall 2024,23023,BIOL 2110L-03,Prin of Bio: Cell & Molec Lab,B,"Goncz, Kaarin (P)",JONESA 224, ,16,1,W,,1400,1630,,,JONESA 224,W,1400-1630
+BIOL,Biology,Fall 2024,23024,BIOL 2110L-04,Prin of Bio: Cell & Molec Lab,B,"Goncz, Kaarin (P)",JONESA 224, ,16,1,R,,1400,1630,,,JONESA 224,R,1400-1630
+BIOL,Biology,Fall 2024,23304,BIOL 2141-01,Phage Discovery,L,"DeVeaux, Linda (P) / Goncz, Kaarin",JONESA 230, ,16,2,MR,,1400,1630,,,JONESA 230,MR,1400-1630
+BIOL,Biology,Fall 2024,23297,BIOL 3031-01,Cell Biology,L,"DeVeaux, Linda (P)",JONESA 101, ,60,3,MWF,,1000,1050,,,JONESA 101,MWF,1000-1050
+BIOL,Biology,Fall 2024,23166,BIOL 3041-01,Intro Microbiology,L,"DeVeaux, Linda (P)",JONESA 101, ,30,3,MWF,,900,950,,,JONESA 101,MWF,0900-0950
+BIOL,Biology,Fall 2024,23167,BIOL 3041L-01,Introductory Microbiology Lab,B,"DeVeaux, Linda (P) / Goncz, Kaarin",JONESA 230, ,16,1,T,,1400,1630,,,JONESA 230,T,1400-1630
+BIOL,Biology,Fall 2024,23168,BIOL 3041L-02,Introductory Microbiology Lab,B,"DeVeaux, Linda (P) / Goncz, Kaarin",JONESA 230, ,16,1,W,,1400,1630,,,JONESA 230,W,1400-1630
+BIOL,Biology,Fall 2024,23169,BIOL 3044-01,Introductory Ecology,L,"Duval, Benjamin (P)",JONESA 101, ,32,3,MWF,,1300,1350,,,JONESA 101,MWF,1300-1350
+BIOL,Biology,Fall 2024,23170,BIOL 3044L-01,Introductory Ecology Lab,B,"Duval, Benjamin (P)",JONESA 202, ,16,1,M,,1400,1630,,,JONESA 202,M,1400-1630
+BIOL,Biology,Fall 2024,24191,BIOL 3044L-02,Introductory Ecology Lab,B,"Duval, Benjamin (P)", , ,16,1,T,,1400,1630,,, ,T,1400-1630
+BIOL,Biology,Fall 2024,23171,BIOL 3045-01,Evolutionary Biology,L,"Sharbrough, Joel (P)",CRAMER 124, ,30,3,TR,,930,1045,,,CRAMER 124,TR,0930-1045
+BIOL,Biology,Fall 2024,23172,BIOL 3051-01,Anatomy & Physiology,L,"Wilkinson, Stephen (P)",JONESA 101, ,31,3,TR,,1230,1345,,,JONESA 101,TR,1230-1345
+BIOL,Biology,Fall 2024,23173,BIOL 3051L-01,Anatomy and Physiology Lab I,B,"Goncz, Kaarin (P)",JONESA 202, ,16,1,W,,1400,1630,,,JONESA 202,W,1400-1630
+BIOL,Biology,Fall 2024,23174,BIOL 3051L-02,Anatomy and Physiology Lab I,B,"Goncz, Kaarin (P)",JONESA 202, ,17,1,R,,1400,1630,,,JONESA 202,R,1400-1630
+BIOL,Biology,Fall 2024,24317,BIOL 4010-01,Neurology,L,"Thompson, Stewart (P)",CRAMER 124, ,10,3,TR,,1530,1645,,,CRAMER 124,TR,1530-1645
+BIOL,Biology,Fall 2024,23177,BIOL 4035-01,Bioinformatics,L,"Sharbrough, Joel (P)",MSEC 195, ,10,3,MWF,,1100,1150,,,MSEC 195,MWF,1100-1150
+BIOL,Biology,Fall 2024,23180,BIOL 4070-01,Biology CURE,L,"Sharbrough, Joel (P)",MSEC 195, ,4,2,MWF,,1100,1150,,,MSEC 195,MWF,1100-1150
+BIOL,Biology,Fall 2024,24315,BIOL 4089-01,Nutrient Biology,L,"Duval, Benjamin (P)",JONESA 102, ,10,3,R,,1700,1930,,,JONESA 102,R,1700-1930
+BIOL,Biology,Fall 2024,24654,BIOL 4091-01,Phenotoypic Consequences of wh,D,"Sharbrough, Joel (P)", , ,1,3,,,,,,, ,,
+BIOL,Biology,Fall 2024,23183,BIOL 5000-01,Directed Research,D,"Duval, Benjamin (P)", , ,10,Variable,,,,,,, ,,
+BIOL,Biology,Fall 2024,23184,BIOL 5000-02,Directed Research,D,"DeVeaux, Linda (P)", , ,10,Variable,,,,,,, ,,
+BIOL,Biology,Fall 2024,23185,BIOL 5000-03,Directed Research,D,"Kieft, Thomas (P)", , ,10,Variable,,,,,,, ,,
+BIOL,Biology,Fall 2024,24521,BIOL 5000-04,Directed Research,D,"Rogelj, Snezna (P)", , ,10,Variable,,,,,,, ,,
+BIOL,Biology,Fall 2024,23187,BIOL 5000-05,Directed Research,D,"Sharbrough, Joel (P)", , ,10,Variable,,,,,,, ,,
+BIOL,Biology,Fall 2024,23188,BIOL 5001-01,Graduate  Seminar,D,"Sharbrough, Joel (P)",CRAMER 120, ,20,1,M,,1200,1250,,,CRAMER 120,M,1200-1250
+BIOL,Biology,Fall 2024,23178,BIOL 5035-01,Bioinformatics,L,"Sharbrough, Joel (P)",MSEC 195, ,10,3,MWF,,1100,1150,,,MSEC 195,MWF,1100-1150
+BIOL,Biology,Fall 2024,24608,BIOL 5081-01,Applications of Molecular Biol,D,"DeVeaux, Linda (P)", , ,1,2,,,,,,, ,,
+BIOL,Biology,Fall 2024,24316,BIOL 5089-01,Nutrient Biology,B,"Duval, Benjamin (P)",JONESA 102, ,8,3,R,,1700,1930,,,JONESA 102,R,1700-1930
+BIOL,Biology,Fall 2024,23189,BIOL 5091-01,Thesis,T,"Duval, Benjamin (P)", , ,10,Variable,,,,,,, ,,
+BIOL,Biology,Fall 2024,23190,BIOL 5091-02,Thesis,T,"DeVeaux, Linda (P)", , ,10,Variable,,,,,,, ,,
+BIOL,Biology,Fall 2024,23191,BIOL 5091-03,Thesis,T,"Kieft, Thomas (P)", , ,10,Variable,,,,,,, ,,
+BIOL,Biology,Fall 2024,23192,BIOL 5091-04,Thesis,T,"Rogelj, Snezna (P)", , ,10,Variable,,,,,,, ,,
+BIOL,Biology,Fall 2024,23193,BIOL 5091-05,Thesis,T,"Sharbrough, Joel (P)", , ,10,Variable,,,,,,, ,,
+BIOL,Biology,Fall 2024,23194,BIOL 5091-06,Thesis,T,"Jones, Daniel (P)", , ,10,Variable,,,,,,, ,,
+BIOL,Biomedical Sciences,Fall 2024,23195,BMST 3001-01,Genetic Eng.: At the Bench,L,"Goncz, Kaarin (P)",JONESA 101, ,19,2,F,,1200,1250,,,JONESA 101,F,1200-1250
+BIOL,Biomedical Sciences,Fall 2024,23179,BMST 4095-01,Biomedical research & Design,L,"Sharbrough, Joel (P)",MSEC 195, ,16,2,MWF,,1100,1150,,,MSEC 195,MWF,1100-1150
+CC,Community Education Fine Arts,Fall 2024,24465,CEFA 1010C-01,Weaving I,L,"Gipson, Elizabeth (P)",FACE 114, ,12,1,W,,1530,1730,,,FACE 114,W,1530-1730
+CC,Community Education Fine Arts,Fall 2024,24463,CEFA 1020C-01,Drawing Studio,C,"Richardson, Judy (P)",FACE 114, ,12,1,T,,1730,1930,,,FACE 114,T,1730-1930
+CC,Community Education Fine Arts,Fall 2024,24271,CEFA 1026-01,Stained Glass,C,"Boracci, Theresa (P)",FACW 109, ,3,1,R,,1400,1700,,,FACW 109,R,1400-1700
+CC,Community Education Fine Arts,Fall 2024,24462,CEFA 1030C-01,Intro to Digital Photography,C,"Perreault, Anthony (P)",FACE 114, ,8,1,W,,1800,1900,,,FACE 114,W,1800-1900
+CC,Community Education Fine Arts,Fall 2024,24492,CEFA 1052C-01,Painting in Oils I,C,"Blomquist, Jenny (P)",FACW 104, ,17,1,T,,1415,1645,,,FACW 104,T,1415-1645
+CC,Community Education Fine Arts,Fall 2024,24493,CEFA 1052C-02,Painting in Oils I,C,"Blomquist, Jenny (P)",FACW 104, ,17,1,T,,1215,1410,,,FACW 104,T,1215-1410
+CC,Community Education Fine Arts,Fall 2024,24489,CEFA 1053C-01,Painting in Acrylics,C,"Montoya, Ramona (P)",FACW 104, ,17,1,R,,1800,2000,,,FACW 104,R,1800-2000
+CC,Community Education Fine Arts,Fall 2024,24490,CEFA 1053C-02,Painting in Acrylics,C,"Montoya, Ramona (P)",FACW 104, ,17,1,R,,1000,1200,,,FACW 104,R,1000-1200
+CC,Community Education Fine Arts,Fall 2024,24491,CEFA 1053C-03,Painting in Acrylics,C,"Montoya, Ramona (P)",FACW 104, ,17,1,T,,1000,1200,,,FACW 104,T,1000-1200
+CC,Community Education Fine Arts,Fall 2024,24494,CEFA 1055C-01,Intermediate Painting in Oils,C,"Blomquist, Jenny (P)",FACW 104, ,17,1,W,,1615,1845,,,FACW 104,W,1615-1845
+CC,Community Education Fine Arts,Fall 2024,24497,CEFA 1060C-01,Glass Mosaics,C,"Boracci, Theresa (P)",FACW 112, ,6,1,W,,1400,1650,,,FACW 112,W,1400-1650
+CC,Community Education Fine Arts,Fall 2024,24569,CEFA 1061C-01,Stained Glass,C,"Boracci, Theresa (P)",FACW 112, ,6,1,T,,1400,1650,,,FACW 112,T,1400-1650
+CC,Community Education Fine Arts,Fall 2024,24504,CEFA 1062C-01,Glass Fusing,C,"Boracci, Theresa (P)",FACW 112, ,6,1,W,,1000,1150,,,FACW 112,W,1000-1150
+CC,Community Education Fine Arts,Fall 2024,24461,CEFA 1070C-01,Hand Building in Clay,C,"Hatch, Patricia (P)",FACE 102, ,12,1,M,,1730,1930,,,FACE 102,M,1730-1930
+CC,Community Education Fine Arts,Fall 2024,24495,CEFA 1071C-01,Wheel Thrown Ceramics I,C,"Hatch, Patricia (P)",FACE 102, ,12,1,M,,1430,1630,,,FACE 102,M,1430-1630
+CC,Community Education Fine Arts,Fall 2024,24496,CEFA 1082C-01,Beginning Metal Arts/Lapidary,C,"Boracci, Theresa (P)",FACW 109, ,6,1,M,,1400,1650,,,FACW 109,M,1400-1650
+CC,Community Education Fine Arts,Fall 2024,24530,CEFA 1089C-02,Sculpture,O,"Richardson, Judy (P)",FACE 114, ,15,1,M,,1730,1930,,,FACE 114,M,1730-1930
+CC,Community Education Fine Arts,Fall 2024,24500,CEFA 1090C-01,Leatherwork,C,"Boracci, Theresa (P)", , ,7,1,T,,1830,2120,,, ,T,1830-2120
+CC,Community Education Fine Arts,Fall 2024,24499,CEFA 2061C-01,Stained Glass II,C,"Boracci, Theresa (P)",FACW 112, ,6,1,R,,1400,1650,,,FACW 112,R,1400-1650
+CC,Community Education Fine Arts,Fall 2024,24501,CEFA 2071C-01,Wheel Thrown Ceramics II,,, , ,0,1,,,,,,, ,,
+CC,Community Education Fine Arts,Fall 2024,24502,CEFA 2071C-02,Wheel Thrown Ceramics II,,, , ,0,1,,,,,,, ,,
+CC,Community Education Fine Arts,Fall 2024,24503,CEFA 2082C-01,Metal Arts/Lapidary II,C,"Boracci, Theresa (P)",FACW 109, ,7,1,M,,1830,2120,,,FACW 109,M,1830-2120
+CC,Community Education Phys Rec,Fall 2024,24480,CEPR 1000C-01,Weight Lifting,C,"Adams, Robert (P)",GYM WEIGHT RM, ,20,1,TR,,1900,1955,,,GYM WEIGHT RM,TR,1900-1955
+CC,Community Education Phys Rec,Fall 2024,24481,CEPR 1000C-02,Weight Lifting,C,"Adams, Robert (P)",GYM WEIGHT RM, ,20,1,TR,,2000,2055,,,GYM WEIGHT RM,TR,2000-2055
+CC,Community Education Phys Rec,Fall 2024,24482,CEPR 1000C-03,Weight Lifting,C,"Adams, Robert (P)",GYM WEIGHT RM, ,20,1,TR,,1800,1855,,,GYM WEIGHT RM,TR,1800-1855
+CC,Community Education Phys Rec,Fall 2024,24532,CEPR 1002C-01,Fitness Bootcamp,C,"Begay, Melissa (P)",GYM EAST GYM, ,30,1,MW,,1630,1720,,,GYM EAST GYM,MW,1630-1720
+CC,Community Education Phys Rec,Fall 2024,24505,CEPR 1003C-01,Spinning,C,"Padilla, Kim (P)", , ,12,1,MW,,630,730,,, ,MW,0630-0730
+CC,Community Education Phys Rec,Fall 2024,24506,CEPR 1003C-02,Spinning,C,"Padilla, Kim (P)", , ,12,1,TR,,630,730,,, ,TR,0630-0730
+CC,Community Education Phys Rec,Fall 2024,24507,CEPR 1003C-03,Spinning,C,"Demorest, Sara (P)", , ,12,1,MW,,1200,1300,,, ,MW,1200-1300
+CC,Community Education Phys Rec,Fall 2024,24508,CEPR 1003C-04,Spinning,C,"Padilla, Kim (P)", , ,12,1,MW,,1715,1815,,, ,MW,1715-1815
+CC,Community Education Phys Rec,Fall 2024,24520,CEPR 1008C-01,Beginning Golf,C,"Grijalva, Clemente (P)",GOLF , ,11,1,TR,,1300,1355,,,GOLF ,TR,1300-1355
+CC,Community Education Phys Rec,Fall 2024,24518,CEPR 1009C-01,Archery,C,"Olney, Brian (P)", , ,20,1,T,,1930,2125,,, ,T,1930-2125
+CC,Community Education Phys Rec,Fall 2024,24511,CEPR 1010C-01,Volleyball,C,"Sandoval, April (P) / Mojtabai, Navid", , ,24,1,TR,,1700,1800,,, ,TR,1700-1800
+CC,Community Education Phys Rec,Fall 2024,24519,CEPR 1011C-01,Basketball,C,"Armijo, Dezirae (P)", , ,25,1,MW,,1800,1855,,, ,MW,1800-1855
+CC,Community Education Phys Rec,Fall 2024,24509,CEPR 1012C-01,Indoor Soccer,C,"Armijo, Dezirae (P)", , ,25,1,MW,,2000,2055,,, ,MW,2000-2055
+CC,Community Education Phys Rec,Fall 2024,24510,CEPR 1012C-02,Indoor Soccer,C,"Armijo, Dezirae (P)", , ,25,1,MW,,2100,2155,,, ,MW,2100-2155
+CC,Community Education Phys Rec,Fall 2024,24512,CEPR 1014C-01,Rugby,C,"Oliphant, Jason (P)",FIELD ,SPEARE 117,20,1,T,R,1730,1825,1730,1825,FIELD  / SPEARE 117,T / R,1730-1825 / 1730-1825
+CC,Community Education Phys Rec,Fall 2024,24513,CEPR 1020C-01,Beginning Yoga,C,"Griffin-Taylor, Margaret (P)",SAC AUDITORIUM, ,20,1,MW,,1715,1810,,,SAC AUDITORIUM,MW,1715-1810
+CC,Community Education Phys Rec,Fall 2024,24514,CEPR 1020C-02,Beginning Yoga,C,"Begay, Melissa (P)", , ,20,1,TR,,1200,1250,,, ,TR,1200-1250
+CC,Community Education Phys Rec,Fall 2024,24515,CEPR 1022C-01,Slow Flow Yoga,C,"Griffin-Taylor, Margaret (P)",WEB-V WEB-V, ,25,1,TR,,1715,1815,,,WEB-V WEB-V,TR,1715-1815
+CC,Community Education Phys Rec,Fall 2024,24516,CEPR 1022C-02,Slow Flow Yoga,C,"Griffin-Taylor, Margaret (P)",SAC AUDITORIUM, ,20,1,MW,,1600,1655,,,SAC AUDITORIUM,MW,1600-1655
+CC,Community Education Phys Rec,Fall 2024,24517,CEPR 1023C-01,Pilates Matwork,C,"Marsyla, Carrie (P)",GYM EAST GYM, ,37,1,MW,,1200,1250,,,GYM EAST GYM,MW,1200-1250
+CC,Community Education Phys Rec,Fall 2024,24524,CEPR 1042C-01,Taijutsu,C,"George, Alexander (P)", , ,20,1,MW,,1830,1925,,, ,MW,1830-1925
+CC,Community Education Phys Rec,Fall 2024,24525,CEPR 1043C-01,Tai Chi Chuan,C,"Miller, Pnina (P)", , ,15,1,TR,,1630,1730,,, ,TR,1630-1730
+CC,Community Education Phys Rec,Fall 2024,24529,CEPR 1050C-01,Beginning Belly Dance,C,"Johnson, Julie (P)",GYM 1, ,20,1,MW,,1900,1955,,,GYM 1,MW,1900-1955
+CC,Community Education Phys Rec,Fall 2024,24526,CEPR 1061C-01,Beginning Rock Climbing,C,"Roberts, Scott (P)", , ,10,1,T,,1300,1655,,, ,T,1300-1655
+CC,Community Education Phys Rec,Fall 2024,24528,CEPR 2008C-01,Intermediate Golf,C,"Grijalva, Clemente (P)", , ,10,1,TR,,1100,1155,,, ,TR,1100-1155
+CC,Community Outreach Non-Credit,Fall 2024,24470,CONC 1001C-01,Piano I,C,"Benalil, Gaby (P)", , ,10,0,T,,1500,1655,,, ,T,1500-1655
+CC,Community Outreach Non-Credit,Fall 2024,24471,CONC 1005C-01,Chamber Orchestra: Community,C,"Benalil, Gaby (P)", , ,10,0,R,,1600,1750,,, ,R,1600-1750
+CC,Community Outreach Non-Credit,Fall 2024,24472,CONC 1006C-01,Welding For HS,C,"Gonzales, Kenneth (P)",SOC HS SHOP, ,30,0,F,,830,1230,,,SOC HS SHOP,F,0830-1230
+CC,Community Outreach Non-Credit,Fall 2024,24466,CONC 1007C-01,Welding Adult,C,"Gonzales, Kenneth (P)",SOC HS SHOP, ,30,0,TR,,1730,1930,,,SOC HS SHOP,TR,1730-1930
+CC,Community Outreach Non-Credit,Fall 2024,24595,CONC 1017C-01,Ceramics II,,, , ,1,0,,,,,,, ,,
+CC,Community Outreach Non-Credit,Fall 2024,24632,CONC 1050C-01,Beginning Belly Dancing: Comm,C,"Johnson, Julie (P)",GYM 1, ,20,0,MW,,2000,2055,,,GYM 1,MW,2000-2055
+CC,Community Outreach Non-Credit,Fall 2024,24577,CONC 1189-01,"Rock, Blues & Folk Performance",C,"Haverstick, Neil (P)",RH 232, ,20,0,W,,1700,1845,,,RH 232,W,1700-1845
+CEE,Civil Engineering,Fall 2024,24021,CE 101-01,Civil Engineering Seminar,S,"Carrico, Christian (P)",JONES 227, ,25,1,R,,1230,1320,,,JONES 227,R,1230-1320
+CEE,Civil Engineering,Fall 2024,23344,CE 3002-01,Intro to Structural Engr,L,"Cook, Wesley (P)",JONESA 102, ,18,3,MWF,,1000,1050,,,JONESA 102,MWF,1000-1050
+CEE,Civil Engineering,Fall 2024,23341,CE 4002-01,Intro to Transportation Engr,L,"Wilson, Claudia Mara (P)",WEIR 202, ,22,3,TR,,1230,1345,,,WEIR 202,TR,1230-1345
+CEE,Civil Engineering,Fall 2024,24417,CE 4003-01,Infrastructure,L,"Wilson, Claudia Mara (P)",JONESA 102, ,20,3,TR,,1530,1645,,,JONESA 102,TR,1530-1645
+CEE,Civil Engineering,Fall 2024,23342,CE 4007-01,Design of Concrete Structures,L,"Cook, Wesley (P)",JONESA 102, ,20,3,MWF,,800,850,,,JONESA 102,MWF,0800-0850
+CEE,Civil Engineering,Fall 2024,23343,CE 4081-01,Senior Engineering Design I,L,"Wilson, Claudia Mara (P)",JONESA 101, ,25,1,R,,1400,1515,,,JONESA 101,R,1400-1515
+CEE,Civil and Environmental Engr.,Fall 2024,24596,CEE 5002-01,Intro to Transport Engineering,L,"Wilson, Claudia Mara (P)",WEIR 202, ,3,3,TR,,1230,1345,,,WEIR 202,TR,1230-1345
+CEE,Civil and Environmental Engr.,Fall 2024,24418,CEE 5005-01,Infrastructure,L,"Wilson, Claudia Mara (P)",JONESA 102, ,5,3,TR,,1530,1645,,,JONESA 102,TR,1530-1645
+CEE,Civil and Environmental Engr.,Fall 2024,23347,CEE 5007-01,Design of Concrete Structures,L,"Cook, Wesley (P)",JONESA 102, ,20,3,MWF,,800,850,,,JONESA 102,MWF,0800-0850
+CEE,Civil and Environmental Engr.,Fall 2024,23349,CEE 5013-01,Air Resources Engineering,L,"Carrico, Christian (P)",JONESA 106,JONESA 106,5,4,F,TR,1500,1550,1530,1645,JONESA 106 / JONESA 106,F / TR,1500-1550 / 1530-1645
+CEE,Civil and Environmental Engr.,Fall 2024,24419,CEE 5071-01,Proces for Res Recov Wastewat,L,"Harb, Moustapha (P)",JONES 106, ,5,3,MWF,,1300,1350,,,JONES 106,MWF,1300-1350
+CEE,Civil and Environmental Engr.,Fall 2024,24236,CEE 5090-01,Independent Study,I,"Richardson, Clinton (P)", , ,10,Variable,,,,,,, ,,
+CEE,Civil and Environmental Engr.,Fall 2024,24251,CEE 5090-02,Independent Study,I,"Wilson, Claudia Mara (P)", , ,10,Variable,,,,,,, ,,
+CEE,Civil and Environmental Engr.,Fall 2024,23350,CEE 5091-01,Thesis,T,"Richardson, Clinton (P)", , ,2,Variable,,,,,,, ,,
+CEE,Civil and Environmental Engr.,Fall 2024,23351,CEE 5091-02,Thesis,T,"Carrico, Christian (P)", , ,2,Variable,,,,,,, ,,
+CEE,Civil and Environmental Engr.,Fall 2024,23353,CEE 5091-03,Thesis,T,"Wilson, Claudia Mara (P)", , ,2,Variable,,,,,,, ,,
+CEE,Civil and Environmental Engr.,Fall 2024,23355,CEE 5091-04,Thesis,T,"Morris Svoboda, Isabel (P)", , ,2,Variable,,,,,,, ,,
+CEE,Civil and Environmental Engr.,Fall 2024,24278,CEE 5091-05,Thesis,T,"Harb, Moustapha (P)", , ,2,Variable,,,,,,, ,,
+CEE,Civil and Environmental Engr.,Fall 2024,24600,CEE 5091-06,Thesis,T,"Cook, Wesley (P)", , ,2,Variable,,,,,,, ,,
+CEE,Environmental Engineering,Fall 2024,23390,ENVE 1001-01,Environmental Engr Seminar,,, , ,25,1,,,,,,, ,,
+CEE,Environmental Engineering,Fall 2024,23392,ENVE 2001-01,Intro to Envir. Science & Engr,,, , ,25,3,,,,,,, ,,
+CH E,Chemical Engineering,Fall 2024,23284,CH E 1010-01,Intro to Chemical Engineering,L,"Tartis, Michaelann (P)",MSEC 195, ,40,1,TR,,1300,1350,,,MSEC 195,TR,1300-1350
+CH E,Chemical Engineering,Fall 2024,23285,CH E 1010L-01,Intro to Chemical Engr. Lab,B,"Tartis, Michaelann (P)",JONES 201, ,22,1,T,,1400,1600,,,JONES 201,T,1400-1600
+CH E,Chemical Engineering,Fall 2024,23286,CH E 3026-01,Principles of Chemical Engr I,L,"Chowdhury, Sanchari (P)",MSEC 103, ,35,3,MWF,,1000,1050,,,MSEC 103,MWF,1000-1050
+CH E,Chemical Engineering,Fall 2024,23287,CH E 3049-01,Chemical Engr. Thermodynamics,L,"Bhattacharjee, Arjak (P)",LOPEZ 106, ,30,3,TR,,1230,1345,,,LOPEZ 106,TR,1230-1345
+CH E,Chemical Engineering,Fall 2024,23288,CH E 3071-01,Solution Methods for Chem Eng,L,"Choudhury, Pabitra (P)",CRAMER 127, ,20,3,TR,,1100,1215,,,CRAMER 127,TR,1100-1215
+CH E,Chemical Engineering,Fall 2024,23289,CH E 4045L-01,Unit Operations Lab,B,"Yu, Jianjia (P)",JONES 227, ,20,1,W,,1400,1700,,,JONES 227,W,1400-1700
+CH E,Chemical Engineering,Fall 2024,24326,CH E 4049-01,Nanostructures & Nanotech,L,"Chowdhury, Sanchari (P)",JONES 227, ,10,3,MWF,,800,850,,,JONES 227,MWF,0800-0850
+CH E,Chemical Engineering,Fall 2024,23290,CH E 4061-01,"Plant Design, Econ, & Mgmt I",L,"Leclerc, Corey (P)",JONES 106, ,15,3,TR,,1230,1345,,,JONES 106,TR,1230-1345
+CH E,Chemical Engineering,Fall 2024,24319,CH E 4068-01,"Surfaces,Interfaces, &Colloids",L,"Yu, Jianjia (P)",JONES 227, ,10,3,MWF,,1000,1050,,,JONES 227,MWF,1000-1050
+CH E,Chemical Engineering,Fall 2024,24570,CH E 4076-01,Drug Delivery Techniques,L,"Tartis, Michaelann (P)",JONES 227, ,15,3,TR,,930,1045,,,JONES 227,TR,0930-1045
+CH E,Chemical Engineering,Fall 2024,24324,CH E 5049-01,Nanostructures & Nanotech,L,"Chowdhury, Sanchari (P)",JONES 227, ,20,3,MWF,,800,850,,,JONES 227,MWF,0800-0850
+CH E,Chemical Engineering,Fall 2024,24325,CH E 5049-01D,Nanostructures & Nanotech,L,"Chowdhury, Sanchari (P)",WEB , ,10,3,MWF,,800,850,,,WEB ,MWF,0800-0850
+CH E,Chemical Engineering,Fall 2024,24320,CH E 5068-01,"Surfaces,Interfaces,&Colloids",L,"Yu, Jianjia (P)",JONES 227, ,20,3,MWF,,1000,1050,,,JONES 227,MWF,1000-1050
+CH E,Chemical Engineering,Fall 2024,24321,CH E 5068-01D,"Surfaces,Interfaces,&Colloids",L,"Yu, Jianjia (P)",WEB , ,10,3,MWF,,1000,1050,,,WEB ,MWF,1000-1050
+CH E,Chemical Engineering,Fall 2024,24322,CH E 5076-01,Drug Delivery Techniques,L,"Tartis, Michaelann (P)",JONES 227, ,7,3,TR,,930,1045,,,JONES 227,TR,0930-1045
+CH E,Chemical Engineering,Fall 2024,24323,CH E 5076-01D,Drug Delivery Techniques,L,"Tartis, Michaelann (P)",WEB , ,15,3,TR,,930,1045,,,WEB ,TR,0930-1045
+CH E,Chemical Engineering,Fall 2024,24625,CH E 5081-01,Catalyst Synthesis Techniques,D,"Leclerc, Corey (P)", , ,1,3,,,,,,, ,,
+CH E,Chemical Engineering,Fall 2024,23306,CH E 5085-01,Graduate Seminar,S,"Price, Seth (P)",JONES 227, ,20,1,F,,1200,1250,,,JONES 227,F,1200-1250
+CH E,Chemical Engineering,Fall 2024,23293,CH E 5091-01,Thesis,T,"Choudhury, Pabitra (P)", , ,10,Variable,,,,,,, ,,
+CH E,Chemical Engineering,Fall 2024,23294,CH E 5091-02,Thesis,T,"Chowdhury, Sanchari (P)", , ,10,Variable,,,,,,, ,,
+CH E,Chemical Engineering,Fall 2024,23295,CH E 5091-03,Thesis,T,"Leclerc, Corey (P)", , ,10,Variable,,,,,,, ,,
+CH E,Chemical Engineering,Fall 2024,23296,CH E 5091-04,Thesis,T,"Lee, Youngmin (P)", , ,10,Variable,,,,,,, ,,
+CH E,Chemical Engineering,Fall 2024,23307,CH E 5091-05,Thesis,T,"Yu, Jianjia (P)", , ,10,Variable,,,,,,, ,,
+CH E,Chemical Engineering,Fall 2024,23308,CH E 5091-06,Thesis,T,"Tartis, Michaelann (P)", , ,10,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23159,CHEM 0130-01,Issues in Chem and Biochem,L,"Khandelwal, Megha (P)",LOPEZ 216, ,10,1,W,,1200,1250,,,LOPEZ 216,W,1200-1250
+CHEM,Chemistry,Fall 2024,23142,CHEM 1120-01,Intro to Chemistry,L,"Madduma Bandarage, Ujith (P) / Koshkin, David / Martinez Pruet, Isabella",LOPEZ 106, ,26,4,MT,,1830,2120,,,LOPEZ 106,MT,1830-2120
+CHEM,Chemistry,Fall 2024,23072,CHEM 1215-01,General Chemistry I,L,"Madduma Bandarage, Ujith (P)",LOPEZ 106, ,40,3,MWF,,1000,1050,,,LOPEZ 106,MWF,1000-1050
+CHEM,Chemistry,Fall 2024,23073,CHEM 1215-02,General Chemistry I,L,"Ams, Mark (P)",LOPEZ 106, ,40,3,MWF,,1100,1150,,,LOPEZ 106,MWF,1100-1150
+CHEM,Chemistry,Fall 2024,23074,CHEM 1215-03,General Chemistry I,L,"Pias, Sally (P)",LOPEZ 106, ,40,3,MWF,,1200,1250,,,LOPEZ 106,MWF,1200-1250
+CHEM,Chemistry,Fall 2024,23147,CHEM 1215-04,General Chemistry I,L,"Madduma Bandarage, Ujith (P)",LOPEZ 106, ,40,3,MWF,,1300,1350,,,LOPEZ 106,MWF,1300-1350
+CHEM,Chemistry,Fall 2024,23075,CHEM 1215L-01,General Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Khan, Rifat",LOPEZ 134, ,24,1,M,,1400,1630,,,LOPEZ 134,M,1400-1630
+CHEM,Chemistry,Fall 2024,23076,CHEM 1215L-02,General Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Mehanna, Shimaa",LOPEZ 134, ,24,1,M,,1830,2100,,,LOPEZ 134,M,1830-2100
+CHEM,Chemistry,Fall 2024,23077,CHEM 1215L-03,General Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Happy, Nursat Nur",LOPEZ 134, ,25,1,T,,1400,1630,,,LOPEZ 134,T,1400-1630
+CHEM,Chemistry,Fall 2024,23078,CHEM 1215L-04,General Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Khan, Rifat",LOPEZ 134, ,24,1,T,,1830,2100,,,LOPEZ 134,T,1830-2100
+CHEM,Chemistry,Fall 2024,23079,CHEM 1215L-05,General Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Happy, Nursat Nur",LOPEZ 134, ,24,1,W,,1400,1630,,,LOPEZ 134,W,1400-1630
+CHEM,Chemistry,Fall 2024,23080,CHEM 1215L-06,General Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Mehanna, Shimaa",LOPEZ 134, ,24,1,W,,1830,2100,,,LOPEZ 134,W,1830-2100
+CHEM,Chemistry,Fall 2024,23114,CHEM 1215L-07,General Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Novak, Tobin",LOPEZ 134, ,24,1,R,,1400,1630,,,LOPEZ 134,R,1400-1630
+CHEM,Chemistry,Fall 2024,23115,CHEM 1215L-08,General Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Piyasena, Menake",LOPEZ 127, ,24,1,R,,1830,2100,,,LOPEZ 127,R,1830-2100
+CHEM,Chemistry,Fall 2024,23081,CHEM 1225-01,General Chemistry II,L,"Madduma Bandarage, Ujith (P)",LOPEZ 106, ,60,3,MWF,,900,950,,,LOPEZ 106,MWF,0900-0950
+CHEM,Chemistry,Fall 2024,23082,CHEM 1225L-01,General Chemistry II Lab,B,"Rubasinghege, Gayan (P) / Mathur, Miti",LOPEZ 135, ,24,1,T,,1400,1630,,,LOPEZ 135,T,1400-1630
+CHEM,Chemistry,Fall 2024,23083,CHEM 1225L-02,General Chemistry II Lab,B,"Rubasinghege, Gayan (P) / Mathur, Miti",LOPEZ 135, ,24,1,W,,1400,1630,,,LOPEZ 135,W,1400-1630
+CHEM,Chemistry,Fall 2024,23084,CHEM 1225L-03,General Chemistry II Lab,B,"Rubasinghege, Gayan (P) / Broten, Mason",LOPEZ 135, ,24,1,R,,1400,1630,,,LOPEZ 135,R,1400-1630
+CHEM,Chemistry,Fall 2024,23196,CHEM 3000-01,Directed Research,D,"Ams, Mark (P)", , ,10,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23197,CHEM 3000-02,Directed Research,D,"Patidar, Praveen (P)", , ,10,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23198,CHEM 3000-03,Directed Research,D,"Pias, Sally (P)", , ,10,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23199,CHEM 3000-04,Directed Research,D,"Rubasinghege, Gayan (P)", , ,10,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23200,CHEM 3000-05,Directed Research,D,"Piyasena, Menake (P)", , ,10,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23201,CHEM 3000-06,Directed Research,D,"Holubowitch, Nicolas (P)", , ,10,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23202,CHEM 3000-07,Directed Research,D,"Khandelwal, Megha (P)", , ,10,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23203,CHEM 3011-01,Quantitative Analysis,L,"Rubasinghege, Gayan (P)",MSEC 101, ,60,3,MWF,,1100,1150,,,MSEC 101,MWF,1100-1150
+CHEM,Chemistry,Fall 2024,23204,CHEM 3011L-01,Quantitative Analysis Lab,B,"Rubasinghege, Gayan (P) / Dick, Samuel",LOPEZ 136, ,18,1,M,,1400,1630,,,LOPEZ 136,M,1400-1630
+CHEM,Chemistry,Fall 2024,23205,CHEM 3011L-02,Quantitative Analysis Lab,B,"Rubasinghege, Gayan (P) / Schiller, Victor",LOPEZ 136, ,18,1,W,,1400,1630,,,LOPEZ 136,W,1400-1630
+CHEM,Chemistry,Fall 2024,23206,CHEM 3031-01,Physical Chemistry I,L,"Holubowitch, Nicolas (P)",WORKC 109, ,35,3,MWF,,1200,1250,,,WORKC 109,MWF,1200-1250
+CHEM,Chemistry,Fall 2024,23207,CHEM 3031L-01,Physical Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Senavirathna, Dhanika",LOPEZ 127, ,12,1,T,,1400,1630,,,LOPEZ 127,T,1400-1630
+CHEM,Chemistry,Fall 2024,23208,CHEM 3031L-02,Physical Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Crotzer, Sarah / Senavirathna, Dhanika",LOPEZ 127, ,12,1,W,,1400,1630,,,LOPEZ 127,W,1400-1630
+CHEM,Chemistry,Fall 2024,23210,CHEM 3033-01,Organic Chemistry I,L,"Ams, Mark (P)",MSEC 101, ,65,3,MWF,,900,950,,,MSEC 101,MWF,0900-0950
+CHEM,Chemistry,Fall 2024,23211,CHEM 3033L-01,Organic Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Kanaththage, Malsha Indeewari",LOPEZ 125, ,12,1,M,,1400,1630,,,LOPEZ 125,M,1400-1630
+CHEM,Chemistry,Fall 2024,23212,CHEM 3033L-02,Organic Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Zakaria, Md Golam",LOPEZ 125, ,12,1,T,,1400,1630,,,LOPEZ 125,T,1400-1630
+CHEM,Chemistry,Fall 2024,23215,CHEM 3033L-03,Organic Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Kanaththage, Malsha Indeewari",LOPEZ 125, ,12,1,R,,1400,1630,,,LOPEZ 125,R,1400-1630
+CHEM,Chemistry,Fall 2024,24256,CHEM 3033L-04,Organic Chemistry I Lab,B,"Rubasinghege, Gayan (P) / Zakaria, Md Golam",LOPEZ 125, ,12,1,W,,1400,1630,,,LOPEZ 125,W,1400-1630
+CHEM,Chemistry,Fall 2024,24649,CHEM 4000-04,Directed Research,D,"Rubasinghege, Gayan (P)", , ,10,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23216,CHEM 4011-01,Advanced Instrumental Methods,L,"Piyasena, Menake (P)",JONES 227, ,10,3,MWF,,900,950,,,JONES 227,MWF,0900-0950
+CHEM,Chemistry,Fall 2024,23217,CHEM 4011L-01,Advanced Instrumental Lab,B,"Rubasinghege, Gayan (P) / De Silva, Yagama Nipuni",LOPEZ 127, ,8,1,R,,1830,2100,,,LOPEZ 127,R,1830-2100
+CHEM,Chemistry,Fall 2024,23219,CHEM 4030-01,Chem and Biochem Seminar,L,"Holubowitch, Nicolas (P)",LOPEZ 106, ,20,1,F,,1400,1450,,,LOPEZ 106,F,1400-1450
+CHEM,Chemistry,Fall 2024,23220,CHEM 4041-01,Biochemistry I,L,"Pias, Sally (P)",SPEARE 117, ,40,3,MWF,,1000,1050,,,SPEARE 117,MWF,1000-1050
+CHEM,Chemistry,Fall 2024,23221,CHEM 4041L-01,Biochemistry I Lab,B,"Patidar, Praveen (P) / Biswas, Rana",LOPEZ 127, ,12,1,M,,1400,1630,,,LOPEZ 127,M,1400-1630
+CHEM,Chemistry,Fall 2024,23222,CHEM 4041L-02,Biochemistry I Lab,B,"Patidar, Praveen (P) / Biswas, Rana",LOPEZ 127, ,12,1,R,,1400,1630,,,LOPEZ 127,R,1400-1630
+CHEM,Chemistry,Fall 2024,24642,CHEM 4089-01,Lab Safety for Teaching Assist,L,"Rubasinghege, Gayan (P) / Patidar, Praveen / Piyasena, Menake",LOPEZ 216, ,5,1,F,,1600,1700,,,LOPEZ 216,F,1600-1700
+CHEM,Chemistry,Fall 2024,23233,CHEM 4093-01,Senior Research & Thesis I,D,"Ams, Mark (P) / Pias, Sally", , ,5,1,R,,1230,1330,,, ,R,1230-1330
+CHEM,Chemistry,Fall 2024,23235,CHEM 4093-02,Senior Research & Thesis I,D,"Patidar, Praveen (P) / Pias, Sally", , ,5,1,R,,1230,1330,,, ,R,1230-1330
+CHEM,Chemistry,Fall 2024,23236,CHEM 4093-03,Senior Research & Thesis I,D,"Pias, Sally (P)", , ,5,1,R,,1230,1330,,, ,R,1230-1330
+CHEM,Chemistry,Fall 2024,23237,CHEM 4093-04,Senior Research & Thesis I,D,"Rubasinghege, Gayan (P) / Pias, Sally", , ,5,1,R,,1230,1330,,, ,R,1230-1330
+CHEM,Chemistry,Fall 2024,23238,CHEM 4093-05,Senior Research & Thesis I,D,"Piyasena, Menake (P) / Pias, Sally", , ,5,1,R,,1230,1330,,, ,R,1230-1330
+CHEM,Chemistry,Fall 2024,23240,CHEM 4093-06,Senior Research & Thesis I,D,"Holubowitch, Nicolas (P) / Pias, Sally", , ,5,1,R,,1230,1330,,, ,R,1230-1330
+CHEM,Chemistry,Fall 2024,23242,CHEM 4093-07,Senior Research & Thesis I,D,"Khandelwal, Megha (P) / Pias, Sally", , ,5,1,R,,1230,1330,,, ,R,1230-1330
+CHEM,Chemistry,Fall 2024,24381,CHEM 4093-08,Senior Research & Thesis I,D,"Madduma Bandarage, Ujith (P) / Pias, Sally", , ,5,Variable,R,,1230,1330,,, ,R,1230-1330
+CHEM,Chemistry,Fall 2024,24650,CHEM 4093-09,Senior Research & Thesis I,D,"Lee, Youngmin (P) / Pias, Sally", , ,10,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23245,CHEM 5000-01,Directed Research,D,"Ams, Mark (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23246,CHEM 5000-02,Directed Research,D,"Patidar, Praveen (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23247,CHEM 5000-03,Directed Research,D,"Pias, Sally (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23249,CHEM 5000-04,Directed Research,D,"Piyasena, Menake (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23250,CHEM 5000-05,Directed Research,D,"Rubasinghege, Gayan (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23251,CHEM 5000-06,Directed Research,D,"Holubowitch, Nicolas (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,24460,CHEM 5000-07,Directed Research,D,"Khandelwal, Megha (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,24635,CHEM 5000-08,Directed Research,D,"Bhattacharjee, Arjak (P)", , ,1,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23253,CHEM 5029-01,Graduate Seminar,S,"Holubowitch, Nicolas (P)",LOPEZ 106, ,30,1,F,,1400,1515,,,LOPEZ 106,F,1400-1515
+CHEM,Chemistry,Fall 2024,24614,CHEM 5055-01,Research Proposal Writing,D,"Rubasinghege, Gayan (P)", , ,2,2,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,24686,CHEM 5081-1,Geochemistry of CCVS,D,"Rahnema, Hamid (P)", , ,1,3,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,24378,CHEM 5089-02,Chemistry of Biomolecules,L,"Patidar, Praveen (P)",JONES 106, ,10,3,TR,,930,1045,,,JONES 106,TR,0930-1045
+CHEM,Chemistry,Fall 2024,24379,CHEM 5089-03,Ethics & Safety,L,"Rubasinghege, Gayan (P)",JONES 106, ,10,3,MWF,,900,950,,,JONES 106,MWF,0900-0950
+CHEM,Chemistry,Fall 2024,24380,CHEM 5089-04,Proposal Writing,L,"Patidar, Praveen (P)",MSEC 103, ,15,3,TR,,1230,1345,,,MSEC 103,TR,1230-1345
+CHEM,Chemistry,Fall 2024,24630,CHEM 5089-05,Lab Safety for Teaching Assist,L,"Rubasinghege, Gayan (P) / Patidar, Praveen / Piyasena, Menake",LOPEZ 216, ,11,1,F,,1600,1700,,,LOPEZ 216,F,1600-1700
+CHEM,Chemistry,Fall 2024,23258,CHEM 5091-01,Thesis,T,"Altig, Jeff (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23259,CHEM 5091-02,Thesis,T,"Ams, Mark (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23261,CHEM 5091-03,Thesis,T,"Patidar, Praveen (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23262,CHEM 5091-04,Thesis,T,"Pias, Sally (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23264,CHEM 5091-05,Thesis,T,"Piyasena, Menake (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23265,CHEM 5091-06,Thesis,T,"Rubasinghege, Gayan (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23266,CHEM 5091-07,Thesis,T,"Holubowitch, Nicolas (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23268,CHEM 5091-08,Thesis,T,"Holubowitch, Nicolas (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23269,CHEM 5095-01,Dissertation,P,"Altig, Jeff (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23270,CHEM 5095-02,Dissertation,P,"Ams, Mark (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23271,CHEM 5095-03,Dissertation,P,"Patidar, Praveen (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23272,CHEM 5095-04,Dissertation,P,"Pias, Sally (P)", , ,5,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23274,CHEM 5095-05,Dissertation,P,"Piyasena, Menake (P)", , ,8,Variable,,,,,,, ,,
+CHEM,Chemistry,Fall 2024,23275,CHEM 5095-06,Dissertation,P,"Rubasinghege, Gayan (P)", , ,5,Variable,,,,,,, ,,
+CSE,Accounting,Fall 2024,23160,ACCT 2110-01,Fundamentals of Accounting I,L,"Ghimire, Suraj (P)",CRAMER 120, ,25,3,TR,,930,1045,,,CRAMER 120,TR,0930-1045
+CSE,Accounting,Fall 2024,23744,ACCT 3071-01,Financial Accounting,L,"Marsyla, Carrie (P) / Jackson (SIG), Kyle",CRAMER 120, ,20,3,MW,,1700,1815,,,CRAMER 120,MW,1700-1815
+CSE,Business Finance,Fall 2024,24442,BFIN 3002-01,Intro Financial Economics,L,"Wang, Haoying (P)",CRAMER 101, ,20,3,TR,,1230,1345,,,CRAMER 101,TR,1230-1345
+CSE,Computer Science & Engineering,Fall 2024,23009,CSE 101-01,Intro Comp Sci & Info Tech,L,"Knowles, Amy (P)",WEIR 102, ,60,2,MW,,1000,1050,,,WEIR 102,MW,1000-1050
+CSE,Computer Science & Engineering,Fall 2024,23106,CSE 101L-01,Intro Comp Sci & Info Tech Lab,B,"Knowles, Amy (P)",WEIR 102, ,60,0,F,,1000,1050,,,WEIR 102,F,1000-1050
+CSE,Computer Science & Engineering,Fall 2024,23010,CSE 107-01,Intro to Programming Python,L,"Knowles, Amy (P)",CRAMER 120, ,40,4,MWF,,1300,1350,,,CRAMER 120,MWF,1300-1350
+CSE,Computer Science & Engineering,Fall 2024,23011,CSE 107L-01,Intro Programming Python Lab,B,"Knowles, Amy (P)",CRAMER 120, ,40,0,MWF,,1400,1450,,,CRAMER 120,MWF,1400-1450
+CSE,Computer Science & Engineering,Fall 2024,23006,CSE 113-01,Introduction to Programming,L,"Kolen, John (P)",CRAMER 203, ,35,4,TR,,1100,1215,,,CRAMER 203,TR,1100-1215
+CSE,Computer Science & Engineering,Fall 2024,23109,CSE 113-02,Introduction to Programming,L,"Algaraibeh, Sana'a (P)",CRAMER 107, ,35,4,MWF,,900,950,,,CRAMER 107,MWF,0900-0950
+CSE,Computer Science & Engineering,Fall 2024,23019,CSE 113L-01,Intro to Programming Lab,B,"Kolen, John (P)",CRAMER 203, ,35,0,TR,,1230,1345,,,CRAMER 203,TR,1230-1345
+CSE,Computer Science & Engineering,Fall 2024,23110,CSE 113L-02,Intro to Programming Lab,B,"Algaraibeh, Sana'a (P)",CRAMER 239, ,35,0,MWF,,1600,1650,,,CRAMER 239,MWF,1600-1650
+CSE,Computer Science & Engineering,Fall 2024,23004,CSE 122-01,Algorithms & Data Structures,L,"Algaraibeh, Sana'a (P)",CRAMER 203, ,40,3,MWF,,1400,1450,,,CRAMER 203,MWF,1400-1450
+CSE,Computer Science & Engineering,Fall 2024,23005,CSE 221-01,Computer System Organization,L,"Kolen, John (P)",CRAMER 120, ,50,3,TR,,1530,1645,,,CRAMER 120,TR,1530-1645
+CSE,Computer Science & Engineering,Fall 2024,23014,CSE 241-01,Foundtns of Computer Science,L,"Ramyaa, No Given Name (P)",CRAMER 239, ,50,3,MWF,,1400,1450,,,CRAMER 239,MWF,1400-1450
+CSE,Computer Science & Engineering,Fall 2024,23108,CSE 241L-01,Foundtns of Computer Sci Lab,B,"Ramyaa, No Given Name (P)",CRAMER 124, ,50,0,F,,900,950,,,CRAMER 124,F,0900-0950
+CSE,Computer Science & Engineering,Fall 2024,23462,CSE 3021-01,Internet and Web Programming,L,"Algaraibeh, Sana'a (P)",CRAMER 239, ,40,3,MWF,,1100,1150,,,CRAMER 239,MWF,1100-1150
+CSE,Computer Science & Engineering,Fall 2024,23463,CSE 3025-01,Princ. of Operating Systems,L,"Zheng, Jun (P)",CRAMER 239, ,40,4,TR,,1230,1345,,,CRAMER 239,TR,1230-1345
+CSE,Computer Science & Engineering,Fall 2024,23464,CSE 3025L-01,Operating Systems Lab,B,"Zheng, Jun (P)",CRAMER 239, ,40,0,T,,1700,1750,,,CRAMER 239,T,1700-1750
+CSE,Computer Science & Engineering,Fall 2024,23465,CSE 3044-01,Design & Analysis of Algorithm,L,"Ramyaa, No Given Name (P)",CRAMER 124, ,50,4,MWF,,1200,1250,,,CRAMER 124,MWF,1200-1250
+CSE,Computer Science & Engineering,Fall 2024,23466,CSE 3044L-01,Design & Anlys Algorithm Lab,B,"Ramyaa, No Given Name (P)",CRAMER 124, ,50,0,W,,900,950,,,CRAMER 124,W,0900-0950
+CSE,Computer Science & Engineering,Fall 2024,23467,CSE 3053-01,Introduct to Computer Networks,L,"Soliman, Hamdy (P)",CRAMER 101, ,40,3,TR,,1530,1645,,,CRAMER 101,TR,1530-1645
+CSE,Computer Science & Engineering,Fall 2024,23468,CSE 3091-01,Cybersecurity Professional Dev,L,"Shin, Dongwan (P)",CRAMER 203, ,25,1,W,,1700,1750,,,CRAMER 203,W,1700-1750
+CSE,Computer Science & Engineering,Fall 2024,23469,CSE 4011-01,Data Science,L,"Kolen, John (P)",CRAMER 203, ,15,3,TR,,1400,1515,,,CRAMER 203,TR,1400-1515
+CSE,Computer Science & Engineering,Fall 2024,23470,CSE 4041-01,Cryptography and Applications,L,"Shin, Dongwan (P)",CRAMER 120, ,16,3,TR,,1100,1215,,,CRAMER 120,TR,1100-1215
+CSE,Computer Science & Engineering,Fall 2024,23471,CSE 4064-01,Intro to Soft Computing,L,"Soliman, Hamdy (P)",CRAMER 203, ,15,3,W,,1800,2030,,,CRAMER 203,W,1800-2030
+CSE,Computer Science & Engineering,Fall 2024,23472,CSE 4064-01D,Intro to Soft Computing,L,"Soliman, Hamdy (P)",WEB , ,15,3,W,,1800,2030,,,WEB ,W,1800-2030
+CSE,Computer Science & Engineering,Fall 2024,23476,CSE 4089-01,Computer Vision,L,"Zheng, Jun (P)",SPEARE 20, ,15,3,TR,,930,1045,,,SPEARE 20,TR,0930-1045
+CSE,Computer Science & Engineering,Fall 2024,23536,CSE 4089-02D,Foundations of Info Security,L,"Burnham, Blaine (P)",WEB , ,15,3,T,,1530,1830,,,WEB ,T,1530-1830
+CSE,Computer Science & Engineering,Fall 2024,23482,CSE 4093-01,Undergraduate Thesis,T,"Liebrock, Lorie (P)", , ,10,1,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23484,CSE 4093-02,Undergraduate Thesis,T,"Mazumdar, Subhasish (P)", , ,10,1,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23486,CSE 4093-03,Undergraduate Thesis,T,"Ramyaa, No Given Name (P)", , ,10,1,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23488,CSE 4093-04,Undergraduate Thesis,T,"Shin, Dongwan (P)", , ,10,1,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23490,CSE 4093-05,Undergraduate Thesis,T,"Soliman, Hamdy (P)", , ,10,1,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23491,CSE 4093-06,Undergraduate Thesis,T,"Zheng, Jun (P)", , ,10,1,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23549,CSE 4094-01,Undergraduate Thesis,T,"Liebrock, Lorie (P)", , ,10,2,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23550,CSE 4094-02,Undergraduate Thesis,T,"Mazumdar, Subhasish (P)", , ,10,2,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23551,CSE 4094-03,Undergraduate Thesis,T,"Ramyaa, No Given Name (P)", , ,10,2,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23552,CSE 4094-04,Undergraduate Thesis,T,"Shin, Dongwan (P)", , ,10,2,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23553,CSE 4094-05,Undergraduate Thesis,T,"Soliman, Hamdy (P)", , ,10,2,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23554,CSE 4094-06,Undergraduate Thesis,T,"Zheng, Jun (P)", , ,10,2,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23555,CSE 4094-07,Undergraduate Thesis,T,"Jeffery, Clinton (P)", , ,10,2,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23532,CSE 5000-01,Directed Research,D,"Liebrock, Lorie (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23533,CSE 5000-02,Directed Research,D,"Mazumdar, Subhasish (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23537,CSE 5000-03,Directed Research,D,"Ramyaa, No Given Name (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23538,CSE 5000-04,Directed Research,D,"Shin, Dongwan (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23539,CSE 5000-05,Directed Research,D,"Soliman, Hamdy (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23540,CSE 5000-06,Directed Research,D,"Zheng, Jun (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23541,CSE 5000-07,Directed Research,D,"Jeffery, Clinton (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23542,CSE 5041-01,Advanced Cryptography,L,"Shin, Dongwan (P)",CRAMER 120, ,15,3,TR,,1100,1215,,,CRAMER 120,TR,1100-1215
+CSE,Computer Science & Engineering,Fall 2024,23543,CSE 5061-01,Foundtns of Informatn Security,L,"Burnham, Blaine (P)",JONES 106, ,15,3,T,,1830,2030,,,JONES 106,T,1830-2030
+CSE,Computer Science & Engineering,Fall 2024,23544,CSE 5067-01,Soft Computing,L,"Soliman, Hamdy (P)",CRAMER 124, ,15,3,W,,1800,2030,,,CRAMER 124,W,1800-2030
+CSE,Computer Science & Engineering,Fall 2024,23548,CSE 5067-01D,Soft Computing,L,"Soliman, Hamdy (P)",WEB , ,15,3,W,,1800,2030,,,WEB ,W,1800-2030
+CSE,Computer Science & Engineering,Fall 2024,23545,CSE 5085-01,Graduate Seminar,S,"Jeffery, Clinton (P)",CRAMER 203,CRAMER 203,15,3,WF,M,1500,1550,1730,1820,CRAMER 203 / CRAMER 203,WF / M,1500-1550 / 1730-1820
+CSE,Computer Science & Engineering,Fall 2024,23547,CSE 5085-01D,Graduate Seminar,S,"Jeffery, Clinton (P)",WEB ,WEB ,15,3,WF,M,1500,1550,1730,1820,WEB  / WEB ,WF / M,1500-1550 / 1730-1820
+CSE,Computer Science & Engineering,Fall 2024,23556,CSE 5089-01,Intro to Data Science,L,"Kolen, John (P)",CRAMER 203, ,15,3,TR,,1400,1515,,,CRAMER 203,TR,1400-1515
+CSE,Computer Science & Engineering,Fall 2024,23587,CSE 5089-03,Computer Vision,L,"Zheng, Jun (P)",SPEARE 116, ,15,3,TR,,1530,1645,,,SPEARE 116,TR,1530-1645
+CSE,Computer Science & Engineering,Fall 2024,23563,CSE 5090-01,Independent Study,I,"Liebrock, Lorie (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,24024,CSE 5090-02,Independent Study,I,"Shin, Dongwan (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23565,CSE 5090-03,Independent Study,I,"Ramyaa, No Given Name (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23567,CSE 5090-04,Independent Study,I,"Mazumdar, Subhasish (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23568,CSE 5090-05,Independent Study,I,"Soliman, Hamdy (P)", , ,50,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23569,CSE 5090-06,Independent Study,I,"Zheng, Jun (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23571,CSE 5090-07,Independent Study,I,"Shin, Dongwan (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23572,CSE 5091-01,Thesis,T,"Liebrock, Lorie (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23574,CSE 5091-02,Thesis,T,"Mazumdar, Subhasish (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23576,CSE 5091-03,Thesis,T,"Ramyaa, No Given Name (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23594,CSE 5091-04,Thesis,T,"Shin, Dongwan (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23607,CSE 5091-05,Thesis,T,"Soliman, Hamdy (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23611,CSE 5091-06,Thesis,T,"Zheng, Jun (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23612,CSE 5091-07,Thesis,T,"Jeffery, Clinton (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23613,CSE 5095-01,Dissertation,P,"Liebrock, Lorie (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23614,CSE 5095-02,Dissertation,P,"Mazumdar, Subhasish (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23616,CSE 5095-03,Dissertation,P,"Ramyaa, No Given Name (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23618,CSE 5095-04,Dissertation,P,"Shin, Dongwan (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23619,CSE 5095-05,Dissertation,P,"Soliman, Hamdy (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23620,CSE 5095-06,Dissertation,P,"Zheng, Jun (P)", , ,10,Variable,,,,,,, ,,
+CSE,Computer Science & Engineering,Fall 2024,23621,CSE 5095-07,Dissertation,P,"Jeffery, Clinton (P)", , ,10,Variable,,,,,,, ,,
+CSE,Economics,Fall 2024,23153,ECON 2120-01,Principles of Microeconomics,L,"Ghimire, Suraj (P)",CRAMER 120, ,45,3,TR,,1230,1345,,,CRAMER 120,TR,1230-1345
+CSE,Engineering Management,Fall 2024,24213,EMGT 5001-01,Mgt Science for Engr Mgt,D,"Zhang, Jiakai (P)",CRAMER 239, ,20,3,W,,1700,2000,,,CRAMER 239,W,1700-2000
+CSE,Engineering Management,Fall 2024,23655,EMGT 5001-01D,Mgt Science for Engr Mgt,D,"Zhang, Jiakai (P)",WEB , ,20,3,W,,1700,2000,,,WEB ,W,1700-2000
+CSE,Engineering Management,Fall 2024,24589,EMGT 5001-02,Mgt Science for Engr Mgt,D,"Zhang, Jiakai (P)",CRAMER 239, ,20,3,W,,1700,2000,,,CRAMER 239,W,1700-2000
+CSE,Engineering Management,Fall 2024,24588,EMGT 5002-01,Financial Management,L,"Wang, Haoying (P)",CRAMER 203, ,20,3,T,,1700,2000,,,CRAMER 203,T,1700-2000
+CSE,Engineering Management,Fall 2024,24587,EMGT 5002-01D,Financial Management,L,"Wang, Haoying (P)",WEB-V , ,20,3,T,,1700,2000,,,WEB-V ,T,1700-2000
+CSE,Engineering Management,Fall 2024,24590,EMGT 5002-02,Financial Management,L,"Wang, Haoying (P)",CRAMER 203, ,20,3,T,,1700,2000,,,CRAMER 203,T,1700-2000
+CSE,Engineering Management,Fall 2024,24214,EMGT 5004-01,Engineering Statistics,L,"Ghimire, Suraj (P)",CRAMER 120, ,20,3,T,,1700,2000,,,CRAMER 120,T,1700-2000
+CSE,Engineering Management,Fall 2024,23749,EMGT 5004-01D,Engineering Statistics,L,"Ghimire, Suraj (P)",WEB , ,20,3,T,,1700,2000,,,WEB ,T,1700-2000
+CSE,Engineering Management,Fall 2024,24215,EMGT 5006-01,Managing HR in Tech Organizati,L,"Li, Xuanye (P)",SPEARE 19, ,20,3,R,,1700,2000,,,SPEARE 19,R,1700-2000
+CSE,Engineering Management,Fall 2024,23658,EMGT 5006-01D,Managing HR in Tech Organizati,L,"Li, Xuanye (P)",WEB , ,20,3,R,,1700,2000,,,WEB ,R,1700-2000
+CSE,Engineering Management,Fall 2024,23661,EMGT 5007-01D,Technology Entrepreneurship,L,"Shaanan, Gideon (P)",WEB , ,10,3,M,,1700,2000,,,WEB ,M,1700-2000
+CSE,Engineering Management,Fall 2024,24229,EMGT 5089-01D,Introduction to Space Industry,L,"Kennedy, Bryce (P)",WEB-V , ,20,3,W,,1700,2000,,,WEB-V ,W,1700-2000
+CSE,Engineering Management,Fall 2024,23664,EMGT 5090-01,Independent Study,D,"Wang, Haoying (P)",TBA , ,10,Variable,,,,,,,TBA ,,
+CSE,Engineering Management,Fall 2024,23666,EMGT 5090-02,Independent Study,D,"Zhang, Jiakai (P)", , ,10,Variable,,,,,,, ,,
+CSE,Engineering Management,Fall 2024,24440,EMGT 5090-03,Independent Study,I,"Ghimire, Suraj (P)", , ,10,Variable,,,,,,, ,,
+CSE,Engineering Management,Fall 2024,24441,EMGT 5090-04,Independent Study,I,"Li, Xuanye (P)", , ,10,Variable,,,,,,, ,,
+CSE,Entrepreneurship,Fall 2024,24216,ENTR 0189-01,Intro to Entrepreneurship,L,"Ghimire, Suraj (P)",CRAMER 203, ,20,3,R,,1700,2000,,,CRAMER 203,R,1700-2000
+CSE,Information Technology,Fall 2024,23107,IT 101-01,Intro to Comp Sci & Info Tech,L,"Knowles, Amy (P)",WEIR 102, ,50,2,MW,,1000,1050,,,WEIR 102,MW,1000-1050
+CSE,Information Technology,Fall 2024,23154,IT 101L-01,Intro to Comp Sci Lab,B,"Knowles, Amy (P)",CRAMER 120, ,50,0,F,,1000,1050,,,CRAMER 120,F,1000-1050
+CSE,Information Technology,Fall 2024,23012,IT 107-01,Intro to Programming Python,L,"Knowles, Amy (P)",CRAMER 120, ,40,4,MWF,,1300,1350,,,CRAMER 120,MWF,1300-1350
+CSE,Information Technology,Fall 2024,23013,IT 107L-01,Intro Programming Python Lab,B,"Knowles, Amy (P)",CRAMER 203, ,40,0,MWF,,1200,1250,,,CRAMER 203,MWF,1200-1250
+CSE,Information Technology,Fall 2024,23007,IT 113-01,Introduction to Programming,L,"Kolen, John (P)",CRAMER 203, ,35,4,TR,,1100,1215,,,CRAMER 203,TR,1100-1215
+CSE,Information Technology,Fall 2024,23117,IT 113-02,Introduction to Programming,L,"Algaraibeh, Sana'a (P)",CRAMER 239, ,35,4,MWF,,900,950,,,CRAMER 239,MWF,0900-0950
+CSE,Information Technology,Fall 2024,23020,IT 113L-01,Intro to Programming Lab,B,"Kolen, John (P)",CRAMER 203, ,35,0,TR,,1230,1345,,,CRAMER 203,TR,1230-1345
+CSE,Information Technology,Fall 2024,23118,IT 113L-02,Intro to Programming Lab,B,"Algaraibeh, Sana'a (P)",CRAMER 239, ,35,0,MWF,,1600,1650,,,CRAMER 239,MWF,1600-1650
+CSE,Information Technology,Fall 2024,23002,IT 122-01,Data Structure and Algorithms,L,"Algaraibeh, Sana'a (P)",CRAMER 203, ,40,3,MWF,,1400,1450,,,CRAMER 203,MWF,1400-1450
+CSE,Information Technology,Fall 2024,23624,IT 3021-01,Internet & Web Programming,L,"Algaraibeh, Sana'a (P)",CRAMER 239, ,40,3,MWF,,1100,1150,,,CRAMER 239,MWF,1100-1150
+CSE,Information Technology,Fall 2024,23627,IT 3053-01,Introduct to Computer Networks,L,"Soliman, Hamdy (P)",CRAMER 101, ,40,3,TR,,1530,1645,,,CRAMER 101,TR,1530-1645
+CSE,Information Technology,Fall 2024,23628,IT 4041-01,Cryptography & Applications,L,"Shin, Dongwan (P)",CRAMER 120, ,15,3,TR,,1100,1215,,,CRAMER 120,TR,1100-1215
+CSE,Information Technology,Fall 2024,23630,IT 4081-01,Senior IT Design Project,L,"Shin, Dongwan (P)",CRAMER 120, ,15,3,W,,900,1030,,,CRAMER 120,W,0900-1030
+CSE,Information Technology,Fall 2024,23631,IT 4089-01,Computer Vision,L,"Zheng, Jun (P)",SPEARE 20, ,15,3,TR,,930,1045,,,SPEARE 20,TR,0930-1045
+CSE,Management,Fall 2024,23729,MGMT 3030-01,Management Behavior & Org.,L,"Li, Xuanye (P)",SPEARE 19, ,20,3,TR,,1100,1215,,,SPEARE 19,TR,1100-1215
+CSE,Management,Fall 2024,23735,MGMT 4007-01D,Technology Entrepreneurship,L,"Shaanan, Gideon (P)",WEB , ,20,3,M,,1700,2000,,,WEB ,M,1700-2000
+CSE,Management,Fall 2024,23737,MGMT 4072-01,Prod & Operations Mgmt,L,"Zhang, Jiakai (P)",CRAMER 120, ,20,3,MW,,1500,1615,,,CRAMER 120,MW,1500-1615
+CSE,Management,Fall 2024,23739,MGMT 4089-01,Human Resource Management,L,"Li, Xuanye (P)",SPEARE 19, ,20,3,R,,1700,2000,,,SPEARE 19,R,1700-2000
+E&ES,Environmental Science,Fall 2024,24414,ENVS 4089-01,Indigenous Perspectives in ES,L,"Tsosie, Ranalda (P)",MSEC 195, ,20,3,MWF,,900,950,,,MSEC 195,MWF,0900-0950
+E&ES,Geobiology,Fall 2024,23224,GEOB 5000-01,Directed Study,L,"Jones, Daniel (P)", , ,10,Variable,,,1600,1700,,, ,,1600-1700
+E&ES,Geobiology,Fall 2024,24386,GEOB 5015-01,Geomicrobiology,L,"Jones, Daniel (P)",MSEC 105, ,10,3,MWF,,1300,1350,,,MSEC 105,MWF,1300-1350
+E&ES,Geobiology,Fall 2024,23847,GEOB 5089-01,Fndmtls of Sci comput sem,L,"Naliboff, John (P)",MSEC 203, ,10,1,W,,1300,1350,,,MSEC 203,W,1300-1350
+E&ES,Geobiology,Fall 2024,23225,GEOB 5093-01,Seminar,S,"Coyte, Rachel (P)",MSEC 101, ,10,1,R,,1600,1700,,,MSEC 101,R,1600-1700
+E&ES,Geobiology,Fall 2024,23226,GEOB 5095-01,Dissertation,P,"Jones, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23227,GEOC 5000-01,Directed Research,D,"Dunbar, Nelia (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23229,GEOC 5000-02,Directed Research,D,"Frey, Bonnie (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23231,GEOC 5000-03,Directed Research,D,"Gysi, Alexander (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23232,GEOC 5000-04,Directed Research,D,"Harrison, James (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23234,GEOC 5000-05,Directed Research,D,"Heizler, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23239,GEOC 5000-06,Directed Research,D,"Hurtig, Nicole (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23241,GEOC 5000-07,Directed Research,D,"Jones, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23243,GEOC 5000-08,Directed Research,D,"Kelley, Shari (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23248,GEOC 5000-09,Directed Research,D,"Kyle, Philip (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23252,GEOC 5000-10,Directed Research,D,"McIntosh, William (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23257,GEOC 5000-11,Directed Research,D,"Iverson, Nels (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23260,GEOC 5000-12,Directed Research,D,"Waters, Laura (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23263,GEOC 5000-13,Directed Research,D,"Zimmerer, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,24387,GEOC 5000-14,Directed Research,D,"Coyte, Rachel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,24388,GEOC 5000-15,Directed Research,D,"Tsosie, Ranalda (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23267,GEOC 5007-01,Hydrogeochemistry,L,"Coyte, Rachel (P)",WORKC 113, ,15,3,TR,,1100,1215,,,WORKC 113,TR,1100-1215
+E&ES,Geochemistry,Fall 2024,24390,GEOC 5012-01,Principles of Geochemistry,L,"Waters, Laura (P) / Coyte, Rachel",SPEARE 14, ,14,3,MWF,,1000,1050,,,SPEARE 14,MWF,1000-1050
+E&ES,Geochemistry,Fall 2024,24547,GEOC 5015-01,Geomicrobiology,L,"Jones, Daniel (P)",MSEC 105, ,10,3,MWF,,1300,1350,,,MSEC 105,MWF,1300-1350
+E&ES,Geochemistry,Fall 2024,24391,GEOC 5016-01,Argon Geochronology,B,,BUREAU 253, ,10,3,,,,,,,BUREAU 253,,
+E&ES,Geochemistry,Fall 2024,24389,GEOC 5062-01,Mineral Deposits,L,"Hurtig, Nicole (P)",MSEC 253, ,20,3,TR,,930,1045,,,MSEC 253,TR,0930-1045
+E&ES,Geochemistry,Fall 2024,24609,GEOC 5062L-01,Mineral Deposits Lab,B,"Hurtig, Nicole (P)",MSEC 253, ,20,0,T,,1400,1700,,,MSEC 253,T,1400-1700
+E&ES,Geochemistry,Fall 2024,24643,GEOC 5081-01,Chemical Dynamics of Magmas,D,"Waters, Laura (P)", , ,1,3,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,24673,GEOC 5081-02,Chemical Dynamics of Magmas,D,"Waters, Laura (P)", , ,1,3,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,24550,GEOC 5089-01,Geofluids,L,"Person, Mark (P) / Gysi, Alexander",MSEC 105, ,10,3,TR,,1230,1345,,,MSEC 105,TR,1230-1345
+E&ES,Geochemistry,Fall 2024,23278,GEOC 5089-02,Mineral Deposits in New Mexico,L,"McLemore, Virginia (P)",BUREAU 253, ,10,3,T,,1700,1930,,,BUREAU 253,T,1700-1930
+E&ES,Geochemistry,Fall 2024,23848,GEOC 5089-03,Fndmtls of Sci comput sem,L,"Naliboff, John (P)",MSEC 203, ,10,1,W,,1300,1350,,,MSEC 203,W,1300-1350
+E&ES,Geochemistry,Fall 2024,24560,GEOC 5089-05,Regional Tectonic Systems Sem.,L,"Portner, Daniel (P)",MSEC 195, ,30,1,W,,1400,1530,,,MSEC 195,W,1400-1530
+E&ES,Geochemistry,Fall 2024,23334,GEOC 5091-01,Thesis,T,"Dunbar, Nelia (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23335,GEOC 5091-02,Thesis,T,"Frey, Bonnie (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23336,GEOC 5091-03,Thesis,T,"Gysi, Alexander (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23337,GEOC 5091-04,Thesis,T,"Harrison, James (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23338,GEOC 5091-05,Thesis,T,"Heizler, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23339,GEOC 5091-06,Thesis,T,"Hurtig, Nicole (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23340,GEOC 5091-07,Thesis,T,"Jones, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23352,GEOC 5091-08,Thesis,T,"Kelley, Shari (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23354,GEOC 5091-09,Thesis,T,"Kyle, Philip (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23356,GEOC 5091-10,Thesis,T,"McIntosh, William (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23360,GEOC 5091-11,Thesis,T,"Tsosie, Ranalda (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23362,GEOC 5091-12,Thesis,T,"Waters, Laura (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23364,GEOC 5091-13,Thesis,T,"Zimmerer, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,24218,GEOC 5091-14,Thesis,T,"McLemore, Virginia (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,24180,GEOC 5093-01,Seminar,S,,MSEC 101, ,20,1,R,,1600,1700,,,MSEC 101,R,1600-1700
+E&ES,Geochemistry,Fall 2024,23432,GEOC 5095-01,Dissertation,P,"Dunbar, Nelia (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23433,GEOC 5095-02,Dissertation,P,"Frey, Bonnie (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23434,GEOC 5095-03,Dissertation,P,"Gysi, Alexander (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23435,GEOC 5095-04,Dissertation,P,"Harrison, James (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23436,GEOC 5095-05,Dissertation,P,"Heizler, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23437,GEOC 5095-06,Dissertation,P,"Hurtig, Nicole (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23441,GEOC 5095-07,Dissertation,P,"Jones, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23444,GEOC 5095-08,Dissertation,P,"Kelley, Shari (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23446,GEOC 5095-09,Dissertation,P,"Kyle, Philip (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23448,GEOC 5095-10,Dissertation,P,"McIntosh, William (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23450,GEOC 5095-11,Dissertation,P,"Tsosie, Ranalda (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23453,GEOC 5095-12,Dissertation,P,"Waters, Laura (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,23455,GEOC 5095-13,Dissertation,P,"Coyte, Rachel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geochemistry,Fall 2024,24393,GEOC 5095-14,Dissertation,,, , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23155,GEOL 1101-01,Earth Science as a Profession,L,"Bilek, Susan (P)",MSEC 103, ,45,1,M,,1200,1250,,,MSEC 103,M,1200-1250
+E&ES,Geology,Fall 2024,23096,GEOL 1110-01,Earth Processes,L,"Portner, Daniel (P)",MSEC 103, ,45,3,MWF,,1100,1150,,,MSEC 103,MWF,1100-1150
+E&ES,Geology,Fall 2024,24535,GEOL 1110L-01,Earth Processes Lab,B,"Portner, Daniel (P)",MSEC 209, ,15,1,T,,1400,1700,,,MSEC 209,T,1400-1700
+E&ES,Geology,Fall 2024,24536,GEOL 1110L-02,Earth Processes Lab,B,"Portner, Daniel (P)",MSEC 209, ,15,1,W,,1400,1700,,,MSEC 209,W,1400-1700
+E&ES,Geology,Fall 2024,24537,GEOL 1110L-03,Earth Processes Lab,B,"Portner, Daniel (P)",MSEC 209, ,15,1,R,,1300,1600,,,MSEC 209,R,1300-1600
+E&ES,Geology,Fall 2024,23097,GEOL 2320-01,Erth Surf Processes & Landform,L,"Leonard, Joel (P)",BUREAU 111A, ,16,4,MWF,,1000,1050,,,BUREAU 111A,MWF,1000-1050
+E&ES,Geology,Fall 2024,23101,GEOL 2320L-01,Erth Surf Proc & Landform Lab,B,"Leonard, Joel (P)",BUREAU 111A, ,20,0,T,,1400,1700,,,BUREAU 111A,T,1400-1700
+E&ES,Geology,Fall 2024,23102,GEOL 2340-01,Intro to Erth Struc & Comp,L,"Spinelli, Glenn (P)",SPEARE 116, ,20,4,TR,,1100,1215,,,SPEARE 116,TR,1100-1215
+E&ES,Geology,Fall 2024,23113,GEOL 2340L-01,Intro to Erth Struc & Comp Lab,B,"Spinelli, Glenn (P)",MSEC 253, ,25,0,R,,1300,1600,,,MSEC 253,R,1300-1600
+E&ES,Geology,Fall 2024,24604,GEOL 2510-01,Intro Comp Method Erth Env Sci,L,"Naliboff, John (P)",BUREAU 111A, ,16,1,M,,1400,1700,,,BUREAU 111A,M,1400-1700
+E&ES,Geology,Fall 2024,23815,GEOL 3080-01,Igneous&Metamorphic Petrology,L,"Waters, Laura (P)",MSEC 253, ,15,4,MWF,,1200,1250,,,MSEC 253,MWF,1200-1250
+E&ES,Geology,Fall 2024,23817,GEOL 3080L-01,Igneous & Metamor Petrlgy Lab,B,"Waters, Laura (P)",MSEC 253, ,15,0,W,,1400,1700,,,MSEC 253,W,1400-1700
+E&ES,Geology,Fall 2024,24541,GEOL 3089-01,Earth Science Math Review,L,"Bilek, Susan (P)",MSEC 103, ,30,1,M,,1300,1350,,,MSEC 103,M,1300-1350
+E&ES,Geology,Fall 2024,23823,GEOL 4007-01,Hydrogeochemistry,L,"Coyte, Rachel (P)",WORKC 113, ,16,3,TR,,1100,1215,,,WORKC 113,TR,1100-1215
+E&ES,Geology,Fall 2024,24540,GEOL 4013-01,Watershed Dynamics & Ecohydro,L,"Cadol, Daniel (P)",MSEC 195, ,20,3,MWF,,1300,1350,,,MSEC 195,MWF,1300-1350
+E&ES,Geology,Fall 2024,24544,GEOL 4015-01,Geomicrobiology,L,"Jones, Daniel (P)",MSEC 105, ,10,3,MWF,,1300,1350,,,MSEC 105,MWF,1300-1350
+E&ES,Geology,Fall 2024,23825,GEOL 4040-01,Hydro. Theory & Field Methods,L,"Cadol, Daniel (P)",JONESA 106, ,23,3,MWF,,1100,1150,,,JONESA 106,MWF,1100-1150
+E&ES,Geology,Fall 2024,23827,GEOL 4040-01D,Hydro. Theory & Field Methods,L,"Cadol, Daniel (P)",WEB , ,24,3,MWF,,1100,1150,,,WEB ,MWF,1100-1150
+E&ES,Geology,Fall 2024,23829,GEOL 4040L-01,Hydro Theory & Fld Method Lab,B,"Cadol, Daniel (P)",MSEC 113, ,20,1,M,,1400,1700,,,MSEC 113,M,1400-1700
+E&ES,Geology,Fall 2024,23831,GEOL 4040L-02,Hydro Theory & Fld Method Lab,B,"Cadol, Daniel (P)",MSEC 113, ,20,1,T,,1400,1700,,,MSEC 113,T,1400-1700
+E&ES,Geology,Fall 2024,24181,GEOL 4062-01,Mineral Deposits,L,"Hurtig, Nicole (P)",MSEC 253, ,20,3,TR,,930,1045,,,MSEC 253,TR,0930-1045
+E&ES,Geology,Fall 2024,24219,GEOL 4062L-01,Mineral Deposits Lab,B,"Hurtig, Nicole (P)",MSEC 253, ,10,0,T,,1400,1700,,,MSEC 253,T,1400-1700
+E&ES,Geology,Fall 2024,23833,GEOL 4089-01,Dataloggers in Geoscience,L,"Putkonen, Jaakko (P)",BUREAU 111A, ,10,Variable,F,,1400,1515,,,BUREAU 111A,F,1400-1515
+E&ES,Geology,Fall 2024,23843,GEOL 4089-02,Fndmtls of Sci Comput Sem,L,"Naliboff, John (P)",MSEC 203, ,10,1,W,,1300,1350,,,MSEC 203,W,1300-1350
+E&ES,Geology,Fall 2024,24405,GEOL 4089-03,Defract Mthds & Crystallograph,L,"Rakovan, John (P)",BUREAU 111A, ,0,3,TR,,800,915,,,BUREAU 111A,TR,0800-0915
+E&ES,Geology,Fall 2024,24407,GEOL 4089-05,Geofluids,L,"Person, Mark (P) / Gysi, Alexander",MSEC 105, ,3,3,TR,,1230,1345,,,MSEC 105,TR,1230-1345
+E&ES,Geology,Fall 2024,24559,GEOL 4089-06,Statistical Method in Envr Sci,L,"Zorzetto, Enrico (P)",JONESA 102, ,20,3,TR,,800,915,,,JONESA 102,TR,0800-0915
+E&ES,Geology,Fall 2024,24554,GEOL 4090-01,Principles of Geochemistry,L,"Waters, Laura (P) / Coyte, Rachel",SPEARE 14, ,14,3,MWF,,1000,1050,,,SPEARE 14,MWF,1000-1050
+E&ES,Geology,Fall 2024,23856,GEOL 4092-01,Senior Thesis,D,"Bilek, Susan (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23857,GEOL 4092-02,Senior Thesis,D,"Cadol, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23858,GEOL 4092-03,Senior Thesis,D,"Gysi, Alexander (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23859,GEOL 4092-04,Senior Thesis,D,"Harrison, James (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23860,GEOL 4092-05,Senior Thesis,D,"Heizler, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23861,GEOL 4092-06,Senior Thesis,D,"Hurtig, Nicole (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23862,GEOL 4092-07,Senior Thesis,D,"Jones, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23864,GEOL 4092-08,Senior Thesis,D,"Leary, Kate (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23866,GEOL 4092-09,Senior Thesis,D,"Leary, Ryan (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23867,GEOL 4092-10,Senior Thesis,D,"McIntosh, William (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23869,GEOL 4092-11,Senior Thesis,D,"McLemore, Virginia (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23870,GEOL 4092-12,Senior Thesis,D,"Miller, Phillip (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23872,GEOL 4092-13,Senior Thesis,D,"Naliboff, John (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23874,GEOL 4092-14,Senior Thesis,D,"Person, Mark (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23875,GEOL 4092-15,Senior Thesis,D,"Rinehart, Alex (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23876,GEOL 4092-16,Senior Thesis,D,"Tsosie, Ranalda (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23877,GEOL 4092-17,Senior Thesis,D,"Spinelli, Glenn (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23879,GEOL 4092-18,Senior Thesis,D,"Van Wijk, Jolante (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23881,GEOL 4092-19,Senior Thesis,D,"Waters, Laura (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23882,GEOL 4092-20,Senior Thesis,D,"Zimmerer, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23884,GEOL 4092-21,Senior Thesis,D,"Portner, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24285,GEOL 4092-22,Senior Thesis,D,"Prush, Veronica (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23883,GEOL 5000-01,Directed Research,D,"Chavez, William (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23885,GEOL 5000-02,Directed Research,D,"Gysi, Alexander (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23886,GEOL 5000-03,Directed Research,D,"Harrison, James (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23887,GEOL 5000-04,Directed Research,D,"Heizler, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23889,GEOL 5000-05,Directed Research,D,"Hurtig, Nicole (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23890,GEOL 5000-06,Directed Research,D,"Jones, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23892,GEOL 5000-07,Directed Research,D,"Leary, Kate (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23893,GEOL 5000-08,Directed Research,D,"Leary, Ryan (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23896,GEOL 5000-09,Directed Research,D,"Lueth, Virgil (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23898,GEOL 5000-10,Directed Research,D,"McLemore, Virginia (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23900,GEOL 5000-11,Directed Research,D,"Naliboff, John (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23901,GEOL 5000-12,Directed Research,D,"Prush, Veronica (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23903,GEOL 5000-13,Directed Research,D,"Rinehart, Alex (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23904,GEOL 5000-14,Directed Research,D,"Spinelli, Glenn (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23905,GEOL 5000-15,Directed Research,D,"Van Wijk, Jolante (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23907,GEOL 5000-16,Directed Research,D,"Waters, Laura (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23918,GEOL 5000-17,Directed Research,D,"Zimmerer, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23946,GEOL 5000-18,Directed Research,D,"Tsosie, Ranalda (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23947,GEOL 5000-19,Directed Research,D,"Attia, Snir (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24402,GEOL 5089-01,Regional Tectonic Systems Sem.,L,"Portner, Daniel (P)",MSEC 195, ,30,1,W,,1400,1530,,,MSEC 195,W,1400-1530
+E&ES,Geology,Fall 2024,24403,GEOL 5089-02,Mineral Deposits,L,"Hurtig, Nicole (P)",MSEC 253, ,10,3,TR,,930,1045,,,MSEC 253,TR,0930-1045
+E&ES,Geology,Fall 2024,23845,GEOL 5089-03,Advanced Structural Geology,L,"Prush, Veronica (P)",JONESA 104, ,1,3,MT,,1400,1515,,,JONESA 104,MT,1400-1515
+E&ES,Geology,Fall 2024,24404,GEOL 5089-04,Dataloggers in Geoscience,L,"Putkonen, Jaakko (P)",BUREAU 111A, ,10,Variable,F,,1400,1515,,,BUREAU 111A,F,1400-1515
+E&ES,Geology,Fall 2024,24408,GEOL 5089-05,Defract Mthds & Crystallograph,L,"Rakovan, John (P)",BUREAU 111A, ,5,3,TR,,800,915,,,BUREAU 111A,TR,0800-0915
+E&ES,Geology,Fall 2024,24415,GEOL 5089-06,Fndmtls of Sci Comput Sem,L,"Naliboff, John (P)",MSEC 203, ,10,1,W,,1300,1350,,,MSEC 203,W,1300-1350
+E&ES,Geology,Fall 2024,24552,GEOL 5089-07,Geofluids,L,"Person, Mark (P) / Gysi, Alexander",MSEC 105, ,10,3,TR,,1230,1345,,,MSEC 105,TR,1230-1345
+E&ES,Geology,Fall 2024,24553,GEOL 5089-08,Mineral Deposits in NM,L,"McLemore, Virginia (P)",BUREAU 253, ,10,3,,,1700,1930,,,BUREAU 253,,1700-1930
+E&ES,Geology,Fall 2024,24693,GEOL 5089-09A,X Sect Analy for Geo Apps,L,"Prush, Veronica (P)", , ,10,3,,,,,,, ,,
+E&ES,Geology,Fall 2024,23924,GEOL 5091-01,Thesis,T,"Chavez, William (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23926,GEOL 5091-02,Thesis,T,"Gysi, Alexander (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23928,GEOL 5091-03,Thesis,T,"Harrison, James (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23937,GEOL 5091-04,Thesis,T,"Heizler, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23941,GEOL 5091-05,Thesis,T,"Hurtig, Nicole (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23944,GEOL 5091-06,Thesis,T,"Jones, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23950,GEOL 5091-07,Thesis,T,"Leary, Kate (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23951,GEOL 5091-08,Thesis,T,"Leary, Ryan (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23952,GEOL 5091-09,Thesis,T,"Lueth, Virgil (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23953,GEOL 5091-10,Thesis,T,"McLemore, Virginia (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23954,GEOL 5091-11,Thesis,T,"Naliboff, John (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23955,GEOL 5091-12,Thesis,T,"Prush, Veronica (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23956,GEOL 5091-13,Thesis,T,"Rinehart, Alex (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23957,GEOL 5091-14,Thesis,T,"Spinelli, Glenn (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23958,GEOL 5091-15,Thesis,T,"Van Wijk, Jolante (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23961,GEOL 5091-16,Thesis,T,"Waters, Laura (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23962,GEOL 5091-17,Thesis,T,"Zimmerer, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23972,GEOL 5091-18,Thesis,T,"Tsosie, Ranalda (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24277,GEOL 5091-19,Thesis,T,"Coyte, Rachel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24409,GEOL 5091-20,Thesis,T,"Portner, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23970,GEOL 5093-01,Seminar,S,"Coyte, Rachel (P)",MSEC 101, ,20,1,R,,1600,1700,,,MSEC 101,R,1600-1700
+E&ES,Geology,Fall 2024,23976,GEOL 5095-01,Dissertation,P,"Chavez, William (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23978,GEOL 5095-02,Dissertation,P,"Gysi, Alexander (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23981,GEOL 5095-03,Dissertation,P,"Harrison, James (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23983,GEOL 5095-04,Dissertation,P,"Heizler, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23984,GEOL 5095-05,Dissertation,P,"Hurtig, Nicole (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23986,GEOL 5095-06,Dissertation,P,"Jones, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23992,GEOL 5095-07,Dissertation,P,"Leary, Kate (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23994,GEOL 5095-08,Dissertation,P,"Leary, Ryan (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23996,GEOL 5095-09,Dissertation,P,"Lueth, Virgil (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,23997,GEOL 5095-10,Dissertation,P,"McLemore, Virginia (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24000,GEOL 5095-11,Dissertation,P,"Naliboff, John (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24002,GEOL 5095-12,Dissertation,P,"Prush, Veronica (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24004,GEOL 5095-13,Dissertation,P,"Rinehart, Alex (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24006,GEOL 5095-14,Dissertation,P,"Spinelli, Glenn (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24007,GEOL 5095-15,Dissertation,P,"Van Wijk, Jolante (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24008,GEOL 5095-16,Dissertation,P,"Waters, Laura (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24009,GEOL 5095-17,Dissertation,P,"Zimmerer, Matthew (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24010,GEOL 5095-18,Dissertation,P,"Tsosie, Ranalda (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24011,GEOL 5095-19,Dissertation,P,"Portner, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geology,Fall 2024,24410,GEOL 5095-20,Dissertation,P,"Coyte, Rachel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23863,GEOP 5000-01,Directed Research,D,"Balch, Robert (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23865,GEOP 5000-02,Directed Research,D,"Bilek, Susan (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23868,GEOP 5000-03,Directed Research,D,"Naliboff, John (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23871,GEOP 5000-04,Directed Research,D,"Rinehart, Alex (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23873,GEOP 5000-05,Directed Research,D,"Spinelli, Glenn (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23878,GEOP 5000-06,Directed Research,D,"Van Wijk, Jolante (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23880,GEOP 5000-07,Directed Research,D,"Portner, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23842,GEOP 5089-01,Regional Tectonics Systems Sem,L,"Portner, Daniel (P)", , ,10,1,W,,1400,1530,,, ,W,1400-1530
+E&ES,Geophysics,Fall 2024,23849,GEOP 5089-02,Fndmtls of Sci Comput Sem,L,"Naliboff, John (P)",MSEC 203, ,10,1,W,,1300,1350,,,MSEC 203,W,1300-1350
+E&ES,Geophysics,Fall 2024,24561,GEOP 5089-03,Regional Tectonic Systems Sem.,L,"Portner, Daniel (P)",MSEC 195, ,20,1,W,,1400,1530,,,MSEC 195,W,1400-1530
+E&ES,Geophysics,Fall 2024,23891,GEOP 5091-01,Thesis,T,"Balch, Robert (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23894,GEOP 5091-02,Thesis,T,"Bilek, Susan (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23895,GEOP 5091-03,Thesis,T,"Naliboff, John (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23897,GEOP 5091-04,Thesis,T,"Rinehart, Alex (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23899,GEOP 5091-05,Thesis,T,"Spinelli, Glenn (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23902,GEOP 5091-06,Thesis,T,"Van Wijk, Jolante (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23914,GEOP 5091-07,Thesis,T,"Portner, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23906,GEOP 5093-01,Seminar,S,"Coyte, Rachel (P)",MSEC 101, ,11,1,R,,1600,1700,,,MSEC 101,R,1600-1700
+E&ES,Geophysics,Fall 2024,23908,GEOP 5095-01,Dissertation,P,"Balch, Robert (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23909,GEOP 5095-02,Dissertation,P,"Bilek, Susan (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23910,GEOP 5095-03,Dissertation,P,"Naliboff, John (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23911,GEOP 5095-04,Dissertation,P,"Rinehart, Alex (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23912,GEOP 5095-05,Dissertation,P,"Spinelli, Glenn (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23913,GEOP 5095-06,Dissertation,P,"Van Wijk, Jolante (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Geophysics,Fall 2024,23916,GEOP 5095-07,Dissertation,P,"Portner, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23959,HYDR 5000-01,Directed Research,D,"Cadol, Daniel (P)", , ,10,Variable,,,800,850,,, ,,0800-0850
+E&ES,Hydrology,Fall 2024,23960,HYDR 5000-02,Directed Research,D,"Leary, Kate (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23963,HYDR 5000-03,Directed Research,D,"Person, Mark (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23964,HYDR 5000-04,Directed Research,D,"Phillips, Fred (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23965,HYDR 5000-05,Directed Research,D,"Rinehart, Alex (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23966,HYDR 5000-06,Directed Research,D,"Tsosie, Ranalda (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23967,HYDR 5000-07,Directed Research,D,"Spinelli, Glenn (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23968,HYDR 5000-08,Directed Research,D,"Wilson, John (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,24394,HYDR 5000-09,Directed Research,D,"Zorzetto, Enrico (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,24613,HYDR 5000-10,Directed Research,D,"Coyte, Rachel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23969,HYDR 5007-01,Hydrogeochemistry,L,"Coyte, Rachel (P)",WORKC 113, ,16,3,TR,,1100,1215,,,WORKC 113,TR,1100-1215
+E&ES,Hydrology,Fall 2024,23971,HYDR 5007-01D,Hydrogeochemistry,L,"Coyte, Rachel (P)",WEB-V , ,16,3,TR,,1100,1215,,,WEB-V ,TR,1100-1215
+E&ES,Hydrology,Fall 2024,24397,HYDR 5013-01,Watershed Dynamics & Ecohydro,L,"Cadol, Daniel (P)",MSEC 195, ,20,3,MWF,,1300,1350,,,MSEC 195,MWF,1300-1350
+E&ES,Hydrology,Fall 2024,24398,HYDR 5013-01D,Watershed Dynamics & Ecohydro,L,"Cadol, Daniel (P)",WEB-V , ,20,3,MWF,,1300,1350,,,WEB-V ,MWF,1300-1350
+E&ES,Hydrology,Fall 2024,24548,HYDR 5015-01,Geomicrobiology,L,"Jones, Daniel (P)",MSEC 105, ,10,3,MWF,,1300,1350,,,MSEC 105,MWF,1300-1350
+E&ES,Hydrology,Fall 2024,24549,HYDR 5015-01D,Geomicrobiology,L,"Jones, Daniel (P)",WEB-V , ,10,3,MWF,,1300,1350,,,WEB-V ,MWF,1300-1350
+E&ES,Hydrology,Fall 2024,24399,HYDR 5016-01,Geofluids,L,"Person, Mark (P)",BUREAU 111A, ,10,3,TR,,1230,1345,,,BUREAU 111A,TR,1230-1345
+E&ES,Hydrology,Fall 2024,24400,HYDR 5016-01D,Geofluids,L,"Person, Mark (P) / Gysi, Alexander",WEB-V WEB-V, ,20,3,TR,,1230,1345,,,WEB-V WEB-V,TR,1230-1345
+E&ES,Hydrology,Fall 2024,23840,HYDR 5089-01,Dataloggers in Geoscience,L,"Putkonen, Jaakko (P)",BUREAU 111A, ,10,Variable,F,,1400,1515,,,BUREAU 111A,F,1400-1515
+E&ES,Hydrology,Fall 2024,24412,HYDR 5089-02,Fndmtls of Sci Comput Sem,L,"Naliboff, John (P)",MSEC 203, ,10,1,W,,1300,1350,,,MSEC 203,W,1300-1350
+E&ES,Hydrology,Fall 2024,24395,HYDR 5089-03,Statistical Mthds in ES,B,"Zorzetto, Enrico (P)",JONESA 102, ,10,3,TR,,800,915,,,JONESA 102,TR,0800-0915
+E&ES,Hydrology,Fall 2024,24396,HYDR 5089-03D,Statistical Mthds in ES,L,"Zorzetto, Enrico (P)",WEB-V , ,10,3,TR,,800,915,,,WEB-V ,TR,0800-0915
+E&ES,Hydrology,Fall 2024,23975,HYDR 5091-01,Thesis,T,"Cadol, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23977,HYDR 5091-02,Thesis,T,"Leary, Kate (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23979,HYDR 5091-03,Thesis,T,"Coyte, Rachel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23980,HYDR 5091-04,Thesis,T,"Phillips, Fred (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23982,HYDR 5091-05,Thesis,T,"Rinehart, Alex (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23985,HYDR 5091-06,Thesis,T,"Tsosie, Ranalda (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23987,HYDR 5091-07,Thesis,T,"Spinelli, Glenn (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23988,HYDR 5091-08,Thesis,T,"Wilson, John (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,24221,HYDR 5091-09,Thesis,T,"Jones, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,24606,HYDR 5091-10,Thesis,T,"Zorzetto, Enrico (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,24411,HYDR 5093-01,Seminar,S,"Coyte, Rachel (P)",MSEC 101, ,20,1,R,,1600,1700,,,MSEC 101,R,1600-1700
+E&ES,Hydrology,Fall 2024,24413,HYDR 5093-01D,Seminar,S,"Coyte, Rachel (P)",WEB-V , ,20,1,R,,1600,1700,,,WEB-V ,R,1600-1700
+E&ES,Hydrology,Fall 2024,23991,HYDR 5095-01,Dissertation,P,"Cadol, Daniel (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23993,HYDR 5095-02,Dissertation,P,"Leary, Kate (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23995,HYDR 5095-03,Dissertation,P,"Person, Mark (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23998,HYDR 5095-04,Dissertation,P,"Phillips, Fred (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,23999,HYDR 5095-05,Dissertation,P,"Rinehart, Alex (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,24001,HYDR 5095-06,Dissertation,P,"Tsosie, Ranalda (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,24003,HYDR 5095-07,Dissertation,P,"Spinelli, Glenn (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,24005,HYDR 5095-08,Dissertation,P,"Wilson, John (P)", , ,10,Variable,,,,,,, ,,
+E&ES,Hydrology,Fall 2024,24607,HYDR 5095-09,Dissertation,P,"Zorzetto, Enrico (P)", , ,10,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23303,EE 162-01,Basic Electronics Lab II,B,"Pauli, Christopher (P)",WORKC 116, ,15,1,T,,1400,1650,,,WORKC 116,T,1400-1650
+EE,Electrical Engineering,Fall 2024,23921,EE 162-02,Basic Electronics Lab II,B,"Pauli, Christopher (P)",WORKC 116, ,15,1,W,,1400,1650,,,WORKC 116,W,1400-1650
+EE,Electrical Engineering,Fall 2024,23922,EE 211-01,Circuits & Signals I,L,"Senay, Seda (P)",CRAMER 107, ,40,3,MWF,,1000,1050,,,CRAMER 107,MWF,1000-1050
+EE,Electrical Engineering,Fall 2024,23923,EE 271-01,Mathematical Engineering,L,"Senay, Seda (P)",WORKC 116, ,25,3,MWF,,1100,1150,,,WORKC 116,MWF,1100-1150
+EE,Electrical Engineering,Fall 2024,23305,EE 3011-01,Signals and Linear Systems,L,"Arechiga, Rene (P)",WORKC 109, ,30,3,MWF,,900,950,,,WORKC 109,MWF,0900-0950
+EE,Electrical Engineering,Fall 2024,24677,EE 3011-02,Signals and Linear Systems,L,"Roy, Krishna (P)", , ,1,3,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23850,EE 3051-01,Microcontrollers,L,"Roy, Krishna (P)",WEIR 102, ,30,3,MWF,,1300,1350,,,WEIR 102,MWF,1300-1350
+EE,Electrical Engineering,Fall 2024,23852,EE 3053-01,Analog Electronics,L,"Jorgensen, Anders (P)",WORKC 109, ,30,3,MWF,,1000,1050,,,WORKC 109,MWF,1000-1050
+EE,Electrical Engineering,Fall 2024,23853,EE 3061-01,Mixed Electronics Lab I,L,"Roy, Krishna (P)",WORKC 116, ,25,2,MF,,1400,1650,,,WORKC 116,MF,1400-1650
+EE,Electrical Engineering,Fall 2024,23915,EE 4011-01,Stochastic Processes and Comm,L,"El-Osery, Aly (P)",WORKC 116, ,25,3,TR,,1100,1215,,,WORKC 116,TR,1100-1215
+EE,Electrical Engineering,Fall 2024,23917,EE 4031-01,Electrodynamics,L,"Fierro, Andrew (P)",WORKC 109, ,30,3,MWF,,1100,1150,,,WORKC 109,MWF,1100-1150
+EE,Electrical Engineering,Fall 2024,23919,EE 4081-01,Capstone Design I,L,"Teare, Scott (P)",WORKC 113, ,25,3,MW,,1200,1250,,,WORKC 113,MW,1200-1250
+EE,Electrical Engineering,Fall 2024,23920,EE 4081L-01,Capstone Design I Lab,B,"Teare, Scott (P)",TBA , ,25,0,,,,,,,TBA ,,
+EE,Electrical Engineering,Fall 2024,24624,EE 4091-01,Electronics Lab,L,"Pauli, Christopher (P)", , ,1,1,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,24641,EE 4091-2,289 Electronics lab,D,"Pauli, Christopher (P)", , ,1,3,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,24640,EE 491-02,289 Electronics Lab,D,"Pauli, Christopher (P)", , ,1,3,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,24276,EE 5000-01,Directed Research,D,"Roy, Krishna (P)", , ,10,3,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,24644,EE 5000-02,Directed Research,D,"El-Osery, Aly (P)", , ,10,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,24459,EE 5021-01,Measurement & Instrumentation,L,"Jorgensen, Anders (P)",WORKC 109, ,15,4,MWF,,1300,1350,,,WORKC 109,MWF,1300-1350
+EE,Electrical Engineering,Fall 2024,24628,EE 5070-01,Intro to Quant Elect & Amp Sys,L,"Teare, Scott (P)",WORKC 205, ,12,4,F,,800,1100,,,WORKC 205,F,0800-1100
+EE,Electrical Engineering,Fall 2024,24627,EE 5081-01,Antenna Theory and Design,D,"Jorgensen, Anders (P)", , ,1,3,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,24663,EE 5081-02,Antenna Theory & Design,D,"Jorgensen, Anders (P)", , ,1,4,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,24669,EE 5081-03,Vehicular Security,D,"Roy, Krishna (P)", , ,1,1,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,24661,EE 5081-1,Directed Study,D,"Jorgensen, Anders (P)", , ,1,3,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23925,EE 5091-01,Thesis,T,"Arechiga, Rene (P)", , ,10,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23927,EE 5091-02,Thesis,T,"El-Osery, Aly (P)", , ,10,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23929,EE 5091-03,Thesis,T,"Jorgensen, Anders (P)", , ,10,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23930,EE 5091-04,Thesis,T,"Senay, Seda (P)", , ,10,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23931,EE 5091-05,Thesis,T,"Teare, Scott (P)", , ,10,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23932,EE 5091-06,Thesis,T,"Roy, Krishna (P)", , ,10,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23934,EE 5095-01,Dissertation,P,"Arechiga, Rene (P)", , ,5,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23935,EE 5095-02,Dissertation,P,"El-Osery, Aly (P)", , ,5,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23938,EE 5095-03,Dissertation,P,"Jorgensen, Anders (P)", , ,5,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23939,EE 5095-04,Dissertation,P,"Senay, Seda (P)", , ,5,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23940,EE 5095-05,Dissertation,P,"Teare, Scott (P)", , ,5,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,23942,EE 5095-06,Dissertation,P,"Teare, Scott (P)", , ,5,Variable,,,,,,, ,,
+EE,Electrical Engineering,Fall 2024,24626,EE 581-1,Directed Study,,, , ,0,3,,,,,,, ,,
+ENVE,Environmental Engineering,Fall 2024,24310,ENVE 101-01,Environmental Engr Seminar,S,"Carrico, Christian (P)",JONES 227, ,25,1,R,,1230,1320,,,JONES 227,R,1230-1320
+ENVE,Environmental Engineering,Fall 2024,24314,ENVE 201-01,Intro to Envir. Science & Engr,L,"Carrico, Christian (P)",JONESA 106, ,23,3,TR,,930,1045,,,JONESA 106,TR,0930-1045
+ENVE,Environmental Engineering,Fall 2024,23394,ENVE 4011-01,Solid & Hazardous Waste Engr,L,"Richardson, Clinton (P)", , ,20,4,MW,TR,1200,1250,1230,1320, ,MW / TR,1200-1250 / 1230-1320
+ENVE,Environmental Engineering,Fall 2024,24458,ENVE 4013-01,Air Resources Engineering,L,"Carrico, Christian (P)",JONESA 106,JONESA 106,20,4,F,TR,1500,1550,1530,1645,JONESA 106 / JONESA 106,F / TR,1500-1550 / 1530-1645
+ENVE,Environmental Engineering,Fall 2024,23395,ENVE 4090-01,Senior Design Thesis I,D,"Richardson, Clinton (P)", , ,2,1,,,,,,, ,,
+ENVE,Environmental Engineering,Fall 2024,23397,ENVE 4090-02,Senior Design Thesis I,D,"Carrico, Christian (P)", , ,2,1,,,,,,, ,,
+ENVE,Environmental Engineering,Fall 2024,23401,ENVE 4090-03,Senior Design Thesis I,D,"Harb, Moustapha (P)", , ,2,1,,,,,,, ,,
+ENVE,Environmental Engineering,Fall 2024,23399,ENVE 4092-01,Senior Design Thesis II,T,"Richardson, Clinton (P)", , ,2,2,,,,,,, ,,
+ENVE,Environmental Engineering,Fall 2024,23400,ENVE 4092-02,Senior Design Thesis II,T,"Carrico, Christian (P)", , ,2,2,,,,,,, ,,
+ENVE,Environmental Engineering,Fall 2024,23404,ENVE 4092-03,Senior Design Thesis II,T,"Harb, Moustapha (P)", , ,2,2,,,,,,, ,,
+GENE,Engineering Science,Fall 2024,23015,ES 110-01,Intro to Engineering Design,L,"Oxford, William (P)",MSEC 195, ,30,2,MW,,1200,1250,,,MSEC 195,MW,1200-1250
+GENE,Engineering Science,Fall 2024,23017,ES 110L-01,Intro Engineering Lab,B,"Oxford, William (P)",SPEARE 5, ,15,0,M,,1400,1550,,,SPEARE 5,M,1400-1550
+GENE,Engineering Science,Fall 2024,23016,ES 110L-02,Intro Engineering Lab,B,"Oxford, William (P)",SPEARE 5, ,15,0,W,,1400,1550,,,SPEARE 5,W,1400-1550
+GENE,Engineering Science,Fall 2024,23003,ES 201-01,Statics,L,"Oxford, William (P)",CRAMER 107, ,40,3,TR,,1230,1345,,,CRAMER 107,TR,1230-1345
+GENE,Engineering Science,Fall 2024,23008,ES 201-02,Statics,L,"Oxford, William (P) / Jackson (SIG), Kyle",MSEC 195, ,40,3,MWF,,1000,1050,,,MSEC 195,MWF,1000-1050
+GENE,Engineering Science,Fall 2024,24692,ES 201-03,Statics,L,"Richardson, Clinton (P)", , ,1,3,,,,,,, ,,
+GENE,Engineering Science,Fall 2024,23001,ES 216-01,Engineering Fluid Mechanics,L,"Wei, Tie (P)",WEIR 102, ,35,3,TR,,1100,1215,,,WEIR 102,TR,1100-1215
+GENE,Engineering Science,Fall 2024,23018,ES 216-02,Engineering Fluid Mechanics,L,"Chen, Her Yuan (P)",MSEC 105, ,35,3,MWF,,1100,1150,,,MSEC 105,MWF,1100-1150
+GENE,Engineering Science,Fall 2024,23325,ES 3002-01,Mechanics of Materials,L,"Ghosh, Ashok (P)",MSEC 103, ,25,3,TR,,800,915,,,MSEC 103,TR,0800-0915
+GENE,Engineering Science,Fall 2024,24260,ES 3002-02,Mechanics of Materials,L,"Gatto, Joseph (P)",LOPEZ 106, ,45,3,TR,,930,1045,,,LOPEZ 106,TR,0930-1045
+GENE,Engineering Science,Fall 2024,23326,ES 3003-01,Engineering Dynamics,L,"Oxford, William (P)",WEIR 102, ,48,3,TR,,930,1045,,,WEIR 102,TR,0930-1045
+GENE,Engineering Science,Fall 2024,23327,ES 3016-01,Engineering Economics,L,"Ghosh, Ashok (P)",MSEC 101, ,50,3,TR,,1100,1215,,,MSEC 101,TR,1100-1215
+GENE,Engineering Science,Fall 2024,23328,ES 3016-02,Engineering Economics,L,, , ,0,3,TR,,930,1045,,, ,TR,0930-1045
+GENE,Engineering Science,Fall 2024,23329,ES 3032-01,Electrical Engineering,L,"Oxford, William (P)",WEIR 202, ,35,3,MWF,,1100,1150,,,WEIR 202,MWF,1100-1150
+GENE,Engineering Science,Fall 2024,24363,ES 3032-02,Electrical Engineering,L,"Cui, Qingsong (P)",MSEC 103, ,50,3,TR,,930,1045,,,MSEC 103,TR,0930-1045
+GENE,Engineering Science,Fall 2024,23330,ES 3047-01,Thermodynamics,L,"Gatto, Joseph (P)",WORKC 113, ,35,3,TR,,1230,1345,,,WORKC 113,TR,1230-1345
+GENE,Engineering Science,Fall 2024,23331,ES 3047-02,Thermodynamics,L,"Gatto, Joseph (P)",WORKC 113, ,35,3,MWF,,900,950,,,WORKC 113,MWF,0900-0950
+GENE,Engineering Science,Fall 2024,23332,ES 3050-01,Heat & Mass Transfer,L,"Gatto, Joseph (P)",MSEC 101, ,50,3,MWF,,1000,1050,,,MSEC 101,MWF,1000-1050
+GENE,Engineering Science,Fall 2024,23333,ES 4005L-01,"Inst.,Meas.,& Proc. Cont. LabI",B,"Price, Seth (P)",JONES 227, ,20,1,F,,1400,1600,,,JONES 227,F,1400-1600
+GEX,Graduate Cross Enrollment,Fall 2024,24634,GEX 600-01,Analog Electronic,,, , ,1,0,,,,,,, ,,
+GEX,Graduate Cross Enrollment,Fall 2024,24636,GEX 600-02,Intermediate Logic Design,,, , ,1,0,,,,,,, ,,
+GEX,Graduate Cross Enrollment,Fall 2024,24637,GEX 600-03,Antennas,,, , ,1,0,,,,,,, ,,
+GEX,Graduate Cross Enrollment,Fall 2024,24638,GEX 600-04,Antennas Lab,,, , ,1,0,,,,,,, ,,
+HUMA,Art History (Creative Art),Fall 2024,24332,ARTH 2120-01,History of Art II (Freshman),L,"Spruill, Rebecca (P)",SPEARE 20, ,9,3,TR,,1100,1215,,,SPEARE 20,TR,1100-1215
+HUMA,Art History (Creative Art),Fall 2024,24333,ARTH 2120-02,g:History of Art II,L,"Spruill, Rebecca (P)",SPEARE 20, ,11,3,TR,,1100,1215,,,SPEARE 20,TR,1100-1215
+HUMA,Art Studio,Fall 2024,24335,ARTS 1610-01,g:Drawing Studio I,L,"Richardson, Judy (P)",SPEARE 113, ,20,3,TR,,1230,1345,,,SPEARE 113,TR,1230-1345
+HUMA,Art Studio,Fall 2024,24336,ARTS 1710-01,g:Intro to Print Making,L,"Spruill, Rebecca (P)",FACE 114, ,12,3,TR,,1230,1430,,,FACE 114,TR,1230-1430
+HUMA,Art Studio,Fall 2024,24337,ARTS 2126-01,g:Identity Systems Design,,, , ,0,3,,,,,,, ,,
+HUMA,Art Studio,Fall 2024,24338,ARTS 2127-01,g:Digital Interface Design,L,"Spruill, Rebecca (P)",SPEARE 4, ,20,3,MW,,1500,1700,,,SPEARE 4,MW,1500-1700
+HUMA,Communication,Fall 2024,24334,COMM 1130-01,g:Public Speaking,L,"Gabor Da Silva, Agnieszka (P)",SPEARE 116, ,25,3,TR,,1400,1515,,,SPEARE 116,TR,1400-1515
+HUMA,Communication,Fall 2024,23363,COMM 5075-01,Communication in the Sciences,L,"Simpson, Steve (P)",SPEARE 117, ,15,3,W,,1530,1815,,,SPEARE 117,W,1530-1815
+HUMA,Communication,Fall 2024,24248,COMM 5075-01D,Communication in the Sciences,L,"Simpson, Steve (P)",WEB-V , ,1,3,W,,1530,1815,,,WEB-V ,W,1530-1815
+HUMA,Education,Fall 2024,23313,EDUC 3040-01,Concepts in Education,L,"Apodaca, Theresa (P)",CRAMER 114, ,20,3,MW,,1715,1830,,,CRAMER 114,MW,1715-1830
+HUMA,Education,Fall 2024,23314,EDUC 3040-01D,Concepts in Education,L,"Apodaca, Theresa (P)",WEB , ,10,3,MW,,1715,1830,,,WEB ,MW,1715-1830
+HUMA,Education,Fall 2024,24684,EDUC 3099-03,MATCH Mentoring and Leadership,L,"Apodaca, Theresa (P)",CRAMER 114, ,15,2,F,,1400,1600,,,CRAMER 114,F,1400-1600
+HUMA,Education,Fall 2024,24685,EDUC 3099-04,MATCH Mentoring and Leadership,L,"Apodaca, Theresa (P)",CRAMER 114, ,15,0,F,,1400,1600,,,CRAMER 114,F,1400-1600
+HUMA,Education,Fall 2024,23315,EDUC 4001-01,Effective Reading for Div Lear,L,"Apodaca, Theresa (P)",CRAMER 114, ,15,3,TR,,1700,1815,,,CRAMER 114,TR,1700-1815
+HUMA,Education,Fall 2024,23316,EDUC 4001-01D,Effective Reading for Div Lear,L,"Apodaca, Theresa (P)",WEB , ,10,3,TR,,1700,1815,,,WEB ,TR,1700-1815
+HUMA,Education,Fall 2024,23317,EDUC 4013-01,Student Teaching (Secondary),N,"Apodaca, Theresa (P)", , ,5,9,,,,,,, ,,
+HUMA,Education,Fall 2024,23318,EDUC 4014-01,Student Teaching Seminar,L,"Apodaca, Theresa (P) / Khandelwal, Megha",CRAMER 114, ,5,3,M,,1610,1710,,,CRAMER 114,M,1610-1710
+HUMA,Education,Fall 2024,23319,EDUC 5001-01,Effective Reading for Div Lear,L,"Apodaca, Theresa (P)",CRAMER 114, ,10,3,TR,,1700,1815,,,CRAMER 114,TR,1700-1815
+HUMA,Education,Fall 2024,23320,EDUC 5001-01D,Effective Reading for Div Lear,L,"Apodaca, Theresa (P)",WEB , ,10,3,TR,,1700,1815,,,WEB ,TR,1700-1815
+HUMA,Education,Fall 2024,23321,EDUC 5002-01,Effective Reading for Div Lear,L,"Apodaca, Theresa (P)",CRAMER 114, ,5,3,TR,,1700,1815,,,CRAMER 114,TR,1700-1815
+HUMA,Education,Fall 2024,23322,EDUC 5002-01D,Effective Reading for Div Lear,L,"Apodaca, Theresa (P)",WEB-V , ,5,3,TR,,1700,1815,,,WEB-V ,TR,1700-1815
+HUMA,Education,Fall 2024,23323,EDUC 5011-01D,Supervised Field Experience,L,"Apodaca, Theresa (P) / Khandelwal, Megha",WEB-V WEB-V, ,5,3,M,,1610,1710,,,WEB-V WEB-V,M,1610-1710
+HUMA,English,Fall 2024,24691,ENGL 0189-01D,Wrting Short Fiction,L,"Cruz, Rachel (P)", , ,30,1,,,,,,, ,,
+HUMA,English,Fall 2024,23086,ENGL 1110-01,g: Composition I,L,"Lackey, Eric (P)",SPEARE 117, ,16,3,TR,,1230,1345,,,SPEARE 117,TR,1230-1345
+HUMA,English,Fall 2024,23087,ENGL 1110-02,g: Composition I,L,"Lackey, Eric (P)",SPEARE 117, ,16,3,TR,,1400,1515,,,SPEARE 117,TR,1400-1515
+HUMA,English,Fall 2024,23088,ENGL 1110-03,g: Composition I,L,"Clattenburg, William (P)",JONESA 106, ,20,3,MWF,,900,950,,,JONESA 106,MWF,0900-0950
+HUMA,English,Fall 2024,23089,ENGL 1110-04,g: Composition I,L,"Clattenburg, William (P)",JONESA 106, ,20,3,MWF,,1000,1050,,,JONESA 106,MWF,1000-1050
+HUMA,English,Fall 2024,23128,ENGL 1110-05,g: Composition I,L,"Clattenburg, William (P)",JONESA 106, ,20,3,MWF,,1200,1250,,,JONESA 106,MWF,1200-1250
+HUMA,English,Fall 2024,23129,ENGL 1110-06,g: Composition I,L,"Clattenburg, William (P)",JONESA 106, ,20,3,MWF,,1400,1450,,,JONESA 106,MWF,1400-1450
+HUMA,English,Fall 2024,23130,ENGL 1110-07,g: Composition I,L,, , ,0,3,TR,,930,1045,,, ,TR,0930-1045
+HUMA,English,Fall 2024,23162,ENGL 1110-08,g: Composition I,L,, , ,0,3,TR,,1100,1215,,, ,TR,1100-1215
+HUMA,English,Fall 2024,23163,ENGL 1110-09,g: Composition I,,, , ,0,3,,,,,,, ,,
+HUMA,English,Fall 2024,23090,ENGL 1120-01,g: Composition II,L,"Lackey, Eric (P)",SPEARE 117, ,20,3,TR,,800,915,,,SPEARE 117,TR,0800-0915
+HUMA,English,Fall 2024,23091,ENGL 1120-02,g: Composition II,L,"Lackey, Eric (P)",SPEARE 117, ,20,3,TR,,930,1045,,,SPEARE 117,TR,0930-1045
+HUMA,English,Fall 2024,23131,ENGL 1120-03,g: Composition II,L,"Cruz, Rachel (P)",WEIR 203, ,24,3,TR,,1100,1215,,,WEIR 203,TR,1100-1215
+HUMA,English,Fall 2024,23132,ENGL 1120-04,g: Composition II,L,"Cruz, Rachel (P)",WEIR 202, ,20,3,TR,,1400,1515,,,WEIR 202,TR,1400-1515
+HUMA,English,Fall 2024,24311,ENGL 1120-06,g: Composition II,L,, , ,0,3,,,,,,, ,,
+HUMA,English,Fall 2024,24259,ENGL 3011-01,g:Creative Writing,L,"Cruz, Rachel (P)",CRAMER 107, ,20,3,TR,,1700,1815,,,CRAMER 107,TR,1700-1815
+HUMA,English,Fall 2024,24639,ENGL 3011-02,g:Creative Writing,L,"Cruz, Rachel (P)",WEIR 202, ,20,3,TR,,1530,1645,,,WEIR 202,TR,1530-1645
+HUMA,English,Fall 2024,23213,ENGL 3041-01,g:Technical Writing,L,"Olson, Jamie (P)",CRAMER 239, ,20,3,TR,,930,1045,,,CRAMER 239,TR,0930-1045
+HUMA,English,Fall 2024,23214,ENGL 3041-02,g:Technical Writing,L,"Olson, Jamie (P)",CRAMER 239, ,20,3,TR,,1100,1215,,,CRAMER 239,TR,1100-1215
+HUMA,English,Fall 2024,23218,ENGL 3041-03,g:Technical Writing,L,"Olson, Jamie (P)",CRAMER 239, ,20,3,TR,,1400,1515,,,CRAMER 239,TR,1400-1515
+HUMA,English,Fall 2024,23223,ENGL 3041-04,g:Technical Writing,L,"Olson, Jamie (P)",CRAMER 239, ,20,3,TR,,1530,1645,,,CRAMER 239,TR,1530-1645
+HUMA,English,Fall 2024,24255,ENGL 3041-05,g:Technical Writing,,, , ,0,3,,,,,,, ,,
+HUMA,Film and Media (Creative Art),Fall 2024,23383,FDMA 1266-01,Digital Tech Visual Art- Fresh,,, , ,0,3,,,,,,, ,,
+HUMA,Film and Media (Creative Art),Fall 2024,23384,FDMA 1266-02,g:Digital Tech Visual Art,,, , ,0,3,,,,,,, ,,
+HUMA,History,Fall 2024,24184,HIST 1110-02,U.S History I (Freshman),,, , ,0,3,,,,,,, ,,
+HUMA,History,Fall 2024,24690,HIST 1120-01D,g:United States History II,L,"Stringer, Gregory (P)", , ,30,3,,,,,,, ,,
+HUMA,History,Fall 2024,23134,HIST 1150-01,Western Civil I (Freshman),L,"Mikhailova, Yulia (P)",CRAMER 239, ,10,3,MWF,,1200,1250,,,CRAMER 239,MWF,1200-1250
+HUMA,History,Fall 2024,23135,HIST 1150-02,Western Civilization I,L,"Mikhailova, Yulia (P)",CRAMER 239, ,15,3,MWF,,1200,1250,,,CRAMER 239,MWF,1200-1250
+HUMA,History,Fall 2024,23136,HIST 1166-01,Sci&Tech:Handaxe to Steam fres,L,"Mikhailova, Yulia (P)",CRAMER 239, ,5,3,MWF,,1000,1050,,,CRAMER 239,MWF,1000-1050
+HUMA,History,Fall 2024,24185,HIST 1166-02,Sci&Tech from Handaxe to Steam,L,"Mikhailova, Yulia (P)",CRAMER 239, ,20,3,MWF,,1000,1050,,,CRAMER 239,MWF,1000-1050
+HUMA,History,Fall 2024,23244,HIST 3045-01,g:Rise & Fall of Soviet Union,L,"Mikhailova, Yulia (P)",CRAMER 239, ,25,3,MWF,,1300,1350,,,CRAMER 239,MWF,1300-1350
+HUMA,Humanities (HUMA),Fall 2024,24339,HUMN 1220-01,Film Genres (Fresh),L,"McCullough, Hayley (P)",SPEARE 116, ,10,3,TR,,930,1045,,,SPEARE 116,TR,0930-1045
+HUMA,Humanities (HUMA),Fall 2024,24340,HUMN 1220-02,g:Film Genres,L,"McCullough, Hayley (P)",SPEARE 116, ,15,3,TR,,930,1045,,,SPEARE 116,TR,0930-1045
+HUMA,Humanities (HUMA),Fall 2024,24341,HUMN 1220-03,g:Film Genres,L,"McCullough, Hayley (P)",SPEARE 117, ,10,3,TR,,1100,1215,,,SPEARE 117,TR,1100-1215
+HUMA,Humanities (HUMA),Fall 2024,24342,HUMN 1220-04,g:Film Genres,L,"McCullough, Hayley (P)",SPEARE 117, ,7,3,TR,,1100,1215,,,SPEARE 117,TR,1100-1215
+HUMA,Humanities (HUMA),Fall 2024,24571,HUMN 1220-05,Film Genres (Freshman),L,"McCullough, Hayley (P)",SPEARE 117, ,8,3,TR,,1100,1215,,,SPEARE 117,TR,1100-1215
+HUMA,Humanities (HUMA),Fall 2024,24343,HUMN 2170-01,g:Latin American Food & Cultur,L,"Johnson, Matthew (P)",SPEARE 117, ,32,3,MWF,,1400,1450,,,SPEARE 117,MWF,1400-1450
+HUMA,Music (Performance/Vocal),Fall 2024,23370,MUS 3041-01,Jazz Ensemble,L,"Benalil, Gaby (P)",RH , ,12,1,TR,,1100,1215,,,RH ,TR,1100-1215
+HUMA,Music (Performance/Vocal),Fall 2024,23371,MUS 3051-01,Chamber Orchestra,L,"Benalil, Gaby (P)",RH 232, ,15,1,TR,,1215,1330,,,RH 232,TR,1215-1330
+HUMA,Music (Performance/Vocal),Fall 2024,23372,MUS 3051-02,Chamber Orchestra,L,"Benalil, Gaby (P)",RH 232, ,12,1,TR,,1215,1330,,,RH 232,TR,1215-1330
+HUMA,Music (Creative Art),Fall 2024,24483,MUSC 0189-01D,Intro to Counterpoint & Harmon,L,"Benalil, Gaby (P)", , ,15,1,,,,,,, ,,
+HUMA,Music (Creative Art),Fall 2024,24689,MUSC 1110-01D,g:Music Appreciation: Jazz,L,"Pias, Edward (P)",WEB-V , ,35,3,,,,,,,WEB-V ,,
+HUMA,Music (Creative Art),Fall 2024,23254,MUSC 1130-01D,Music Apprec: Western (Fresh),L,"Pias, Edward (P)",WEB , ,15,3,,,,,,,WEB ,,
+HUMA,Music (Creative Art),Fall 2024,23256,MUSC 1130-02D,Music Appreciation: Western,L,"Pias, Edward (P)",WEB , ,43,3,,,,,,,WEB ,,
+HUMA,Music (Creative Art),Fall 2024,23085,MUSC 1210-01D,Fundamentals of Music (Fresh),L,"Benalil, Gaby (P)", , ,15,3,M,,1200,1250,,, ,M,1200-1250
+HUMA,Music (Creative Art),Fall 2024,23152,MUSC 1210-02D,g:Fundamentals of Music,L,"Benalil, Gaby (P)", , ,35,3,M,,1200,1250,,, ,M,1200-1250
+HUMA,Music (Creative Art),Fall 2024,24344,MUSC 2420-01D,g:Comprehensive Musicianship,L,"Benalil, Gaby (P)", , ,25,3,M,,900,950,,, ,M,0900-0950
+HUMA,Music (Creative Art),Fall 2024,24655,MUSC 2420L-01D,g:Compreh Musicianship Lab,B,"Benalil, Gaby (P)", , ,25,1,,,,,,, ,,
+HUMA,Music (Creative Art),Fall 2024,24345,MUSC 3000-01D,g:Music Theory,L,"Benalil, Gaby (P)", , ,25,3,M,,1100,1150,,, ,M,1100-1150
+HUMA,Music (Creative Art),Fall 2024,24656,MUSC 3000L-01D,g:Music Theory Lab,B,"Benalil, Gaby (P)", , ,25,1,,,,,,, ,,
+HUMA,Music (Performance/Vocal),Fall 2024,24485,MUSV 3031-01,Chamber Choir,A,"Benalil, Gaby (P)", , ,25,1,T,,1200,1250,,, ,T,1200-1250
+HUMA,Music (Performance/Vocal),Fall 2024,24675,MUSV 3031-02,Chamber Choir Scholarship,L,"Benalil, Gaby (P)", , ,1,0,T,,1200,1250,,, ,T,1200-1250
+HUMA,Music (Performance/Vocal),Fall 2024,24486,MUSV 3036-01,Opera Study and Performance,B,"Benalil, Gaby (P)", , ,25,2,T,,1600,1800,,, ,T,1600-1800
+HUMA,Music (Performance/Vocal),Fall 2024,24223,MUSV 3041-01,Jazz Ensemble,A,"Benalil, Gaby (P)",RH 232, ,25,1,R,,1600,1800,,,RH 232,R,1600-1800
+HUMA,Music (Performance/Vocal),Fall 2024,24224,MUSV 3052-01,Chamber Orchestra,L,"Benalil, Gaby (P)",RH 232, ,15,1,R,,1600,1800,,,RH 232,R,1600-1800
+HUMA,Music (Performance/Vocal),Fall 2024,24225,MUSV 3052-02,Chamber Orchestra Scholarship,L,"Benalil, Gaby (P)",RH 232, ,12,0,R,,1600,1800,,,RH 232,R,1600-1800
+HUMA,Music (Performance/Vocal),Fall 2024,24594,MUSV 3052-03,Chamber Orchestra,L,"Benalil, Gaby (P)", , ,6,1,R,,1600,1750,,, ,R,1600-1750
+HUMA,Public Communication,Fall 2024,23374,PCOM 5003-01,Applied Research Methods,S,"McCullough, Hayley (P)",CRAMER 203, ,4,3,TR,,1530,1645,,,CRAMER 203,TR,1530-1645
+HUMA,Public Communication,Fall 2024,23377,PCOM 5003-01D,Applied Research Methods,S,"McCullough, Hayley (P)",WEB-V , ,6,3,TR,,1530,1645,,,WEB-V ,TR,1530-1645
+HUMA,Public Communication,Fall 2024,24349,PCOM 5005-01,Ethical/Soc Issues in Pub Enga,L,"ChoGlueck, Christopher (P)",SPEARE 116, ,10,3,W,,1415,1645,,,SPEARE 116,W,1415-1645
+HUMA,Public Communication,Fall 2024,24350,PCOM 5005-01D,Ethical/Soc Issues in Pub Enga,L,"ChoGlueck, Christopher (P)",WEB-V , ,5,3,W,,1415,1645,,,WEB-V ,W,1415-1645
+HUMA,Public Communication,Fall 2024,24612,PCOM 5090-01,Independent Study,I,"Kramer-Simpson, Elisabeth (P)", , ,2,Variable,,,,,,, ,,
+HUMA,Public Communication,Fall 2024,24556,PCOM 5091-01,Thesis,T,"McCullough, Hayley (P)", , ,1,Variable,,,,,,, ,,
+HUMA,Public Communication,Fall 2024,24597,PCOM 5091-02,Thesis,T,"Kramer-Simpson, Elisabeth (P)", , ,3,Variable,,,,,,, ,,
+HUMA,Philosophy,Fall 2024,24346,PHIL 1146-01,Ethics & Values in STEM Fresh,L,"ChoGlueck, Christopher (P)",SPEARE 117, ,10,3,MWF,,1100,1150,,,SPEARE 117,MWF,1100-1150
+HUMA,Philosophy,Fall 2024,24347,PHIL 1146-02,g:Ethics & Values in STEM,L,"ChoGlueck, Christopher (P)",SPEARE 117, ,16,3,MWF,,1100,1150,,,SPEARE 117,MWF,1100-1150
+HUMA,Philosophy,Fall 2024,23281,PHIL 3042-01,g:Philosophy of Bioethics,L,"ChoGlueck, Christopher (P)",SPEARE 116, ,25,3,MWF,,1300,1350,,,SPEARE 116,MWF,1300-1350
+HUMA,Philosophy,Fall 2024,24348,PHIL 4042-01,g:Ethical/Soc Issues Pub Enga,L,"ChoGlueck, Christopher (P)",SPEARE 116, ,10,3,W,,1415,1645,,,SPEARE 116,W,1415-1645
+HUMA,Political Science (POLS),Fall 2024,23282,POLS 4070-01D,g:Policy Science,L,"Pineda Guadarrama, Juan de Dios (P)",WEB-V , ,8,3,M,,1400,1515,,,WEB-V ,M,1400-1515
+HUMA,Political Science (POLS),Fall 2024,23283,POLS 5070-01D,Policy Science,L,"Pineda Guadarrama, Juan de Dios (P)",WEB-V , ,12,3,M,,1400,1515,,,WEB-V ,M,1400-1515
+HUMA,Psychology (PSYC),Fall 2024,23092,PSYC 1110-01,Intro to Psychology (Freshman),L,"Elliott, Taffeta (P)",CRAMER 203, ,20,3,MWF,,900,950,,,CRAMER 203,MWF,0900-0950
+HUMA,Psychology (PSYC),Fall 2024,23111,PSYC 1110-02,g:Introduction to Psychology,L,"Elliott, Taffeta (P)",CRAMER 203, ,40,3,MWF,,900,950,,,CRAMER 203,MWF,0900-0950
+HUMA,Psychology (PSYC),Fall 2024,24522,PSYC 1180-01,Science & Pseudoscienc (Fresh),L,"Thomas, David (P)",CRAMER 124, ,15,3,TR,,1700,1815,,,CRAMER 124,TR,1700-1815
+HUMA,Psychology (PSYC),Fall 2024,24523,PSYC 1180-02,g:Science & Pseudoscience,L,"Thomas, David (P)",CRAMER 124, ,22,3,TR,,1700,1815,,,CRAMER 124,TR,1700-1815
+HUMA,Psychology (PSYC),Fall 2024,23151,PSYC 2310-01,g:Drugs & Behavior,L,"Thompson, Stewart (P)",CRAMER 124, ,30,3,TR,,1230,1345,,,CRAMER 124,TR,1230-1345
+HUMA,Psychology (PSYC),Fall 2024,24351,PSYC 3005-01,g:Cognitive Psychology,L,"Samuels, Mark (P) / Jackson (SIG), Kyle",CRAMER 124, ,16,3,MWF,,1300,1350,,,CRAMER 124,MWF,1300-1350
+HUMA,Psychology (PSYC),Fall 2024,24352,PSYC 3005L-01,g:Cognitive Psychology Lab,B,"Samuels, Mark (P)",CRAMER 124, ,16,1,W,,1500,1650,,,CRAMER 124,W,1500-1650
+HUMA,Psychology (PSYC),Fall 2024,24353,PSYC 3020-01,g:Psychology of Language,L,"Elliott, Taffeta (P)",CRAMER 107, ,25,3,MWF,,1400,1450,,,CRAMER 107,MWF,1400-1450
+HUMA,Psychology (PSYC),Fall 2024,24354,PSYC 3023-01,g:Child & Adolescent Developme,L,"Samuels, Mark (P)",CRAMER 124, ,25,3,MWF,,1000,1050,,,CRAMER 124,MWF,1000-1050
+HUMA,Psychology (PSYC),Fall 2024,24318,PSYC 4010-01,g:Neurology,L,"Thompson, Stewart (P)",CRAMER 124, ,20,3,TR,,1530,1645,,,CRAMER 124,TR,1530-1645
+HUMA,Social Science (SOSC),Fall 2024,24356,SOSC 0289-01,Unintended Consequences,L,"Dotson, Taylor (P)",MSEC 101, ,25,3,TR,,930,1045,,,MSEC 101,TR,0930-1045
+HUMA,Social Science (SOSC),Fall 2024,23378,SOSC 1320-01,Creation of the Univer (Fresh),L,"Romero, Van (P)",CRAMER 101, ,21,3,TR,,800,915,,,CRAMER 101,TR,0800-0915
+HUMA,Social Science (SOSC),Fall 2024,23379,SOSC 1320-02,g:Creation of the Universe ,L,"Romero, Van (P)",CRAMER 101, ,39,3,TR,,800,915,,,CRAMER 101,TR,0800-0915
+HUMA,Social Science (SOSC),Fall 2024,24355,SOSC 3120-01,"g:Biodiversity, Nature, Societ",L,"Dotson, Taylor (P)",JONESA 101, ,25,3,TR,,1100,1215,,,JONESA 101,TR,1100-1215
+HUMA,Spanish,Fall 2024,24357,SPAN 0289-01,Spanish for STEM Professions,L,"Johnson, Matthew (P)",SPEARE 117, ,25,3,MWF,,1200,1250,,,SPEARE 117,MWF,1200-1250
+HUMA,Spanish,Fall 2024,23095,SPAN 1110-01,Spanish I (Fresh),L,"Johnson, Matthew (P)",SPEARE 117, ,12,3,MWF,,900,950,,,SPEARE 117,MWF,0900-0950
+HUMA,Spanish,Fall 2024,23137,SPAN 1110-02,g:Spanish I,L,"Johnson, Matthew (P)",SPEARE 117, ,17,3,MWF,,900,950,,,SPEARE 117,MWF,0900-0950
+HUMA,Spanish,Fall 2024,24562,SPAN 491-01,Directed Study,D,"Johnson, Matthew (P)", , ,1,3,,,,,,, ,,
+HUMA,Technical Communication (TCOM),Fall 2024,23140,TCOM 1120-01,g:Orientation to Technical Com,L,"Kramer-Simpson, Elisabeth (P)",FITCH 107, ,15,1,W,,1600,1650,,,FITCH 107,W,1600-1650
+HUMA,Technical Communication (TCOM),Fall 2024,23309,TCOM 3021-01,g:Internship,N,"Kramer-Simpson, Elisabeth (P)",FITCH 107, ,5,3,W,,1400,1450,,,FITCH 107,W,1400-1450
+HUMA,Technical Communication (TCOM),Fall 2024,24358,TCOM 4005-01,g:Science Writing,L,"Dotson, Taylor (P)",CRAMER 107, ,15,3,TR,,1400,1515,,,CRAMER 107,TR,1400-1515
+HUMA,Technical Communication (TCOM),Fall 2024,24359,TCOM 4011-01,g:Persuasive Com & Grant Wrtng,L,"Kramer-Simpson, Elisabeth (P)",CRAMER 127, ,15,3,TR,,1230,1345,,,CRAMER 127,TR,1230-1345
+HUMA,Technical Communication (TCOM),Fall 2024,23310,TCOM 4020-01,Senior Seminar,L,"McCullough, Hayley (P)",CRAMER 203, ,10,3,TR,,1530,1645,,,CRAMER 203,TR,1530-1645
+HUMA,Technical Communication (TCOM),Fall 2024,24484,TCOM 5005-01,Science Writing,L,"Dotson, Taylor (P)",CRAMER 107, ,8,3,TR,,1400,1515,,,CRAMER 107,TR,1400-1515
+HUMA,Technical Communication (TCOM),Fall 2024,24633,TCOM 5005-01D,Science Writing,L,"Dotson, Taylor (P)", , ,2,3,TR,,1400,1515,,, ,TR,1400-1515
+HUMA,Technical Communication (TCOM),Fall 2024,24360,TCOM 5011-01,Persuasive Comm & Grant Wrtng,L,"Kramer-Simpson, Elisabeth (P)",CRAMER 127, ,5,3,TR,,1230,1345,,,CRAMER 127,TR,1230-1345
+HUMA,Technical Communication (TCOM),Fall 2024,24361,TCOM 5011-01D,Persuasive Comm & Grant Wrtng,L,"Kramer-Simpson, Elisabeth (P)",WEB , ,5,3,TR,,1230,1345,,,WEB ,TR,1230-1345
+HUMA,Theater (Creative Art),Fall 2024,24222,THEA 1210-01,g:Introduction to Acting,L,"Apodaca, Theresa (P)",MSEC 103, ,25,3,TR,,1530,1645,,,MSEC 103,TR,1530-1645
+HUMA,Theater (Creative Art),Fall 2024,24301,THEA 4091-01,Production and Set Design,D,"Apodaca, Theresa (P)", , ,1,3,,,,,,, ,,
+HUMA,Theater (Creative Art),Fall 2024,24302,THEA 4091-02,Directed Study,D,"Apodaca, Theresa (P)", , ,1,3,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23691,MTLS 101L-01,Materials Sci. & Eng. Lab,B,"Fuierer, Paul (P)",JONES 106, ,15,1,M,,1400,1650,,,JONES 106,M,1400-1650
+MATE,Materials Engineering,Fall 2024,23694,MTLS 202-01,Materials Engineering I,L,"Burleigh, Thomas (P)",JONESA 101, ,84,3,TR,,930,1045,,,JONESA 101,TR,0930-1045
+MATE,Materials Engineering,Fall 2024,23695,MTLS 202L-01,Materials Engineering I Lab,B,"Burleigh, Thomas (P)",JONESA 102, ,15,1,M,,1400,1650,,,JONESA 102,M,1400-1650
+MATE,Materials Engineering,Fall 2024,23698,MTLS 202L-02,Materials Engineering I Lab,B,"Burleigh, Thomas (P)",JONESA 102, ,15,1,T,,1400,1650,,,JONESA 102,T,1400-1650
+MATE,Materials Engineering,Fall 2024,23703,MTLS 202L-03,Materials Engineering I Lab,B,"Burleigh, Thomas (P)",JONESA 102, ,16,1,W,,1400,1650,,,JONESA 102,W,1400-1650
+MATE,Materials Engineering,Fall 2024,23707,MTLS 202L-04,Materials Engineering I Lab,B,"Burleigh, Thomas (P)",JONESA 102, ,15,1,R,,1400,1650,,,JONESA 102,R,1400-1650
+MATE,Materials Engineering,Fall 2024,23546,MTLS 3001-01,Intro to Ceramic Engineering,L,"Fuierer, Paul (P)",JONESA 102, ,20,3,TR,,1100,1215,,,JONESA 102,TR,1100-1215
+MATE,Materials Engineering,Fall 2024,23557,MTLS 3010-01,Proc.& Microstruct. Meth.& Ana,L,"Choudhuri, Deep (P)",JONES 227, ,20,3,TR,,1400,1645,,,JONES 227,TR,1400-1645
+MATE,Materials Engineering,Fall 2024,23558,MTLS 3050-01,Materials Thermodynamics,L,"Bhattacharjee, Arjak (P)",LOPEZ 106, ,40,3,TR,,1230,1345,,,LOPEZ 106,TR,1230-1345
+MATE,Materials Engineering,Fall 2024,23559,MTLS 4010-01,Microstruct Char Meth & Analys,L,"Kalugin, Nikolai (P)",JONES 106, ,20,3,TR,,1400,1515,,,JONES 106,TR,1400-1515
+MATE,Materials Engineering,Fall 2024,23560,MTLS 4045-01,Intro to Composite Materials,L,"Majumdar, Bhaskar (P)",MSEC 105, ,35,3,TR,,930,1045,,,MSEC 105,TR,0930-1045
+MATE,Materials Engineering,Fall 2024,23562,MTLS 4045-01D,Intro to Composite Materials,L,"Majumdar, Bhaskar (P)",WEB , ,35,3,TR,,930,1045,,,WEB ,TR,0930-1045
+MATE,Materials Engineering,Fall 2024,23570,MTLS 4081-01,Engineering Design I,L,"Bhattacharjee, Arjak (P)",CRAMER 203, ,50,2,MW,,1100,1150,,,CRAMER 203,MW,1100-1150
+MATE,Materials Engineering,Fall 2024,23573,MTLS 4081L-01,Eng. Design I Lab,B,"Bhattacharjee, Arjak (P)",CRAMER 203, ,20,1,F,,1100,1150,,,CRAMER 203,F,1100-1150
+MATE,Materials Engineering,Fall 2024,24401,MTLS 4089-01,Defract Mthds & Crystallograph,L,"Rakovan, John (P)",BUREAU 111A, ,4,3,TR,,800,915,,,BUREAU 111A,TR,0800-0915
+MATE,Materials Engineering,Fall 2024,23579,MTLS 5000-01,Directed Research,D,"Burleigh, Thomas (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23581,MTLS 5000-02,Directed Research,D,"Fuierer, Paul (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23582,MTLS 5000-03,Directed Research,D,"Hargather, Chelsey (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23583,MTLS 5000-04,Directed Research,D,"Kalugin, Nikolai (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23586,MTLS 5000-05,Directed Research,D,"Majumdar, Bhaskar (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23588,MTLS 5000-06,Directed Research,D,"McCoy, John (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23589,MTLS 5000-07,Directed Research,D,"Leclerc, Corey (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23590,MTLS 5000-08,Directed Research,D,"Tartis, Michaelann (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23591,MTLS 5000-09,Directed Research,D,"Choudhury, Pabitra (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23592,MTLS 5000-10,Directed Research,D,"Chowdhury, Sanchari (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23593,MTLS 5000-11,Directed Research,D,"Lee, Youngmin (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23595,MTLS 5000-12,Directed Research,D,"Choudhuri, Deep (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23596,MTLS 5000-13,Directed Research,D,"Bhattacharjee, Arjak (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,24572,MTLS 5009-01,Stat Mechanics of Simple Matls,L,"Choudhuri, Deep (P)",JONES 106, ,16,3,MWF,,1000,1050,,,JONES 106,MWF,1000-1050
+MATE,Materials Engineering,Fall 2024,24573,MTLS 5009-01D,Stat Mechanics of Simple Matls,L,"Choudhuri, Deep (P)",WEB-V , ,10,3,MWF,,1000,1050,,,WEB-V ,MWF,1000-1050
+MATE,Materials Engineering,Fall 2024,24374,MTLS 5060-01,Failure Analysis,L,"Burleigh, Thomas (P)",JONESA 102, ,24,3,MWF,,900,950,,,JONESA 102,MWF,0900-0950
+MATE,Materials Engineering,Fall 2024,24384,MTLS 5060-01D,Failure Analysis,L,"Burleigh, Thomas (P)",WEB-V , ,20,3,MWF,,900,950,,,WEB-V ,MWF,0900-0950
+MATE,Materials Engineering,Fall 2024,24371,MTLS 5089-01,Defract Mthds & Crystallograph,L,"Rakovan, John (P)",BUREAU 111A, ,1,3,TR,,800,915,,,BUREAU 111A,TR,0800-0915
+MATE,Materials Engineering,Fall 2024,24383,MTLS 5090-01,Stat Mech of Materials,I,, , ,0,3,MWF,,1000,1050,,, ,MWF,1000-1050
+MATE,Materials Engineering,Fall 2024,23597,MTLS 5091-01,Thesis,T,"Burleigh, Thomas (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23598,MTLS 5091-02,Thesis,T,"Fuierer, Paul (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23599,MTLS 5091-03,Thesis,T,"Hargather, Chelsey (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23600,MTLS 5091-04,Thesis,T,"Kalugin, Nikolai (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23601,MTLS 5091-05,Thesis,T,"Majumdar, Bhaskar (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23602,MTLS 5091-06,Thesis,T,"Bhattacharjee, Arjak (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23603,MTLS 5091-07,Thesis,T,"Leclerc, Corey (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23604,MTLS 5091-08,Thesis,T,"Tartis, Michaelann (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23605,MTLS 5091-09,Thesis,T,"Choudhury, Pabitra (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23606,MTLS 5091-10,Thesis,T,"Chowdhury, Sanchari (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23608,MTLS 5091-11,Thesis,T,"Lee, Youngmin (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23609,MTLS 5091-12,Thesis,T,"Choudhuri, Deep (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23610,MTLS 5095-01,Dissertation,P,"Burleigh, Thomas (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23663,MTLS 5095-02,Dissertation,P,"Fuierer, Paul (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23665,MTLS 5095-03,Dissertation,P,"Hargather, Chelsey (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23667,MTLS 5095-04,Dissertation,P,"Kalugin, Nikolai (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23668,MTLS 5095-05,Dissertation,P,"Majumdar, Bhaskar (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23671,MTLS 5095-06,Dissertation,P,"Bhattacharjee, Arjak (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23672,MTLS 5095-07,Dissertation,P,"Leclerc, Corey (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23673,MTLS 5095-08,Dissertation,P,"Tartis, Michaelann (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23674,MTLS 5095-09,Dissertation,P,"Choudhury, Pabitra (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23675,MTLS 5095-10,Dissertation,P,"Chowdhury, Sanchari (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23676,MTLS 5095-11,Dissertation,P,"Lee, Youngmin (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,23678,MTLS 5095-12,Dissertation,P,"Choudhuri, Deep (P)", , ,5,Variable,,,,,,, ,,
+MATE,Materials Engineering,Fall 2024,24375,MTLS 5095-13,Dissertation,P,"Bhattacharjee, Arjak (P)", , ,5,Variable,,,800,900,,, ,,0800-0900
+MATE,Materials Engineering,Fall 2024,24376,MTLS 5099-01,"Intro to Quantum Materials	",D,"Kalugin, Nikolai (P)",WEIR 202, ,20,3,TR,,930,1045,,,WEIR 202,TR,0930-1045
+MATE,Materials Engineering,Fall 2024,24382,MTLS 5099-01D,Intro to Quantum Materials,D,"Kalugin, Nikolai (P)",WEB-V , ,20,3,TR,,930,1045,,,WEB-V ,TR,0930-1045
+MATH,Mathematics,Fall 2024,23156,MATH 0289-01,Vector Calculus,L,"Kerr, Gilbert (P)",WEIR 102, ,5,1,MWF,,1100,1205,,,WEIR 102,MWF,1100-1205
+MATH,Mathematics,Fall 2024,23157,MATH 0289-02,Vector Calculus,L,"Ballou, Lynda (P)",CRAMER 101, ,5,1,MWF,,1245,1350,,,CRAMER 101,MWF,1245-1350
+MATH,Mathematics,Fall 2024,23053,MATH 1220-01,College Algebra,L,"Aitbayev, Rakhim (P) / Li, Zhantao",WEIR 203,SPEARE 23,30,3,MWF,TR,900,950,930,1020,WEIR 203 / SPEARE 23,MWF / TR,0900-0950 / 0930-1020
+MATH,Mathematics,Fall 2024,23161,MATH 1220-02,College Algebra,L,"Aitbayev, Rakhim (P) / Ifeacho, Ogochukwu",WEIR 203,SPEARE 16,30,3,MWF,TR,1000,1050,1000,1050,WEIR 203 / SPEARE 16,MWF / TR,1000-1050 / 1000-1050
+MATH,Mathematics,Fall 2024,23059,MATH 1230-01,Trigonometry,L,"Crump, Iain (P)",CRAMER 101, ,60,3,MWF,,900,950,,,CRAMER 101,MWF,0900-0950
+MATH,Mathematics,Fall 2024,23060,MATH 1230-02,Trigonometry,L,"Uddin, Mohammad Shihab (P) / Crump, Iain",WEIR 202, ,25,3,MWF,,1000,1050,,,WEIR 202,MWF,1000-1050
+MATH,Mathematics,Fall 2024,23061,MATH 1230L-01,Trigonometry Lab,B,"Uddin, Bushra (P) / Crump, Iain",CRAMER 107, ,21,0,TR,,1530,1645,,,CRAMER 107,TR,1530-1645
+MATH,Mathematics,Fall 2024,23062,MATH 1230L-02,Trigonometry Lab,B,"Hackett, Christian (P) / Crump, Iain",CRAMER 107, ,20,0,MW,,1700,1815,,,CRAMER 107,MW,1700-1815
+MATH,Mathematics,Fall 2024,23063,MATH 1230L-03,Trigonometry Lab,B,"Hackett, Christian (P) / Crump, Iain",CRAMER 107, ,20,0,MW,,1830,2000,,,CRAMER 107,MW,1830-2000
+MATH,Mathematics,Fall 2024,23054,MATH 1240-01,Pre-Calculus,L,"Crump, Iain (P)",CRAMER 120, ,50,3,MWF,,1100,1150,,,CRAMER 120,MWF,1100-1150
+MATH,Mathematics,Fall 2024,23055,MATH 1240-02,Pre-Calculus,L,"Lopez, Nehemiah (P) / Crump, Iain",WEIR 132, ,25,3,MWF,,1300,1350,,,WEIR 132,MWF,1300-1350
+MATH,Mathematics,Fall 2024,23056,MATH 1240L-01,Pre-Calculus Lab,B,"Cervantes, Bishop (P) / Crump, Iain",WEIR 202, ,25,0,MW,,1700,1815,,,WEIR 202,MW,1700-1815
+MATH,Mathematics,Fall 2024,23057,MATH 1240L-02,Pre-Calculus Lab,B,"Cervantes, Bishop (P) / Crump, Iain",WEIR 132, ,25,0,TR,,1700,1815,,,WEIR 132,TR,1700-1815
+MATH,Mathematics,Fall 2024,23058,MATH 1240L-03,Pre-Calculus Lab,B,"Owusu, Sampson (P) / Crump, Iain",WEIR 132, ,25,0,TR,,1400,1515,,,WEIR 132,TR,1400-1515
+MATH,Mathematics,Fall 2024,23119,MATH 1510-01,g: Calculus I,L,"Ballou, Lynda (P)",CRAMER 101, ,50,4,MWF,,1100,1150,,,CRAMER 101,MWF,1100-1150
+MATH,Mathematics,Fall 2024,23064,MATH 1510-02,g: Calculus I,L,"Ballou, Lynda (P)",CRAMER 101, ,50,4,MWF,,1400,1450,,,CRAMER 101,MWF,1400-1450
+MATH,Mathematics,Fall 2024,23120,MATH 1510-03,g: Calculus I,L,"Wolford, Todd (P)",CRAMER 203, ,50,4,MWF,,1300,1350,,,CRAMER 203,MWF,1300-1350
+MATH,Mathematics,Fall 2024,23121,MATH 1510L-01,g: Calculus I Lab,B,"Zeir, Tavi (P)",WEIR 132, ,28,0,TR,,1100,1215,,,WEIR 132,TR,1100-1215
+MATH,Mathematics,Fall 2024,23122,MATH 1510L-02,g: Calculus I Lab,B,"Good, Forest (P)",WEIR 132, ,27,0,TR,,800,915,,,WEIR 132,TR,0800-0915
+MATH,Mathematics,Fall 2024,23123,MATH 1510L-03,g: Calculus I Lab,B,,WEIR 132, ,0,0,MWF,,835,950,,,WEIR 132,MWF,0835-0950
+MATH,Mathematics,Fall 2024,23124,MATH 1510L-04,g: Calculus I Lab,B,"Ndaya, Henri (P)",WEIR 132, ,27,0,TR,,1230,1345,,,WEIR 132,TR,1230-1345
+MATH,Mathematics,Fall 2024,23065,MATH 1510L-05,g: Calculus I Lab,B,"Ramos Valenzuela, Nadia (P)",WEIR 132, ,27,0,MW,,1645,1800,,,WEIR 132,MW,1645-1800
+MATH,Mathematics,Fall 2024,23066,MATH 1510L-06,g: Calculus I Lab,B,"Good, Forest (P)",WEIR 132, ,27,0,TR,,1530,1645,,,WEIR 132,TR,1530-1645
+MATH,Mathematics,Fall 2024,23067,MATH 1520-01,g: Calculus II,L,"Wolford, Todd (P)",CRAMER 107, ,50,4,MWF,,1100,1215,,,CRAMER 107,MWF,1100-1215
+MATH,Mathematics,Fall 2024,23068,MATH 1520-02,g: Calculus II,L,"Crump, Iain (P)",CRAMER 107, ,50,4,MWF,,1235,1350,,,CRAMER 107,MWF,1235-1350
+MATH,Mathematics,Fall 2024,24603,MATH 1520A-01,Calc II Ext (pt 1)(9/16-12/16),L,"Wolford, Todd (P)",WEIR 102, ,25,4,MWF,,755,855,,,WEIR 102,MWF,0755-0855
+MATH,Mathematics,Fall 2024,23389,MATH 1520B-01,g: Calc II Extended (Part 2),L,"Jones, Saunder (P)",MSEC 105, ,25,2,TR,,800,915,,,MSEC 105,TR,0800-0915
+MATH,Mathematics,Fall 2024,23071,MATH 2350-01,Statistical Methods,L,"Makhnin, Oleg (P)",CRAMER 101, ,30,3,MWF,,1000,1050,,,CRAMER 101,MWF,1000-1050
+MATH,Mathematics,Fall 2024,23104,MATH 2350L-01,Statistical Methods Lab,B,"Uddin, Bushra (P)",SPEARE 4, ,18,0,M,,1700,1815,,,SPEARE 4,M,1700-1815
+MATH,Mathematics,Fall 2024,23105,MATH 2350L-02,Statistical Methods Lab,B,"Uddin, Bushra (P)",SPEARE 16, ,20,0,T,,1800,1915,,,SPEARE 16,T,1800-1915
+MATH,Mathematics,Fall 2024,23070,MATH 2420-01,Applied Linear Algebra,L,"Orizaga, Saulo (P)",WORKC 109, ,40,3,TR,,930,1045,,,WORKC 109,TR,0930-1045
+MATH,Mathematics,Fall 2024,23103,MATH 2420L-01,Applied Linear Algebra Lab,B,"Owusu, Sampson (P)",SPEARE 23, ,20,0,T,,1800,1915,,,SPEARE 23,T,1800-1915
+MATH,Mathematics,Fall 2024,23158,MATH 2420L-02,Applied Linear Algebra Lab,B,"Owusu, Sampson (P)",SPEARE 16, ,20,0,M,,1800,1915,,,SPEARE 16,M,1800-1915
+MATH,Mathematics,Fall 2024,23125,MATH 2532-01,Calculus III,L,"Kerr, Gilbert (P)",WEIR 102, ,50,4,MWF,,1100,1205,,,WEIR 102,MWF,1100-1205
+MATH,Mathematics,Fall 2024,23069,MATH 2532-02,Calculus III,L,"Ballou, Lynda (P)",CRAMER 101, ,50,4,MWF,,1245,1350,,,CRAMER 101,MWF,1245-1350
+MATH,Mathematics,Fall 2024,23406,MATH 3035-01,Ordinary Differential Equation,L,"Kerr, Gilbert (P)",WEIR 203, ,45,3,TR,,1230,1345,,,WEIR 203,TR,1230-1345
+MATH,Mathematics,Fall 2024,23407,MATH 3035-02,Ordinary Differential Equation,L,"Zhang, Mingji (P)",WEIR 202, ,45,3,MWF,,900,950,,,WEIR 202,MWF,0900-0950
+MATH,Mathematics,Fall 2024,23408,MATH 3035L-01,ODE Computer Lab,B,"Ndaya, Henri (P)",SPEARE 23, ,30,1,W,,1600,1715,,,SPEARE 23,W,1600-1715
+MATH,Mathematics,Fall 2024,23410,MATH 3036-01,Intro to PDE's,L,"Orizaga, Saulo (P)",WEIR 202, ,40,3,TR,,1100,1215,,,WEIR 202,TR,1100-1215
+MATH,Mathematics,Fall 2024,23413,MATH 3052-01,Basic Concepts of Mathematics,L,"Avramidi, Ivan (P)",WORKC 113, ,30,3,TR,,930,1045,,,WORKC 113,TR,0930-1045
+MATH,Mathematics,Fall 2024,23415,MATH 3072-01,Basic Concepts of Analysis,L,"Wang, Bixiang (P)",CRAMER 107, ,40,3,TR,,930,1045,,,CRAMER 107,TR,0930-1045
+MATH,Mathematics,Fall 2024,23417,MATH 3082-01,Probability and Statistics,L,"Hossain, Anwar (P)",WEIR 102, ,61,3,TR,,1400,1515,,,WEIR 102,TR,1400-1515
+MATH,Mathematics,Fall 2024,23420,MATH 3082L-01,Probability and Statistics Lab,B,"Uddin, Mohammad Shihab (P)",CRAMER 127, ,30,1,M,,1830,1945,,,CRAMER 127,M,1830-1945
+MATH,Mathematics,Fall 2024,23438,MATH 3082L-02,Probability and Statistics Lab,B,"Ramos Valenzuela, Nadia (P)",SPEARE 16, ,30,1,T,,1100,1215,,,SPEARE 16,T,1100-1215
+MATH,Mathematics,Fall 2024,23439,MATH 4010-01,Numerical Methods I,L,"Aitbayev, Rakhim (P)",WEIR 202, ,30,3,TR,,800,915,,,WEIR 202,TR,0800-0915
+MATH,Mathematics,Fall 2024,23442,MATH 4030-01,Mathematical Modeling,L,"Gonzalez Parra, Gilberto (P)",WORKC 113, ,20,3,MWF,,1100,1150,,,WORKC 113,MWF,1100-1150
+MATH,Mathematics,Fall 2024,24365,MATH 4035-01,Complex Analysis,D,"Gonzalez Parra, Gilberto (P)",CRAMER 101, ,20,3,TR,,930,1045,,,CRAMER 101,TR,0930-1045
+MATH,Mathematics,Fall 2024,24212,MATH 4037-01,Systems of ODE's,L,"Zhang, Mingji (P)",WEIR 132, ,20,3,MWF,,1000,1050,,,WEIR 132,MWF,1000-1050
+MATH,Mathematics,Fall 2024,23443,MATH 4083-01,Mathematical Statistics,L,"Hossain, Anwar (P)",CRAMER 203, ,20,3,TR,,930,1045,,,CRAMER 203,TR,0930-1045
+MATH,Mathematics,Fall 2024,24682,MATH 4091-01,Projects with machine learning,D,"Gonzalez Parra, Gilberto (P)", , ,1,3,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23445,MATH 5000-01,Directed Research,D,"Aitbayev, Rakhim (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23447,MATH 5000-02,Directed Research,D,"Avramidi, Ivan (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23449,MATH 5000-03,Directed Research,D,"Borchers, Brian (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23451,MATH 5000-04,Directed Research,D,"Hossain, Anwar (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23452,MATH 5000-05,Directed Research,D,"Kerr, Gilbert (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23454,MATH 5000-06,Directed Research,D,"Makhnin, Oleg (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23456,MATH 5000-07,Directed Research,D,"Stone, William (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23457,MATH 5000-08,Directed Research,D,"Wang, Bixiang (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23458,MATH 5000-09,Directed Research,D,"Zhang, Mingji (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23459,MATH 5000-10,Directed Research,D,"Gonzalez Parra, Gilberto (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23460,MATH 5000-11,Directed Research,D,"Orizaga, Saulo (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,24364,MATH 5013-01,Adv Topics: Numerical Analysis,D,"Aitbayev, Rakhim (P)",CRAMER 124, ,15,3,TR,,1100,1215,,,CRAMER 124,TR,1100-1215
+MATH,Mathematics,Fall 2024,24366,MATH 5020-01,Applied Multivariate Analysis,L,"Makhnin, Oleg (P)",WEIR 202, ,10,3,MWF,,1400,1450,,,WEIR 202,MWF,1400-1450
+MATH,Mathematics,Fall 2024,23766,MATH 5030-01,Mathematical Modeling,L,"Gonzalez Parra, Gilberto (P)",WORKC 113, ,20,3,MWF,,1100,1150,,,WORKC 113,MWF,1100-1150
+MATH,Mathematics,Fall 2024,24367,MATH 5033-01,Partial Differential Equations,D,"Wang, Bixiang (P)",LOPEZ 106, ,10,3,TR,,1100,1215,,,LOPEZ 106,TR,1100-1215
+MATH,Mathematics,Fall 2024,24368,MATH 5035-01,Methods of Mathematical Physic,D,"Avramidi, Ivan (P)",WORKC 109, ,10,3,TR,,1230,1345,,,WORKC 109,TR,1230-1345
+MATH,Mathematics,Fall 2024,24369,MATH 5040-01,Calculus of Variations,L,"Stone, William (P)",WEIR 202, ,10,3,MW,,1235,1350,,,WEIR 202,MW,1235-1350
+MATH,Mathematics,Fall 2024,24671,MATH 5089-01,Seminar in Math Physics,L,"Avramidi, Ivan (P)",WORKC 113, ,10,1,W,,1600,1650,,,WORKC 113,W,1600-1650
+MATH,Mathematics,Fall 2024,23738,MATH 5090-01,Independent Study,I,"Aitbayev, Rakhim (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23724,MATH 5090-02,Independent Study,I,"Avramidi, Ivan (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23726,MATH 5090-03,Independent Study,I,"Borchers, Brian (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23727,MATH 5090-04,Independent Study,I,"Hossain, Anwar (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23728,MATH 5090-05,Independent Study,I,"Kerr, Gilbert (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23730,MATH 5090-06,Independent Study,I,"Makhnin, Oleg (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23731,MATH 5090-07,Independent Study,I,"Stone, William (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23732,MATH 5090-08,Independent Study,I,"Wang, Bixiang (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23733,MATH 5090-09,Independent Study,I,"Zhang, Mingji (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23734,MATH 5090-10,Independent Study,I,"Gonzalez Parra, Gilberto (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23736,MATH 5090-11,Independent Study,I,"Orizaga, Saulo (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23723,MATH 5091-01,Thesis,T,"Aitbayev, Rakhim (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23740,MATH 5091-02,Thesis,T,"Avramidi, Ivan (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23742,MATH 5091-03,Thesis,T,"Borchers, Brian (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23743,MATH 5091-04,Thesis,T,"Hossain, Anwar (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23745,MATH 5091-05,Thesis,T,"Kerr, Gilbert (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23746,MATH 5091-06,Thesis,T,"Makhnin, Oleg (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23747,MATH 5091-07,Thesis,T,"Stone, William (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23748,MATH 5091-08,Thesis,T,"Wang, Bixiang (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23750,MATH 5091-09,Thesis,T,"Zhang, Mingji (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23751,MATH 5091-10,Thesis,T,"Gonzalez Parra, Gilberto (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23752,MATH 5091-11,Thesis,T,"Orizaga, Saulo (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,24015,MATH 5091-12,Thesis,T,"Stone, Zeljka (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23753,MATH 5095-01,Dissertation,P,"Aitbayev, Rakhim (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23754,MATH 5095-02,Dissertation,P,"Avramidi, Ivan (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23755,MATH 5095-03,Dissertation,P,"Borchers, Brian (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23756,MATH 5095-04,Dissertation,P,"Hossain, Anwar (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23757,MATH 5095-05,Dissertation,P,"Kerr, Gilbert (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23758,MATH 5095-06,Dissertation,P,"Makhnin, Oleg (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23759,MATH 5095-07,Dissertation,P,"Stone, William (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23760,MATH 5095-08,Dissertation,P,"Wang, Bixiang (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23761,MATH 5095-09,Dissertation,P,"Zhang, Mingji (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23762,MATH 5095-10,Dissertation,P,"Gonzalez Parra, Gilberto (P)", , ,10,Variable,,,,,,, ,,
+MATH,Mathematics,Fall 2024,23763,MATH 5095-11,Dissertation,P,"Orizaga, Saulo (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23127,ME 101-01,Intro to Mineral Engineering,L,"Mojtabai, Navid (P)",MSEC 268, ,10,1,F,,1400,1630,,,MSEC 268,F,1400-1630
+ME,Mineral Engineering,Fall 2024,23473,ME 3020-01,Economic Analysis,L,"Mojtabai, Navid (P)",MSEC 268, ,10,2,MW,,1000,1050,,,MSEC 268,MW,1000-1050
+ME,Mineral Engineering,Fall 2024,23474,ME 3040-01,Geostatistics & Mineral Eval,L,"Arya, Sampurna (P)",MSEC 268, ,10,3,TR,,930,1045,,,MSEC 268,TR,0930-1045
+ME,Mineral Engineering,Fall 2024,23475,ME 3060-01,Exploration & Field Mapping,L,"Chavez, William (P)",MSEC 268,MSEC 268,10,3,F,T,800,1700,1400,1450,MSEC 268 / MSEC 268,F / T,0800-1700 / 1400-1450
+ME,Mineral Engineering,Fall 2024,24601,ME 4008-01,Co-op Work Phase,O,"Mojtabai, Navid (P)", , ,1,1,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23477,ME 4020-01,Soil Mechanics,L,"Razavi, Mohammad (P)",MSEC 103, ,18,3,TR,,1100,1215,,,MSEC 103,TR,1100-1215
+ME,Mineral Engineering,Fall 2024,24478,ME 4020L-01,Soil Mechanics Lab,B,"Razavi, Mohammad (P)",MSEC 259, ,9,0,W,,1400,1630,,,MSEC 259,W,1400-1630
+ME,Mineral Engineering,Fall 2024,24479,ME 4020L-02,Soil Mechanics Lab,B,"Razavi, Mohammad (P)",MSEC 259, ,9,0,R,,1400,1630,,,MSEC 259,R,1400-1630
+ME,Mineral Engineering,Fall 2024,23481,ME 4035-01,Rock Slope Engineering,L,"Mojtabai, Navid (P)",MSEC 268, ,10,3,MW,,1100,1215,,,MSEC 268,MW,1100-1215
+ME,Mineral Engineering,Fall 2024,23483,ME 4040-01,Mine Ventilation,L,"Arya, Sampurna (P)",MSEC 268, ,10,3,TR,,1230,1345,,,MSEC 268,TR,1230-1345
+ME,Mineral Engineering,Fall 2024,23485,ME 4062-01,Mineral Deposits,L,"Hurtig, Nicole (P)",MSEC 253, ,10,3,TR,,930,1045,,,MSEC 253,TR,0930-1045
+ME,Mineral Engineering,Fall 2024,23487,ME 4062L-01,Mineral Deposits Lab,B,"Hurtig, Nicole (P)",MSEC 253, ,10,0,T,,1400,1700,,,MSEC 253,T,1400-1700
+ME,Mineral Engineering,Fall 2024,23492,ME 4070-01,Senior Design I,L,"Mojtabai, Navid (P)", , ,10,1,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23518,ME 5000-01,Directed Research,D,"Roghanchi, Pedram (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23519,ME 5000-02,Directed Research,D,"Mojtabai, Navid (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23520,ME 5000-03,Directed Research,D,"Razavi, Mohammad (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23521,ME 5000-04,Directed Research,D,"Li, Wenfeng (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23522,ME 5000-05,Directed Research,D,"Chavez, William (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23523,ME 5000-06,Directed Research,D,"McLemore, Virginia (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23524,ME 5000-07,Directed Research,D,"Saiang, David (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23493,ME 5006-01,Soil Mechanics,L,"Razavi, Mohammad (P)",MSEC 103, ,15,3,TR,,1100,1215,,,MSEC 103,TR,1100-1215
+ME,Mineral Engineering,Fall 2024,23494,ME 5006L-01,Soil Mechanics Lab,B,"Razavi, Mohammad (P)",MSEC 259, ,8,0,W,,1400,1630,,,MSEC 259,W,1400-1630
+ME,Mineral Engineering,Fall 2024,23495,ME 5006L-02,Soil Mechanics Lab,B,"Razavi, Mohammad (P)",MSEC 259, ,8,0,R,,1400,1630,,,MSEC 259,R,1400-1630
+ME,Mineral Engineering,Fall 2024,23496,ME 5012-01,Advanced Rock Mechanics,L,"Moradian, Omid (P)",JONESA 104, ,15,3,MW,,900,1015,,,JONESA 104,MW,0900-1015
+ME,Mineral Engineering,Fall 2024,23497,ME 5021-01,Advanced Minerals Exploration,L,"Chavez, William (P)",MSEC 290, ,10,3,TR,,1100,1215,,,MSEC 290,TR,1100-1215
+ME,Mineral Engineering,Fall 2024,23498,ME 5022-01,Adv. Exploration Field Mapping,L,"Chavez, William (P)",MSEC 268,FIELD ,10,3,F,R,800,1700,1400,1500,MSEC 268 / FIELD ,F / R,0800-1700 / 1400-1500
+ME,Mineral Engineering,Fall 2024,24204,ME 5026-01,Applied Numerical Method,,, , ,0,3,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23502,ME 5028-01,Advanced Mine Ventilation,L,"Arya, Sampurna (P)",MSEC 268, ,10,3,TR,,1230,1345,,,MSEC 268,TR,1230-1345
+ME,Mineral Engineering,Fall 2024,23499,ME 5035-01,Stability of Rock Slopes,L,"Mojtabai, Navid (P)",MSEC 268, ,15,3,MW,,1100,1215,,,MSEC 268,MW,1100-1215
+ME,Mineral Engineering,Fall 2024,24263,ME 5040-01,Computer App in Geotech Eng,L,"Razavi, Mohammad (P)",CRAMER 127, ,10,3,TR,,930,1045,,,CRAMER 127,TR,0930-1045
+ME,Mineral Engineering,Fall 2024,23501,ME 5072-01,Graduate Seminar,S,"Mojtabai, Navid (P)",MSEC 101, ,15,1,M,,1600,1800,,,MSEC 101,M,1600-1800
+ME,Mineral Engineering,Fall 2024,23512,ME 5089-01,Mineral Deposits in New Mexico,L,"McLemore, Virginia (P)",BUREAU 253, ,10,3,T,,1700,1930,,,BUREAU 253,T,1700-1930
+ME,Mineral Engineering,Fall 2024,24602,ME 5089-02,Mach Learn Apps Geosci & Engin,L,"Khaniani, Hassan (P)",SPEARE 16, ,20,3,MW,,1300,1415,,,SPEARE 16,MW,1300-1415
+ME,Mineral Engineering,Fall 2024,24605,ME 5089-02D,Mach Learn Apps Geosci & Engin,L,"Khaniani, Hassan (P)", , ,20,3,MW,,1300,1415,,, ,MW,1300-1415
+ME,Mineral Engineering,Fall 2024,23503,ME 5090-01,Independent Study,I,"Saiang, David (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23504,ME 5090-02,Independent Study,I,"Chavez, William (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23505,ME 5090-03,Independent Study,I,"Li, Wenfeng (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23506,ME 5090-04,Independent Study,I,"McLemore, Virginia (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23509,ME 5090-05,Independent Study,I,"Mojtabai, Navid (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23507,ME 5090-06,Independent Study,I,"Razavi, Mohammad (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23508,ME 5090-07,Independent Study,I,"Roghanchi, Pedram (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,24615,ME 5090-08,Independent Study,I,"Khaniani, Hassan (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,24618,ME 5090-09,Independent Study,I,"Arya, Sampurna (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,24621,ME 5090-10,Independent Study,I,"Moradian, Omid (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23510,ME 5091-01,Thesis,T,"Saiang, David (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23511,ME 5091-02,Thesis,T,"Chavez, William (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23513,ME 5091-03,Thesis,T,"Li, Wenfeng (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23514,ME 5091-04,Thesis,T,"McLemore, Virginia (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23515,ME 5091-05,Thesis,T,"Mojtabai, Navid (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23516,ME 5091-06,Thesis,T,"Razavi, Mohammad (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23517,ME 5091-07,Thesis,T,"Roghanchi, Pedram (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,24598,ME 5091-08,Thesis,T,"Khaniani, Hassan (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,24619,ME 5091-09,Thesis,T,"Arya, Sampurna (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,24622,ME 5091-10,Thesis,T,"Moradian, Omid (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23525,ME 5095-01,Dissertation,P,"Roghanchi, Pedram (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23526,ME 5095-02,Dissertation,P,"Mojtabai, Navid (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23527,ME 5095-03,Dissertation,P,"Razavi, Mohammad (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23528,ME 5095-04,Dissertation,P,"Li, Wenfeng (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23529,ME 5095-05,Dissertation,P,"Chavez, William (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23530,ME 5095-06,Dissertation,P,"McLemore, Virginia (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,23531,ME 5095-07,Dissertation,P,"Saiang, David (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,24617,ME 5095-08,Dissertation,P,"Khaniani, Hassan (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,24620,ME 5095-09,Dissertation,P,"Arya, Sampurna (P)", , ,10,Variable,,,,,,, ,,
+ME,Mineral Engineering,Fall 2024,24623,ME 5095-10,Dissertation,P,"Moradian, Omid (P)", , ,10,Variable,,,,,,, ,,
+MENG,Aerospace Engineering,Fall 2024,24421,AE 4035-01,Drones,L,"Hassanalian, Mostafa (P)",WEIR 132, ,10,3,TR,,930,1045,,,WEIR 132,TR,0930-1045
+MENG,Explosives Engineering,Fall 2024,24050,EXPL 4045-01,Introduction to Explosives Eng,L,"Lim, Seok Bin (P)",SPEARE 4, ,10,3,TR,,930,1045,,,SPEARE 4,TR,0930-1045
+MENG,Explosives Engineering,Fall 2024,24054,EXPL 4052-01,Explosives Technology & Apps,L,"Stofleth, Jerome (P)",SPEARE 19, ,10,3,F,,800,1030,,,SPEARE 19,F,0800-1030
+MENG,Mechanical Engineering,Fall 2024,24012,MENG 110-01,Intro. to Mechanical Eng.,L,"O'Malley, Curtis (P)",WORKC 101, ,100,2,TR,,1230,1345,,,WORKC 101,TR,1230-1345
+MENG,Mechanical Engineering,Fall 2024,24013,MENG 110L-01,Intro. to Mechanical Eng. Lab,B,"O'Malley, Curtis (P)",CRAMER 127, ,20,1,M,,1200,1430,,,CRAMER 127,M,1200-1430
+MENG,Mechanical Engineering,Fall 2024,24014,MENG 110L-02,Intro. to Mechanical Eng. Lab,B,"O'Malley, Curtis (P)",SPEARE 4, ,20,1,T,,1400,1630,,,SPEARE 4,T,1400-1630
+MENG,Mechanical Engineering,Fall 2024,24016,MENG 110L-03,Intro. to Mechanical Eng. Lab,B,"O'Malley, Curtis (P)",CRAMER 127, ,21,1,W,,1400,1630,,,CRAMER 127,W,1400-1630
+MENG,Mechanical Engineering,Fall 2024,24017,MENG 110L-04,Intro. to Mechanical Eng. Lab,B,"O'Malley, Curtis (P)",SPEARE 4, ,20,1,R,,1400,1630,,,SPEARE 4,R,1400-1630
+MENG,Mechanical Engineering,Fall 2024,24018,MENG 210-01,Sophomore Design&Measurements,L,"Zagrai, Andrei (P)",MSEC 105, ,40,2,TR,,1100,1215,,,MSEC 105,TR,1100-1215
+MENG,Mechanical Engineering,Fall 2024,24019,MENG 210L-01,Soph Design & Measure Lab,B,"Zagrai, Andrei (P)",WEIR 128, ,20,1,M,,1215,1440,,,WEIR 128,M,1215-1440
+MENG,Mechanical Engineering,Fall 2024,24020,MENG 210L-02,Soph Design & Measure Lab,B,"Zagrai, Andrei (P)",WEIR 128, ,20,1,F,,800,1030,,,WEIR 128,F,0800-1030
+MENG,Mechanical Engineering,Fall 2024,24026,MENG 3002L-01,Mechanics of Materials Lab,B,"O'Malley, Curtis (P)",WORKC 155, ,9,1,M,,1500,1730,,,WORKC 155,M,1500-1730
+MENG,Mechanical Engineering,Fall 2024,24027,MENG 3002L-02,Mechanics of Materials Lab,B,"O'Malley, Curtis (P)",WORKC 155, ,10,1,W,,1400,1630,,,WORKC 155,W,1400-1630
+MENG,Mechanical Engineering,Fall 2024,24028,MENG 3002L-03,Mechanics of Materials Lab,B,"O'Malley, Curtis (P)",WORKC 155, ,9,1,F,,1500,1730,,,WORKC 155,F,1500-1730
+MENG,Mechanical Engineering,Fall 2024,24029,MENG 3004-01,Advanced Strength of Materials,L,"Ryu, Donghyeon (P)",WEIR 102, ,50,3,TR,,800,915,,,WEIR 102,TR,0800-0915
+MENG,Mechanical Engineering,Fall 2024,24030,MENG 3005-01,Numerical Methods & Analysis,L,"Wei, Tie (P)",CRAMER 127, ,40,3,TR,,1400,1515,,,CRAMER 127,TR,1400-1515
+MENG,Mechanical Engineering,Fall 2024,24423,MENG 3041-01,Mech Eng Technical Writing,L,"Ford, Julie (P)",SPEARE 116, ,22,3,MWF,,800,850,,,SPEARE 116,MWF,0800-0850
+MENG,Mechanical Engineering,Fall 2024,24422,MENG 3041-02,Mech Eng Technical Writing,L,"Ford, Julie (P)",SPEARE 116, ,16,3,MWF,,1000,1050,,,SPEARE 116,MWF,1000-1050
+MENG,Mechanical Engineering,Fall 2024,24033,MENG 3081-01,Jr Eng Design Clinic I,B,"O'Malley, Curtis (P) / Dinwiddie, Hollis / Ford, Julie",WORKC 101, ,60,2,T,,1530,1645,,,WORKC 101,T,1530-1645
+MENG,Mechanical Engineering,Fall 2024,24036,MENG 3082-01,Jr Eng Design Clinic II,B,"O'Malley, Curtis (P) / Dinwiddie, Hollis / Ford, Julie",WORKC 101, ,60,2,T,,1530,1645,,,WORKC 101,T,1530-1645
+MENG,Mechanical Engineering,Fall 2024,24039,MENG 4005-01,Dynamic Systems & Controls,L,"Mier, Frank (P)",SPEARE 116, ,35,2,TR,,1230,1345,,,SPEARE 116,TR,1230-1345
+MENG,Mechanical Engineering,Fall 2024,24041,MENG 4005L-01,Dynamic Systems & Controls Lab,B,"Mier, Frank (P)",WEIR 128, ,20,1,M,,1500,1730,,,WEIR 128,M,1500-1730
+MENG,Mechanical Engineering,Fall 2024,24043,MENG 4005L-02,Dynamic Systems & Controls Lab,B,"Mier, Frank (P)",WEIR 128, ,15,1,W,,1100,1330,,,WEIR 128,W,1100-1330
+MENG,Mechanical Engineering,Fall 2024,24046,MENG 4008-01D,Cooperative Educ Wrk Phase,O,"Lim, Seok Bin (P)",WEB-V , ,5,1,,,,,,,WEB-V ,,
+MENG,Mechanical Engineering,Fall 2024,24048,MENG 4021-01,Finite Elem Analysis & Design,L,"Naghdi, Masoud (P)",WORKC 109, ,35,2,TR,,1100,1215,,,WORKC 109,TR,1100-1215
+MENG,Mechanical Engineering,Fall 2024,24052,MENG 4021L-01,Finite Elem Analy & Design Lab,B,"Naghdi, Masoud (P)",SPEARE 4, ,20,1,W,,800,1030,,,SPEARE 4,W,0800-1030
+MENG,Mechanical Engineering,Fall 2024,24073,MENG 4021L-02,Finite Elem Analy & Design Lab,B,"Naghdi, Masoud (P)",SPEARE 5, ,18,1,F,,1500,1730,,,SPEARE 5,F,1500-1730
+MENG,Mechanical Engineering,Fall 2024,24075,MENG 4031-01,Fluid & Thermal Systems,D,"Dinwiddie, Hollis (P)",WEIR 203, ,24,2,TR,,800,915,,,WEIR 203,TR,0800-0915
+MENG,Mechanical Engineering,Fall 2024,24076,MENG 4031L-01,Fluid & Thermal Systems Lab,B,"Dinwiddie, Hollis (P)",WORKC 135, ,12,1,T,,1400,1630,,,WORKC 135,T,1400-1630
+MENG,Mechanical Engineering,Fall 2024,24080,MENG 4031L-02,Fluid & Thermal Systems Lab,B,"Dinwiddie, Hollis (P)",WORKC 135, ,13,1,W,,1400,1630,,,WORKC 135,W,1400-1630
+MENG,Mechanical Engineering,Fall 2024,24424,MENG 4035-01,Drones,L,"Hassanalian, Mostafa (P)",WEIR 132, ,10,3,TR,,930,1045,,,WEIR 132,TR,0930-1045
+MENG,Mechanical Engineering,Fall 2024,24089,MENG 4041-01,Dynam/Vibrat in Struc Design,L,"Dinwiddie, Hollis (P)",WEIR 203, ,35,3,MWF,,1100,1150,,,WEIR 203,MWF,1100-1150
+MENG,Mechanical Engineering,Fall 2024,24092,MENG 4051-01,Design of Machine Elements,L,"Dinwiddie, Hollis (P)",WEIR 203, ,30,3,TR,,1400,1515,,,WEIR 203,TR,1400-1515
+MENG,Mechanical Engineering,Fall 2024,24097,MENG 4081-01,Senior Eng Design Clinic I,B,"Dinwiddie, Hollis (P) / Ford, Julie / O'Malley, Curtis",WEIR 102, ,45,3,R,,1530,1645,,,WEIR 102,R,1530-1645
+MENG,Mechanical Engineering,Fall 2024,24103,MENG 4082-01,Senior Engr Design Clinic II,B,"Dinwiddie, Hollis (P) / Ford, Julie / O'Malley, Curtis",WEIR 102, ,40,3,R,,1530,1645,,,WEIR 102,R,1530-1645
+MENG,Mechanical Engineering,Fall 2024,24108,MENG 4083-01,Mechatronics,L,"Lee, Kooktae (P)",MSEC 195, ,30,2,TR,,930,1045,,,MSEC 195,TR,0930-1045
+MENG,Mechanical Engineering,Fall 2024,24110,MENG 4083L-01,Mechatronics Lab,B,"Lee, Kooktae (P)",WEIR 128, ,15,1,M,,800,1030,,,WEIR 128,M,0800-1030
+MENG,Mechanical Engineering,Fall 2024,24112,MENG 4083L-02,Mechatronics Lab,B,"Lee, Kooktae (P)",WEIR 128, ,15,1,F,,1200,1430,,,WEIR 128,F,1200-1430
+MENG,Mechanical Engineering,Fall 2024,24680,MENG 4085-01,Advanced Design Clinic,L,"Dinwiddie, Hollis (P)", , ,1,3,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24087,MENG 4089-01,Machining & Metalwork Tech,L,"Madigan, Patrick (P)",WEIR 112, ,5,1,W,,800,1030,,,WEIR 112,W,0800-1030
+MENG,Mechanical Engineering,Fall 2024,24088,MENG 4089-02,Machining & Metalwork Tech,L,"Madigan, Patrick (P)",WEIR 112, ,5,1,W,,1100,1330,,,WEIR 112,W,1100-1330
+MENG,Mechanical Engineering,Fall 2024,24091,MENG 4089-03,Machining & Metalwork Tech,L,"Madigan, Patrick (P)",WEIR 112, ,5,1,W,,1430,1700,,,WEIR 112,W,1430-1700
+MENG,Mechanical Engineering,Fall 2024,24094,MENG 5000-01,Directed Research,D,"Bakhtiyarov, Sayavur (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24096,MENG 5000-02,Directed Research,D,"Ford, Julie (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24098,MENG 5000-03,Directed Research,D,"Grow, David (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24101,MENG 5000-04,Directed Research,D,"Ghosh, Ashok (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24102,MENG 5000-05,Directed Research,D,"Hargather, Michael (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24105,MENG 5000-06,Directed Research,D,"Hassanalian, Mostafa (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24090,MENG 5000-07,Directed Research,D,"Kimberley, Jamie (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24093,MENG 5000-08,Directed Research,D,"Lee, Kooktae (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24095,MENG 5000-09,Directed Research,D,"Lim, Seok Bin (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24099,MENG 5000-10,Directed Research,D,"O'Malley, Curtis (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24100,MENG 5000-11,Directed Research,D,"Ryu, Donghyeon (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24104,MENG 5000-12,Directed Research,D,"Wei, Tie (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24106,MENG 5000-13,Directed Research,D,"Zagrai, Andrei (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24107,MENG 5004-01,Adv. Mechanics of Materials,L,"Ryu, Donghyeon (P)",CRAMER 101, ,11,3,TR,,1400,1515,,,CRAMER 101,TR,1400-1515
+MENG,Mechanical Engineering,Fall 2024,24109,MENG 5004-01D,Adv. Mechanics of Materials,L,"Ryu, Donghyeon (P)",WEB-V , ,10,3,TR,,1400,1515,,,WEB-V ,TR,1400-1515
+MENG,Mechanical Engineering,Fall 2024,24427,MENG 5017-01,Adv Finite Element Analysis,L,"Aitbayev, Rakhim (P)",CRAMER 124, ,20,3,TR,,1100,1215,,,CRAMER 124,TR,1100-1215
+MENG,Mechanical Engineering,Fall 2024,24428,MENG 5017-01D,Adv Finite Element Analysis,L,"Aitbayev, Rakhim (P)",WEB-V , ,20,3,TR,,1100,1215,,,WEB-V ,TR,1100-1215
+MENG,Mechanical Engineering,Fall 2024,24434,MENG 5035-01,Drones,L,"Hassanalian, Mostafa (P)",WEIR 132, ,15,3,TR,,930,1045,,,WEIR 132,TR,0930-1045
+MENG,Mechanical Engineering,Fall 2024,24435,MENG 5035-01D,Drones,L,"Hassanalian, Mostafa (P)",WEB-V , ,15,3,TR,,930,1045,,,WEB-V ,TR,0930-1045
+MENG,Mechanical Engineering,Fall 2024,24436,MENG 5041-01,Vibrations in an Elastic Cont,L,"Zagrai, Andrei (P)",JONESA 106, ,8,3,TR,,800,915,,,JONESA 106,TR,0800-0915
+MENG,Mechanical Engineering,Fall 2024,24437,MENG 5041-01D,Vibrations in an Elastic Cont,L,"Zagrai, Andrei (P)",WEB-V , ,7,3,TR,,800,915,,,WEB-V ,TR,0800-0915
+MENG,Mechanical Engineering,Fall 2024,24047,MENG 5043-01,Control System Design,L,"Lee, Kooktae (P)",BUREAU 111A, ,10,3,TR,,1100,1215,,,BUREAU 111A,TR,1100-1215
+MENG,Mechanical Engineering,Fall 2024,24051,MENG 5043-02D,Control System Design,L,"Lee, Kooktae (P)",WEB-V , ,10,3,TR,,1100,1215,,,WEB-V ,TR,1100-1215
+MENG,Mechanical Engineering,Fall 2024,24053,MENG 5045-01,Introduction to Explosives Eng,L,"Lim, Seok Bin (P)",SPEARE 4, ,15,3,TR,,930,1045,,,SPEARE 4,TR,0930-1045
+MENG,Mechanical Engineering,Fall 2024,24049,MENG 5045-01D,Introduction to Explosives Eng,L,"Lim, Seok Bin (P)",WEB-V , ,20,3,TR,,930,1045,,,WEB-V ,TR,0930-1045
+MENG,Mechanical Engineering,Fall 2024,24055,MENG 5046-01,Detonation Theory,L,"Anderson, William (P)",SPEARE 19, ,15,3,F,,1100,1350,,,SPEARE 19,F,1100-1350
+MENG,Mechanical Engineering,Fall 2024,24056,MENG 5046-01D,Detonation Theory,L,"Anderson, William (P)",WEB , ,15,3,F,,1100,1350,,,WEB ,F,1100-1350
+MENG,Mechanical Engineering,Fall 2024,24431,MENG 5051-01D,Optimal Control Systems,L,"Miller, Alva (P)",WEIR 202, ,10,3,MWF,,800,850,,,WEIR 202,MWF,0800-0850
+MENG,Mechanical Engineering,Fall 2024,24057,MENG 5052-01,Explosives Technology & Apps,L,"Stofleth, Jerome (P)",SPEARE 19, ,10,3,F,,800,1030,,,SPEARE 19,F,0800-1030
+MENG,Mechanical Engineering,Fall 2024,24031,MENG 5052-01D,Explosives Technology & Apps,L,"Stofleth, Jerome (P)",WEB , ,10,3,F,,800,1030,,,WEB ,F,0800-1030
+MENG,Mechanical Engineering,Fall 2024,24438,MENG 5080-01,Comput Fluid Dyn & React Flow,L,"Bakhtiyarov, Sayavur (P)",CRAMER 120, ,15,3,TR,,1400,1515,,,CRAMER 120,TR,1400-1515
+MENG,Mechanical Engineering,Fall 2024,24439,MENG 5080-01D,Comput Fluid Dyn & React Flow,L,"Bakhtiyarov, Sayavur (P)",WEB-V , ,15,3,TR,,1400,1515,,,WEB-V ,TR,1400-1515
+MENG,Mechanical Engineering,Fall 2024,24245,MENG 5081-01,Intro To Space Ops Safety,D,"Bakhtiyarov, Sayavur (P)", , ,2,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24281,MENG 5081-02,Eng Mech of Composite Structur,D,"Ghosh, Ashok (P)", , ,1,3,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24659,MENG 5081-03,Eng. Mech of Concrete Struct,D,"Ghosh, Ashok (P)", , ,1,3,TR,,930,1045,,, ,TR,0930-1045
+MENG,Mechanical Engineering,Fall 2024,24670,MENG 5081-1,Engineering Composites,D,"Ghosh, Ashok (P)", , ,1,3,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24058,MENG 5083-01,Engr Mechs of Comp Struct,L,"Ghosh, Ashok (P)",JONESA 102, ,15,3,TR,,1230,1345,,,JONESA 102,TR,1230-1345
+MENG,Mechanical Engineering,Fall 2024,24059,MENG 5083-01D,Engr Mechs of Comp Struct,L,"Ghosh, Ashok (P)", , ,15,3,TR,,930,1045,,, ,TR,0930-1045
+MENG,Mechanical Engineering,Fall 2024,24032,MENG 5085-01,Graduate Faculty Seminar,L,"Ryu, Donghyeon (P) / O'Malley, Curtis",CRAMER 124, ,36,1,M,,1100,1150,,,CRAMER 124,M,1100-1150
+MENG,Mechanical Engineering,Fall 2024,24034,MENG 5085-01D,Graduate Faculty Seminar,L,"Ryu, Donghyeon (P) / O'Malley, Curtis",WEB , ,30,1,M,,1100,1150,,,WEB ,M,1100-1150
+MENG,Mechanical Engineering,Fall 2024,24629,MENG 5089-01,Elastic Waves Anisotropic  Mat,L,"Naghdi, Masoud (P)",CRAMER 127, ,15,3,MW,,900,1015,,,CRAMER 127,MW,0900-1015
+MENG,Mechanical Engineering,Fall 2024,24631,MENG 5089-01D,Elastic Waves Anisotropic Mat,L,"Naghdi, Masoud (P)",WEB-V , ,15,3,MW,,900,1015,,,WEB-V ,MW,0900-1015
+MENG,Mechanical Engineering,Fall 2024,24035,MENG 5091-01,Thesis,T,"Bakhtiyarov, Sayavur (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24037,MENG 5091-02,Thesis,T,"Ford, Julie (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24038,MENG 5091-03,Thesis,T,"Grow, David (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24060,MENG 5091-04,Thesis,T,"Ghosh, Ashok (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24061,MENG 5091-05,Thesis,T,"Hargather, Michael (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24062,MENG 5091-06,Thesis,T,"Hassanalian, Mostafa (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24063,MENG 5091-07,Thesis,T,"Kimberley, Jamie (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24064,MENG 5091-08,Thesis,T,"Lee, Kooktae (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24065,MENG 5091-09,Thesis,T,"Lim, Seok Bin (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24066,MENG 5091-10,Thesis,T,"O'Malley, Curtis (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24067,MENG 5091-11,Thesis,T,"Ryu, Donghyeon (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24068,MENG 5091-12,Thesis,T,"Wei, Tie (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24069,MENG 5091-13,Thesis,T,"Zagrai, Andrei (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24070,MENG 5095-01,Dissertation,P,"Bakhtiyarov, Sayavur (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24071,MENG 5095-02,Dissertation,P,"Ford, Julie (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24072,MENG 5095-03,Dissertation,P,"Grow, David (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24074,MENG 5095-04,Dissertation,P,"Ghosh, Ashok (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24077,MENG 5095-05,Dissertation,P,"Hargather, Michael (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24078,MENG 5095-06,Dissertation,P,"Hassanalian, Mostafa (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24079,MENG 5095-07,Dissertation,P,"Kimberley, Jamie (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24081,MENG 5095-08,Dissertation,P,"Lee, Kooktae (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24082,MENG 5095-09,Dissertation,P,"Lim, Seok Bin (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24083,MENG 5095-10,Dissertation,P,"O'Malley, Curtis (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24084,MENG 5095-11,Dissertation,P,"Ryu, Donghyeon (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24085,MENG 5095-12,Dissertation,P,"Wei, Tie (P)", , ,10,Variable,,,,,,, ,,
+MENG,Mechanical Engineering,Fall 2024,24086,MENG 5095-13,Dissertation,P,"Zagrai, Andrei (P)", , ,10,Variable,,,,,,, ,,
+OPT,Optics,Fall 2024,24182,OPTC 3000-01,Introduction to Optics,L,"Teare, Scott (P)",WORKC 117, ,20,4,MWF,,1100,1150,,,WORKC 117,MWF,1100-1150
+PETR,Petroleum Engineering,Fall 2024,23116,PETR 101-01,Intro to Petroleum Engineering,L,"Rahnema, Hamid (P)",CRAMER 101, ,20,1,T,,1100,1150,,,CRAMER 101,T,1100-1150
+PETR,Petroleum Engineering,Fall 2024,23773,PETR 3011-01,Drilling Engineering,L,"Wang, Sai (P)",MSEC 195, ,20,3,TR,,800,915,,,MSEC 195,TR,0800-0915
+PETR,Petroleum Engineering,Fall 2024,23774,PETR 3011L-01,Drilling Mud Lab,B,"Wang, Sai (P)",MSEC 359, ,20,1,T,,1400,1630,,,MSEC 359,T,1400-1630
+PETR,Petroleum Engineering,Fall 2024,23775,PETR 3045-01,Reservoir Engineering I,L,"Chen, Her Yuan (P)",JONESA 102, ,20,3,MWF,,1200,1250,,,JONESA 102,MWF,1200-1250
+PETR,Petroleum Engineering,Fall 2024,23777,PETR 3045L-01,Reservoir Engineering Lab,B,"Rahnema, Hamid (P)",MSEC 387, ,20,1,M,,1400,1630,,,MSEC 387,M,1400-1630
+PETR,Petroleum Engineering,Fall 2024,23778,PETR 4024-01,Production Engineering,L,"Engler, Thomas (P)",MSEC 367, ,20,3,TR,,1235,1350,,,MSEC 367,TR,1235-1350
+PETR,Petroleum Engineering,Fall 2024,23779,PETR 4024L-01,Production Engineering Lab,B,"Esmaeilpour, Sajjad (P)",MSEC 359, ,20,1,R,,1400,1630,,,MSEC 359,R,1400-1630
+PETR,Petroleum Engineering,Fall 2024,23780,PETR 4070-01,Applied Reservoir Simulation,L,"Ampomah, William (P)",SPEARE 16, ,20,3,MW,,1530,1645,,,SPEARE 16,MW,1530-1645
+PETR,Petroleum Engineering,Fall 2024,23781,PETR 4071-01,Capstone Design I,L,"Esmaeilpour, Sajjad (P)",JONES 227, ,20,3,M,,1300,1500,,,JONES 227,M,1300-1500
+PETR,Petroleum Engineering,Fall 2024,23783,PETR 5000-01,Directed Research,L,"Balch, Robert (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23784,PETR 5000-02,Directed Research,L,"Chen, Her Yuan (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23785,PETR 5000-03,Directed Research,L,"Engler, Thomas (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23786,PETR 5000-04,Directed Research,L,"Nguyen, Tan (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23787,PETR 5000-05,Directed Research,L,"Seright, Randall (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23788,PETR 5000-06,Directed Research,L,"Rahnema, Hamid (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23789,PETR 5000-07,Directed Research,L,"Yu, Jianjia (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23790,PETR 5000-08,Directed Research,L,"Zhang, Guoyin (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23791,PETR 5000-09,Directed Research,L,"Ampomah, William (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23792,PETR 5000-10,Directed Research,L,"Grigg, Reid (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24648,PETR 5000-11,Directed Research,L,"Wang, Sai (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23793,PETR 5070-01,Graduate Seminar,S,"Engler, Thomas (P)",MSEC 105, ,30,1,R,,1500,1630,,,MSEC 105,R,1500-1630
+PETR,Petroleum Engineering,Fall 2024,23798,PETR 5071-01,Adv Well Compl & Stimultn,L,"Esmaeilpour, Sajjad (P)",MSEC 367, ,19,3,MW,,1100,1215,,,MSEC 367,MW,1100-1215
+PETR,Petroleum Engineering,Fall 2024,23799,PETR 5071-02,Applied Reservoir Simulation,L,"Ampomah, William (P)",SPEARE 16, ,20,3,MW,,1530,1645,,,SPEARE 16,MW,1530-1645
+PETR,Petroleum Engineering,Fall 2024,24420,PETR 5071-03,Reservoir Uncertainty Mgmt,L,"Chen, Her Yuan (P)", , ,19,3,TR,,1100,1215,,, ,TR,1100-1215
+PETR,Petroleum Engineering,Fall 2024,24678,PETR 5081-01,Completions for Unconventional,D,"Esmaeilpour, Sajjad (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24664,PETR 5081-02,Numeric Modeling at CSS site,D,"Ampomah, William (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24687,PETR 5081-03,Geochemistry of CCVS,D,"Rahnema, Hamid (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24299,PETR 5081-08,Directed Study,D,"Ampomah, William (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24653,PETR 5081-1,Directed Study,D,"Wang, Sai (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24660,PETR 5081-2,Directed Study,D,"Wang, Sai (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24662,PETR 5081-3,Directed Study,D,"Ampomah, William (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24665,PETR 5081-4,Numerical Modeling,D,"Ampomah, William (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24666,PETR 5081-5,TEA Analysis,D,"Ampomah, William (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24667,PETR 5081-6,Numerical Modeling,D,"Ampomah, William (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24668,PETR 5081-7,Hydrogen Flow in Porous Media,D,"Rahnema, Hamid (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24672,PETR 5081-8,Directed Study,D,"Nguyen, Tan (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24676,PETR 5081-9,Directed Study,D,"Rahnema, Hamid (P)", , ,1,3,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23800,PETR 5090-01,Independent Study,I,"Balch, Robert (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23802,PETR 5090-02,Independent Study,I,"Chen, Her Yuan (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23803,PETR 5090-03,Independent Study,I,"Chen, Her Yuan (P)",MSEC 367, ,10,Variable,TR,,1100,1215,,,MSEC 367,TR,1100-1215
+PETR,Petroleum Engineering,Fall 2024,23804,PETR 5090-04,Independent Study,I,"Nguyen, Tan (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23806,PETR 5090-05,Independent Study,I,"Seright, Randall (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23807,PETR 5090-06,Independent Study,I,"Rahnema, Hamid (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23808,PETR 5090-07,Independent Study,I,"Yu, Jianjia (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23809,PETR 5090-08,Independent Study,I,"Zhang, Guoyin (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23810,PETR 5090-09,Independent Study,I,"Ampomah, William (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23811,PETR 5090-10,Independent Study,I,"Grigg, Reid (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24645,PETR 5090-11,Independent Study,I,"Wang, Sai (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23386,PETR 5091-01,Thesis,T,"Balch, Robert (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23387,PETR 5091-02,Thesis,T,"Chen, Her Yuan (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23388,PETR 5091-03,Thesis,T,"Engler, Thomas (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23391,PETR 5091-04,Thesis,T,"Nguyen, Tan (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23396,PETR 5091-05,Thesis,T,"Seright, Randall (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23398,PETR 5091-06,Thesis,T,"Rahnema, Hamid (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23402,PETR 5091-07,Thesis,T,"Yu, Jianjia (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23403,PETR 5091-08,Thesis,T,"Zhang, Guoyin (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23405,PETR 5091-09,Thesis,T,"Ampomah, William (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23409,PETR 5091-10,Thesis,T,"Grigg, Reid (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24646,PETR 5091-11,Thesis,T,"Wang, Sai (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23411,PETR 5095-01,Dissertation,P,"Balch, Robert (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23412,PETR 5095-02,Dissertation,P,"Chen, Her Yuan (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23414,PETR 5095-03,Dissertation,P,"Engler, Thomas (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23416,PETR 5095-04,Dissertation,P,"Nguyen, Tan (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23419,PETR 5095-05,Dissertation,P,"Seright, Randall (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23421,PETR 5095-06,Dissertation,P,"Rahnema, Hamid (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23422,PETR 5095-07,Dissertation,P,"Yu, Jianjia (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23428,PETR 5095-08,Dissertation,P,"Zhang, Guoyin (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23430,PETR 5095-09,Dissertation,P,"Ampomah, William (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,23431,PETR 5095-10,Dissertation,P,"Grigg, Reid (P)", , ,10,Variable,,,,,,, ,,
+PETR,Petroleum Engineering,Fall 2024,24647,PETR 5095-11,Dissertation,P,"Wang, Sai (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,24531,PHYS 0289L-01,NASA Here to Observe Lab,B,"Morales Juberias, Raul (P)",WORKC 109, ,10,1,M,,1400,1450,,,WORKC 109,M,1400-1450
+PHYS,Physics,Fall 2024,23025,PHYS 1310-01,g:Calculus-based Physics I,L,"Mao, Minnie (P) / Ward, Dylan",WORKC 101,WORKC 109,24,4,TR,W,930,1045,1400,1550,WORKC 101 / WORKC 109,TR / W,0930-1045 / 1400-1550
+PHYS,Physics,Fall 2024,23026,PHYS 1310-02,g:Calculus-based Physics I,L,"Mao, Minnie (P) / Ward, Dylan",WORKC 101,WORKC 109,25,4,TR,R,930,1045,1400,1550,WORKC 101 / WORKC 109,TR / R,0930-1045 / 1400-1550
+PHYS,Physics,Fall 2024,23027,PHYS 1310-03,g:Calculus-based Physics I,L,"Mao, Minnie (P) / Proni, Rebecca",WORKC 101,WORKC 109,26,4,TR,R,930,1045,1700,1850,WORKC 101 / WORKC 109,TR / R,0930-1045 / 1700-1850
+PHYS,Physics,Fall 2024,23028,PHYS 1310-04,g:Calculus-based Physics I,L,"Mao, Minnie (P) / Ireland, Spencer",WORKC 101,WORKC 109,25,4,MWF,T,900,950,1400,1550,WORKC 101 / WORKC 109,MWF / T,0900-0950 / 1400-1550
+PHYS,Physics,Fall 2024,23030,PHYS 1310-06,g:Calculus-based Physics I,L,"Mao, Minnie (P) / Wemhoner, Jacob",WORKC 101,WORKC 109,25,4,MWF,W,900,950,1630,1820,WORKC 101 / WORKC 109,MWF / W,0900-0950 / 1630-1820
+PHYS,Physics,Fall 2024,23031,PHYS 1310L-01,Calculus-based Physics I Lab,B,"Niardi, Roberto (P) / Lopez Carrillo, Carlos",WORKC 115, ,16,1,M,,1400,1620,,,WORKC 115,M,1400-1620
+PHYS,Physics,Fall 2024,23032,PHYS 1310L-02,Calculus-based Physics I Lab,B,"Contreras Vidal, Luis (P) / Lopez Carrillo, Carlos",WORKC 115, ,16,1,M,,1630,1850,,,WORKC 115,M,1630-1850
+PHYS,Physics,Fall 2024,23033,PHYS 1310L-03,Calculus-based Physics I Lab,B,"Douglas, Andrew (P) / Lopez Carrillo, Carlos",WORKC 115, ,16,1,T,,1400,1620,,,WORKC 115,T,1400-1620
+PHYS,Physics,Fall 2024,23034,PHYS 1310L-04,Calculus-based Physics I Lab,B,"Douglas, Andrew (P) / Lopez Carrillo, Carlos",WORKC 115, ,16,1,T,,1700,1920,,,WORKC 115,T,1700-1920
+PHYS,Physics,Fall 2024,23035,PHYS 1310L-05,Calculus-based Physics I Lab,B,"Roy, Nirupam (P) / Lopez Carrillo, Carlos",WORKC 115, ,16,1,W,,1400,1620,,,WORKC 115,W,1400-1620
+PHYS,Physics,Fall 2024,23143,PHYS 1310L-06,Calculus-based Physics I Lab,B,"Stover, Emma (P) / Lopez Carrillo, Carlos",WORKC 115, ,16,1,W,,1630,1850,,,WORKC 115,W,1630-1850
+PHYS,Physics,Fall 2024,23036,PHYS 1310L-07,Calculus-based Physics I Lab,B,"Niardi, Roberto (P) / Lopez Carrillo, Carlos",WORKC 115, ,16,1,R,,1400,1620,,,WORKC 115,R,1400-1620
+PHYS,Physics,Fall 2024,24293,PHYS 1310L-09,Calculus-based Physics I Lab,,, , ,0,1,,,,,,, ,,
+PHYS,Physics,Fall 2024,23038,PHYS 1320-01,Calculus-based Physics II,L,"Ferreira Raiol Leal, Adonis (P) / Pantuso, John",WORKC 101,WORKC 113,25,4,MWF,T,1000,1050,1400,1550,WORKC 101 / WORKC 113,MWF / T,1000-1050 / 1400-1550
+PHYS,Physics,Fall 2024,23041,PHYS 1320-04,Calculus-based Physics II,L,"Mao, Minnie (P) / Pantuso, John",WORKC 101,WORKC 113,25,4,TR,R,1100,1215,1700,1850,WORKC 101 / WORKC 113,TR / R,1100-1215 / 1700-1850
+PHYS,Physics,Fall 2024,23112,PHYS 1320-05,Calculus-based Physics II,L,"Mao, Minnie (P) / Wemhoner, Jacob",WORKC 101,WORKC 113,25,4,TR,W,1100,1215,1400,1550,WORKC 101 / WORKC 113,TR / W,1100-1215 / 1400-1550
+PHYS,Physics,Fall 2024,23368,PHYS 1320-06,Calculus-based Physics II,L,"Mao, Minnie (P) / Proni, Rebecca",WORKC 101,WORKC 113,25,4,TR,T,1100,1215,1700,1850,WORKC 101 / WORKC 113,TR / T,1100-1215 / 1700-1850
+PHYS,Physics,Fall 2024,23042,PHYS 1320L-01,Calculus-based Physics Lab II,B,"Ireland, Spencer (P) / Lopez Carrillo, Carlos",WORKC 107, ,16,1,M,,1630,1830,,,WORKC 107,M,1630-1830
+PHYS,Physics,Fall 2024,23043,PHYS 1320L-02,Calculus-based Physics Lab II,B,"Lopez Carrillo, Carlos (P)",WORKC 107, ,0,1,M,,1400,1620,,,WORKC 107,M,1400-1620
+PHYS,Physics,Fall 2024,23044,PHYS 1320L-03,Calculus-based Physics Lab II,B,"Crom, Genna (P) / Lopez Carrillo, Carlos",WORKC 107, ,16,1,T,,1400,1620,,,WORKC 107,T,1400-1620
+PHYS,Physics,Fall 2024,23045,PHYS 1320L-04,Calculus-based Physics Lab II,B,"Ward, Dylan (P) / Lopez Carrillo, Carlos",WORKC 107, ,16,1,T,,1700,1920,,,WORKC 107,T,1700-1920
+PHYS,Physics,Fall 2024,23046,PHYS 1320L-05,Calculus-based Physics Lab II,B,"Sethi, Ananay (P) / Lopez Carrillo, Carlos",WORKC 107, ,16,1,W,,1400,1620,,,WORKC 107,W,1400-1620
+PHYS,Physics,Fall 2024,23047,PHYS 1320L-06,Calculus-based Physics Lab II,B,"Sethi, Ananay (P) / Lopez Carrillo, Carlos",WORKC 107, ,16,1,W,,1630,1850,,,WORKC 107,W,1630-1850
+PHYS,Physics,Fall 2024,23048,PHYS 1320L-07,Calculus-based Physics Lab II,B,"Stover, Emma (P) / Lopez Carrillo, Carlos",WORKC 107, ,16,1,R,,1400,1620,,,WORKC 107,R,1400-1620
+PHYS,Physics,Fall 2024,23126,PHYS 1320L-08,Calculus-based Physics Lab II,B,"Lopez Carrillo, Carlos (P)",WORKC 107, ,0,1,R,,1700,1920,,,WORKC 107,R,1700-1920
+PHYS,Physics,Fall 2024,23049,PHYS 2250-01,Comprehensive Physics I,L,"Meier, David (P)",WORKC 113,WORKC 101,26,4,MWF,W,1000,1050,1400,1550,WORKC 113 / WORKC 101,MWF / W,1000-1050 / 1400-1550
+PHYS,Physics,Fall 2024,23050,PHYS 2250L-01,Comprehensive Phys I Lab,B,"Lopez Carrillo, Carlos (P)",WORKC 322, ,12,1,T,,1400,1620,,,WORKC 322,T,1400-1620
+PHYS,Physics,Fall 2024,23051,PHYS 2250L-02,Comprehensive Phys I Lab,B,"Lopez Carrillo, Carlos (P)",WORKC 322, ,12,1,R,,1400,1620,,,WORKC 322,R,1400-1620
+PHYS,Physics,Fall 2024,23052,PHYS 2420-01,Computational Physics I,L,"Norris, Ryan (P)",SPEARE 4,SPEARE 4,26,3,TR,R,1100,1215,1800,1950,SPEARE 4 / SPEARE 4,TR / R,1100-1215 / 1800-1950
+PHYS,Physics,Fall 2024,23615,PHYS 3021-01,Intermediate Mechanics,L,"Wells, Douglas (P)",WORKC 310, ,24,3,MWF,,1000,1050,,,WORKC 310,MWF,1000-1050
+PHYS,Physics,Fall 2024,23617,PHYS 3025-01,Astrophysics I,L,"Norris, Ryan (P)",WORKC 310, ,15,3,MWF,,1100,1150,,,WORKC 310,MWF,1100-1150
+PHYS,Physics,Fall 2024,23622,PHYS 3027L-01,Astronomy Lab,B,"Meier, David (P)",WORKC 310, ,15,1,M,,1700,1750,,,WORKC 310,M,1700-1750
+PHYS,Physics,Fall 2024,23623,PHYS 3033-01,Electricity & Magnetism,L,"DA Silva, Caitano (P)",WORKC 310, ,24,3,TR,,930,1045,,,WORKC 310,TR,0930-1045
+PHYS,Physics,Fall 2024,23625,PHYS 4011-01,Thermodynamics & Statistical,L,"Lopez Carrillo, Carlos (P)",WORKC 310, ,20,3,MWF,,900,950,,,WORKC 310,MWF,0900-0950
+PHYS,Physics,Fall 2024,23626,PHYS 4025-01,Astrophysics III,L,"Morales Juberias, Raul (P)",WORKC 109, ,15,3,TR,,800,915,,,WORKC 109,TR,0800-0915
+PHYS,Physics,Fall 2024,24454,PHYS 4032-01,Atmospheric Remote Sensing,L,"Minschwaner, Kenneth (P)",WORKC 352, ,10,3,TR,,1400,1515,,,WORKC 352,TR,1400-1515
+PHYS,Physics,Fall 2024,23629,PHYS 4043-01,Atomic & Nuclear Physics,L,"Hofner, Peter (P)",WORKC 310, ,15,3,TR,,1100,1215,,,WORKC 310,TR,1100-1215
+PHYS,Physics,Fall 2024,24264,PHYS 4089-01,Nuclear Physics,L,"Wells, Douglas (P)",WORKC 352, ,10,3,MWF,,1300,1350,,,WORKC 352,MWF,1300-1350
+PHYS,Physics,Fall 2024,24652,PHYS 4091-01,Physics computing & experiment,D,"Sonnenfeld, Richard (P)", , ,1,3,,,,,,, ,,
+PHYS,Physics,Fall 2024,24681,PHYS 4091-02,Physics of SED Fitting,D,"Creech-Eakman, Michelle (P)", , ,1,3,,,,,,, ,,
+PHYS,Physics,Fall 2024,23632,PHYS 5000-01,Directed Research,D,"Creech-Eakman, Michelle (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23635,PHYS 5000-02,Directed Research,D,"DA Silva, Caitano (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23636,PHYS 5000-03,Directed Research,D,"Hofner, Peter (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23638,PHYS 5000-04,Directed Research,D,"Ferreira Raiol Leal, Adonis (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23642,PHYS 5000-05,Directed Research,D,"Lopez Carrillo, Carlos (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23643,PHYS 5000-06,Directed Research,D,"Meier, David (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23645,PHYS 5000-07,Directed Research,D,"Minschwaner, Kenneth (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23647,PHYS 5000-08,Directed Research,D,"Morales Juberias, Raul (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23648,PHYS 5000-09,Directed Research,D,"Hassanalian, Mostafa (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23649,PHYS 5000-10,Directed Research,D,"Romero, Van (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23650,PHYS 5000-11,Directed Research,D,"Sessions, Sharon (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23651,PHYS 5000-12,Directed Research,D,"Sonnenfeld, Richard (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23653,PHYS 5000-13,Directed Research,D,"Wells, Douglas (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23654,PHYS 5000-14,Directed Research,D,"Norris, Ryan (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23656,PHYS 5000-15,Directed Research,D,"Stone, Zeljka (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23657,PHYS 5000-16,Directed Research,D,"Eilek, Jean (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23659,PHYS 5000-17,Directed Research,D,"Demorest, Paul (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,24657,PHYS 5000-18,Directed Research,D,"Buscher, David (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23660,PHYS 5001-01,Intro Resrch & Scientific Comm,D,"Sessions, Sharon (P)",WORKC 352, ,11,2,M,,1400,1600,,,WORKC 352,M,1400-1600
+PHYS,Physics,Fall 2024,24456,PHYS 5005-01,Advanced Dynamics,D,"DA Silva, Caitano (P)",WORKC 352, ,15,3,TR,,1100,1215,,,WORKC 352,TR,1100-1215
+PHYS,Physics,Fall 2024,23662,PHYS 5009-01,Methods of Theoretical Physics,L,"Minschwaner, Kenneth (P)",WORKC 352, ,10,3,TR,,930,1045,,,WORKC 352,TR,0930-1045
+PHYS,Physics,Fall 2024,24457,PHYS 5032-01,Atmospheric Remote Sensing,L,"Minschwaner, Kenneth (P)",WORKC 352, ,10,3,TR,,1400,1515,,,WORKC 352,TR,1400-1515
+PHYS,Physics,Fall 2024,23670,PHYS 5079-01,Graduate-Faculty Seminar,S,"Morales Juberias, Raul (P)",WORKC 101, ,30,1,R,,1530,1700,,,WORKC 101,R,1530-1700
+PHYS,Physics,Fall 2024,23677,PHYS 5080-01,Internship,D,, , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,24246,PHYS 5080-02,Internship,D,, , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,24683,PHYS 5081-01,Optoelectronic Instrumentation,D,"Buscher, David (P)", , ,1,4,,,,,,, ,,
+PHYS,Physics,Fall 2024,24265,PHYS 5089-01,Nuclear Physics,L,"Wells, Douglas (P)",WORKC 352, ,10,3,MWF,,1300,1350,,,WORKC 352,MWF,1300-1350
+PHYS,Physics,Fall 2024,23680,PHYS 5090-01,Independent Study,I,"Creech-Eakman, Michelle (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23681,PHYS 5090-02,Independent Study,I,"DA Silva, Caitano (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23683,PHYS 5090-03,Independent Study,I,"Hofner, Peter (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23687,PHYS 5090-04,Independent Study,I,"Ferreira Raiol Leal, Adonis (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23690,PHYS 5090-05,Independent Study,I,"Lopez Carrillo, Carlos (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23692,PHYS 5090-06,Independent Study,I,"Meier, David (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23697,PHYS 5090-07,Independent Study,I,"Minschwaner, Kenneth (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23701,PHYS 5090-08,Independent Study,I,"Morales Juberias, Raul (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23704,PHYS 5090-09,Independent Study,I,"Norris, Ryan (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23706,PHYS 5090-10,Independent Study,I,"Romero, Van (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23708,PHYS 5090-11,Independent Study,I,"Sessions, Sharon (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23711,PHYS 5090-12,Independent Study,I,"Sonnenfeld, Richard (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23713,PHYS 5090-13,Independent Study,I,"Wells, Douglas (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23714,PHYS 5090-14,Independent Study,I,, , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23716,PHYS 5090-15,Independent Study,I,"Stone, Zeljka (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23718,PHYS 5090-16,Independent Study,I,"Eilek, Jean (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23721,PHYS 5090-17,Independent Study,I,"Demorest, Paul (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23722,PHYS 5090-18,Independent Study,I,"Raymond, David (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23719,PHYS 5091-01,Thesis,T,"Creech-Eakman, Michelle (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23720,PHYS 5091-02,Thesis,T,"DA Silva, Caitano (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23725,PHYS 5091-03,Thesis,T,"Hofner, Peter (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23741,PHYS 5091-04,Thesis,T,"Ferreira Raiol Leal, Adonis (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23764,PHYS 5091-05,Thesis,T,"Lopez Carrillo, Carlos (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23765,PHYS 5091-06,Thesis,T,"Meier, David (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23767,PHYS 5091-07,Thesis,T,"Minschwaner, Kenneth (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23768,PHYS 5091-08,Thesis,T,"Morales Juberias, Raul (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23769,PHYS 5091-09,Thesis,T,"Norris, Ryan (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23770,PHYS 5091-10,Thesis,T,"Romero, Van (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23771,PHYS 5091-11,Thesis,T,"Sessions, Sharon (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23772,PHYS 5091-12,Thesis,T,"Sonnenfeld, Richard (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23776,PHYS 5091-13,Thesis,T,"Wells, Douglas (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23782,PHYS 5091-14,Thesis,T,"Stone, Zeljka (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23795,PHYS 5091-16,Thesis,T,"Eilek, Jean (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23797,PHYS 5091-17,Thesis,T,"Demorest, Paul (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23801,PHYS 5091-18,Thesis,T,"Raymond, David (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23805,PHYS 5095-01,Dissertation,P,"Creech-Eakman, Michelle (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23812,PHYS 5095-02,Dissertation,P,"DA Silva, Caitano (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23813,PHYS 5095-03,Dissertation,P,"Hofner, Peter (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23814,PHYS 5095-04,Dissertation,P,"Ferreira Raiol Leal, Adonis (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23816,PHYS 5095-05,Dissertation,P,"Lopez Carrillo, Carlos (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23818,PHYS 5095-06,Dissertation,P,"Meier, David (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23819,PHYS 5095-07,Dissertation,P,"Minschwaner, Kenneth (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23822,PHYS 5095-08,Dissertation,P,"Morales Juberias, Raul (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23824,PHYS 5095-09,Dissertation,P,"Norris, Ryan (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23826,PHYS 5095-10,Dissertation,P,"Romero, Van (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23828,PHYS 5095-11,Dissertation,P,"Sessions, Sharon (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23830,PHYS 5095-12,Dissertation,P,"Sonnenfeld, Richard (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,24266,PHYS 5095-13,Dissertation,P,"Wells, Douglas (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23832,PHYS 5095-14,Dissertation,P,"Stone, Zeljka (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23834,PHYS 5095-16,Dissertation,P,"Eilek, Jean (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23837,PHYS 5095-17,Dissertation,P,"Demorest, Paul (P)", , ,10,Variable,,,,,,, ,,
+PHYS,Physics,Fall 2024,23839,PHYS 5095-18,Dissertation,P,"Raymond, David (P)", , ,10,Variable,,,,,,, ,,
+ST,Science For Teachers,Fall 2024,23699,STCH 5001-01D,Math for Teachers,L,"Phillips, Andrew (P)",WEB-V , ,30,2,,,,,,,WEB-V ,,
+ST,Science For Teachers,Fall 2024,24451,STCH 5021-01D,Earth History,L,"Jones, Daniel (P)",WEB , ,30,3,,,,,,,WEB ,,
+ST,Science For Teachers,Fall 2024,24450,STCH 5031-01D,Physics of the Solar System,L,"Morales Juberias, Raul (P)",WEB-V , ,23,3,,,,,,,WEB-V ,,
+ST,Science For Teachers,Fall 2024,24651,STCH 5081-01,Directed Study,D,"Jones, Daniel (P)", , ,1,1,,,,,,, ,,
+ST,Science For Teachers,Fall 2024,23633,STCH 5090-01D,Independent Study,I,"Westpfahl, David (P)",WEB-V , ,10,Variable,,,,,,,WEB-V ,,
+ST,Science For Teachers,Fall 2024,23637,STCH 5090-02D,Independent Study,I,"Samuels, Mark (P)",WEB-V , ,10,Variable,,,,,,,WEB-V ,,
+ST,Science For Teachers,Fall 2024,23641,STCH 5090-03D,Independent Study,I,"Elliott, Taffeta (P)",WEB-V , ,5,Variable,,,,,,,WEB-V ,,
+ST,Science For Teachers,Fall 2024,23644,STCH 5090-04D,Independent Study,I,"Hassanalian, Mostafa (P)",WEB-V , ,2,Variable,,,,,,,WEB-V ,,
+ST,Science For Teachers,Fall 2024,23646,STCH 5090-05D,Independent Study,I,"DeVeaux, Linda (P)",WEB-V , ,5,Variable,,,,,,,WEB-V ,,
+TRBT,Biotechnology,Fall 2024,24329,BIOT 5003-01,Biochemical Technology,L,"Tartis, Michaelann (P)",JONES 227, ,6,3,TR,,930,1045,,,JONES 227,TR,0930-1045
+TRBT,Biotechnology,Fall 2024,24545,BIOT 5015-01,Geomicrobiology,L,"Jones, Daniel (P)",MSEC 105, ,10,3,MWF,,1300,1350,,,MSEC 105,MWF,1300-1350
+TRBT,Biotechnology,Fall 2024,24117,BIOT 5035-01,Bioinformatics,L,"Sharbrough, Joel (P)",MSEC 195, ,10,3,MWF,,1100,1150,,,MSEC 195,MWF,1100-1150
+TRBT,Biotechnology,Fall 2024,24658,BIOT 5081-01,Microalgae for Bioenergy,D,"Rogelj, Snezna (P)", , ,1,12,,,,,,, ,,
+TRBT,Biotechnology,Fall 2024,24331,BIOT 5089-01,Chemistry of Biomolecules,L,"Patidar, Praveen (P)",JONES 106, ,5,3,TR,,930,1045,,,JONES 106,TR,0930-1045
+TRBT,Biotechnology,Fall 2024,23424,BIOT 5095-01,Dissertation,P,"Rogelj, Snezna (P)", , ,10,Variable,,,,,,, ,,
+TRBT,Biotechnology,Fall 2024,24328,BIOT 5095-02,Dissertation,P,"DeVeaux, Linda (P)", , ,10,Variable,,,,,,, ,,
+TRBT,Biotechnology,Fall 2024,23427,BIOT 5095-03,Dissertation,P,"Tartis, Michaelann (P)", , ,10,Variable,,,,,,, ,,
+TRBT,Biotechnology,Fall 2024,24327,BIOT 5095-04,Dissertation,P,"Sharbrough, Joel (P)", , ,10,Variable,,,,,,, ,,
+TRBT,Biotechnology,Fall 2024,23429,BIOT 5095-05,Dissertation,P,"Harb, Moustapha (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,23679,CYBS 5000-01,Directed Research,D,"Liebrock, Lorie (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,23682,CYBS 5000-02,Directed Research,D,"Quist, Daniel (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,24445,CYBS 5000-03,Directed Research,D,"Shin, Dongwan (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,23684,CYBS 5002-01D,Cybersecurity Ethics and Law,L,"Reitz, Corey (P)",WEB , ,15,3,M,,1800,2100,,,WEB ,M,1800-2100
+TRCY,Cybersecurity,Fall 2024,23712,CYBS 5005-01,Data Science for Cybersecurity,L,"Mazumdar, Subhasish (P)", , ,0,3,TR,,1400,1515,,, ,TR,1400-1515
+TRCY,Cybersecurity,Fall 2024,23685,CYBS 5005-01D,Data Science for Cybersecurity,L,"Kolen, John (P)",WEB , ,15,3,TR,,1400,1515,,,WEB ,TR,1400-1515
+TRCY,Cybersecurity,Fall 2024,23841,CYBS 5014-01D,Comp Sec & Incident Response,L,"Tietjen, Kelcey (P)",WEB-V , ,15,3,M,,1800,2100,,,WEB-V ,M,1800-2100
+TRCY,Cybersecurity,Fall 2024,23715,CYBS 5041-01,Advanced Cryptography,L,"Shin, Dongwan (P)",CRAMER 120, ,15,3,TR,,1100,1215,,,CRAMER 120,TR,1100-1215
+TRCY,Cybersecurity,Fall 2024,23686,CYBS 5041-01D,Advanced Cryptography,L,"Shin, Dongwan (P)",WEB , ,15,3,TR,,1100,1215,,,WEB ,TR,1100-1215
+TRCY,Cybersecurity,Fall 2024,23689,CYBS 5061-01D,Foundations of Cybersecurity,L,"Burnham, Blaine (P)",WEB , ,15,3,T,,1530,1830,,,WEB ,T,1530-1830
+TRCY,Cybersecurity,Fall 2024,24307,CYBS 5081-01,Directed Study,D,"Harper, Thomas (P)", , ,1,3,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,23844,CYBS 5089-01,AI and Cybersecurity,L,"Shin, Dongwan (P)",TBA , ,15,3,TR,,1100,1215,,,TBA ,TR,1100-1215
+TRCY,Cybersecurity,Fall 2024,23846,CYBS 5089-01D,AI and Cybersecurity,L,"Shin, Dongwan (P)",WEB , ,15,3,TR,,1100,1215,,,WEB ,TR,1100-1215
+TRCY,Cybersecurity,Fall 2024,23693,CYBS 5090-01,Independent Study,I,"Liebrock, Lorie (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,23696,CYBS 5090-02,Independent Study,I,"Quist, Daniel (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,24448,CYBS 5090-03,Independent Study,I,"Shin, Dongwan (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,23700,CYBS 5091-01,Thesis,T,"Liebrock, Lorie (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,23702,CYBS 5091-02,Thesis,T,"Quist, Daniel (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,24446,CYBS 5091-03,Thesis,T,"Shin, Dongwan (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,23705,CYBS 5095-01,Dissertation,P,"Liebrock, Lorie (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,23710,CYBS 5095-02,Dissertation,P,"Quist, Daniel (P)", , ,10,Variable,,,,,,, ,,
+TRCY,Cybersecurity,Fall 2024,24447,CYBS 5095-03,Dissertation,P,"Shin, Dongwan (P)", , ,10,Variable,,,,,,, ,,
