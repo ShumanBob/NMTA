@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Science Flowchart</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='cs_style.css') }}">
+    <style>
+        .flowchart-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0px 0;
+        }
+
+        .flowchart-image {
+            width: 1200px; 
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="{{ url_for('home') }}" class="home-button">Home</a>
+    </nav>
+
+    <section class="cs-flowchart">
+        <h1>NMT CSE/IT CLASSES</h1>
+        <form method="POST" action="{{ url_for('computer_science') }}">
+            <section class="flowchart-container">
+                <img src="{{ url_for('static', filename='images/cse.jpg') }}" alt="Computer Science Flowchart" class="flowchart-image">
+            </section>
+            <button type="submit">Go to Schedual Builder</button>
+        </form>
+    </section>
+
+</body>
+</html>

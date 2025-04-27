@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Schedule Builder</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="rotating-logo">
+    <span class="rotating-letter">N</span>
+    <span class="rotating-letter">M</span>
+    <span class="rotating-letter">T</span>
+    <span class="rotating-letter">A</span>
+  </div>
+  
+
+  <form method="POST" action="{{ url_for('computer_science') }}">
+    <button type="submit">Go to Schedual Builder</button>
+  </form>
+
+
+  <section class="chat-bot-box">
+    <div id="chatbot-container" class="chatbot-box">
+      <div class="chat-header">
+        <h3>What do you need help with?</h3>
+      </div>
+      <div id="chat-messages" class="chat-messages">
+        <div><strong>You:</strong> Hello!</div>
+        <div><strong>Bot:</strong> Hi there! How can I help?</div>
+      </div>
+      <div class="chat-input-container">
+        <input type="text" id="chat-input" placeholder="Enter message..." />
+        <button id="send-btn">Send</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="flowcharts">
+    <h2>Select your Major</h2>
+    <div class="flowchart-container">
+      <a href="{{ url_for('computer_science') }}" class="flowchart-box">Computer Science Flowchart</a>
+      <a href="{{ url_for('mechanical_engineering') }}" class="flowchart-box">Mechanical Engineering Flowchart</a>
+      <a href="{{ url_for('civil_engineering') }}" class="flowchart-box">Civil Engineering Flowchart</a>
+      <a href="{{ url_for('electrical_engineering') }}" class="flowchart-box">Electrical Engineering Flowchart</a>
+      <a href="{{ url_for('biology') }}" class="flowchart-box">Biology Flowchart</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 NMTA | Chris, Jaxen, Tyler, Zixi</p>
+  </footer>
+</body>
+</html>

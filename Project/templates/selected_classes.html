@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Computer Science Classes</title>
+  <!-- Link to the external CSS file -->
+  <link rel="stylesheet" href="static/selected.css">
+</head>
+<body>
+  <nav>
+    <a href="{{ url_for('home') }}" class="home-button">Home</a>
+  </nav>
+  <div class="container">
+    <div class="menu">
+      <h2><center>Classes</center></h2>
+      <!-- Dropdown for filtering/sorting classes by department -->
+      <center>
+      <select id="department-filter">
+        <option value="all">All Departments</option>
+        <option value="AFAS">African American Studies</option>
+        <option value="BIOL">Biology</option>
+        <option value="BMST">Biomedical Science and Technology</option>
+        <option value="CEFA">Chemical Engineering and Food Agriculture</option>
+        <option value="CEPR">Civil Engineering and Project Management</option>
+        <option value="CONC">Construction</option>
+        <option value="CE">Civil Engineering</option>
+        <option value="CEE">Civil and Environmental Engineering</option>
+        <option value="CH E">Chemical Engineering</option>
+        <option value="CHEM">Chemistry</option>
+        <option value="CSE">Computer Science and Engineering</option>
+        <option value="ECON">Economics</option>
+        <option value="EMGT">Engineering Management</option>
+        <option value="IT">Information Technology</option>
+        <option value="MGMT">Management</option>
+        <option value="ENVS">Environmental Science</option>
+        <option value="GEOB">Geobiology</option>
+        <option value="GEOC">Geochemistry</option>
+        <option value="GEOL">Geology</option>
+        <option value="GEOP">Geophysics</option>
+        <option value="HYDR">Hydrology</option>
+        <option value="EE">Electrical Engineering</option>
+        <option value="ES">Environmental Studies</option>
+        <option value="ARTS">Arts</option>
+        <option value="COMM">Communication</option>
+        <option value="EDUC">Education</option>
+        <option value="ENGL">English</option>
+        <option value="FDMA">Film, Digital Media, and Arts</option>
+        <option value="GNDR">Gender Studies</option>  
+        <option value="HIST">History</option>
+        <option value="MUS">Music</option>
+        <option value="MUSV">Music Theory</option>
+        <option value="PCOM">Public Communications</option>
+        <option value="PHIL">Philosophy</option>
+        <option value="PORT">Portuguese</option>
+        <option value="PSYC">Psychology</option>
+        <option value="SOSC">Social Sciences</option>
+        <option value="SPAN">Spanish</option>
+        <option value="TCOM">Telecommunications</option>
+        <option value="THEA">Theatre</option>
+        <option value="MTLS">Materials Science</option>
+        <option value="MATH">Mathematics</option>
+        <option value="ME">Mechanical Engineering</option>
+        <option value="AE">Aerospace Engineering</option>
+        <option value="MENG">Manufacturing Engineering</option>
+        <option value="EMGT">Engineering Management</option>
+        <option value="PETR">Petroleum Engineering</option>
+        <option value="PHYS">Physics</option>
+        <option value="CYBS">Cybersecurity</option>
+      </select>
+    </center>
+      <ul id="class-list">
+        <!-- Displaying only the class title from the selected_classes dictionary -->
+        {% for class in selected_classes %}
+          <li class="class-item" 
+              data-class="{{ class.class_name }}" 
+              data-department="{{ class.department }}" 
+              data-days="{{ class.days }}" 
+              data-time="{{ class.time }}" 
+              data-title="{{ class.title }}" 
+              onclick="addClass(this)">
+            {{ class.title }}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="content">
+      <h2><center>Class Schedule</center></h2>
+      <table class="schedule" id="schedule-table">
+        <thead>
+          <tr>
+            <th>Time</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Generate time slots from 8 AM to 8 PM -->
+          {% for hour in range(8, 21) %}
+            <tr>
+              <!-- Adjust hour display to AM/PM format -->
+              <td>{{ hour if hour <= 12 else hour - 12 }}:00 {{ 'AM' if hour < 12 else 'PM' }}</td>
+              <td id="monday-{{ hour }}" class="time-slot" data-day="monday" data-hour="{{ hour }}"></td>
+              <td id="tuesday-{{ hour }}" class="time-slot" data-day="tuesday" data-hour="{{ hour }}"></td>
+              <td id="wednesday-{{ hour }}" class="time-slot" data-day="wednesday" data-hour="{{ hour }}"></td>
+              <td id="thursday-{{ hour }}" class="time-slot" data-day="thursday" data-hour="{{ hour }}"></td>
+              <td id="friday-{{ hour }}" class="time-slot" data-day="friday" data-hour="{{ hour }}"></td>
+            </tr>
+          {% endfor %}
+        </tbody>
+        
+      </table>
+    </div>
+  </div>
+
+  <!-- Inline script to handle filtering by department -->
+  <script>
+    const filterDropdown = document.getElementById("department-filter");
+    filterDropdown.addEventListener("change", function () {
+      const selectedDept = this.value;
+      const classItems = document.querySelectorAll(".class-item");
+      classItems.forEach(item => {
+        const itemDept = item.getAttribute("data-department");
+        // Show all if "all" is selected, otherwise filter based on department match
+        if (selectedDept === "all" || itemDept === selectedDept) {
+          item.style.display = "";
+        } else {
+          item.style.display = "none";
+        }
+      });
+    });
+  </script>
+
+  <!-- Link to the external JS file -->
+  <script src="static/selected.js"></script>
+</body>
+</html>

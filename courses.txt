@@ -399,8 +399,6 @@ Individual and group projects. Practice in developing
 software requirement, specification, design, and test plan
 documents.
 TR 12:30 pm-01:45 pm
-TR 12:30 pm-01:45 pm
-W 02:00 pm-02:50 pm Lab
 W 02:00 pm-02:50 pm Lab
 -@-
 CSE 441, Cryptography and Applications
@@ -501,7 +499,6 @@ systems and engineering applications.Comparative study
 of the soft computing paradigm as a problem solving
 methodology.
 W 06:00 pm-08:30 pm
-W 06:00 pm-08:30 pm
 -@-
 CSE 465, Introduction to Neural Networks and Applications
 3 cr, 3 cl hrs
@@ -571,13 +568,16 @@ Undergraduate special topics in computer science. For a
 list of recent offerings, please visit the department’s
 website.
 -@-
-CSE 491, 491D, Directed Study, cr and topics arranged
+CSE 491, 491D, Directed Study, 
+cr and topics arranged
 Cannot be used toward graduation.
 -@-
-CSE 493, Undergraduate Thesis, 1cr
+CSE 493, Undergraduate Thesis
+1cr
 Prerequisite: Acceptance into the Computer Science
 Undergraduate Honors Thesis option.
 -@-
-CSE 494, Undergraduate Thesis, 2cr
+CSE 494, Undergraduate Thesis
+2cr
 Prerequisite: CSE 493
 -@-
