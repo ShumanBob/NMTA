@@ -13,22 +13,17 @@
     <span class="rotating-letter">T</span>
     <span class="rotating-letter">A</span>
   </div>
-  
 
   <form method="POST" action="{{ url_for('computer_science') }}">
-    <button type="submit">Go to Schedual Builder</button>
+    <button type="submit">Go to Schedule Builder</button>
   </form>
-
 
   <section class="chat-bot-box">
     <div id="chatbot-container" class="chatbot-box">
       <div class="chat-header">
         <h3>What do you need help with?</h3>
       </div>
-      <div id="chat-messages" class="chat-messages">
-        <div><strong>You:</strong> Hello!</div>
-        <div><strong>Bot:</strong> Hi there! How can I help?</div>
-      </div>
+      <div id="chat-messages" class="chat-messages"></div>
       <div class="chat-input-container">
         <input type="text" id="chat-input" placeholder="Enter message..." />
         <button id="send-btn">Send</button>
@@ -50,5 +45,56 @@
   <footer>
     <p>&copy; 2025 NMTA | Chris, Jaxen, Tyler, Zixi</p>
   </footer>
+
+  <!-- Chatbot JavaScript -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const chatMessages = document.getElementById("chat-messages");
+      const chatInput = document.getElementById("chat-input");
+      const sendBtn = document.getElementById("send-btn");
+
+      async function sendMessage() {
+        const message = chatInput.value.trim();
+        if (message === "") return;
+
+        // Show user message
+        const userDiv = document.createElement("div");
+        userDiv.innerHTML = `<strong>You:</strong> ${message}`;
+        chatMessages.appendChild(userDiv);
+
+        // Clear input
+        chatInput.value = "";
+
+        // Show typing animation
+        const botDiv = document.createElement("div");
+        botDiv.innerHTML = `<strong>Bot:</strong> <span id="typing">Typing...</span>`;
+        chatMessages.appendChild(botDiv);
+
+        try {
+          const response = await fetch("http://129.138.174.97:5001/chat", {  
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ message: message }),
+        });
+
+
+          const data = await response.json();
+
+          // Replace typing with bot message
+          botDiv.innerHTML = `<strong>Bot:</strong> ${data.response}`;
+        } catch (error) {
+          botDiv.innerHTML = `<strong>Bot:</strong> Sorry, an error occurred.`;
+          console.error("Chat error:", error);
+        }
+
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+      }
+
+      sendBtn.addEventListener("click", sendMessage);
+      chatInput.addEventListener("keypress", function (e) {
+        if (e.key === "Enter") sendMessage();
+      });
+    });
+  </script>
 </body>
 </html>
