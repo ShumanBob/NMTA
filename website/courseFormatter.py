@@ -1,5 +1,9 @@
 import pandas as pd
 from datetime import datetime
+import os
+
+# Get directory where this script is located
+base_dir = os.path.dirname(__file__)
 
 # Convert "HHMM-HHMM" format to "HH:MM AM/PM - HH:MM AM/PM"
 def convert_time_range(time_str):
@@ -13,8 +17,9 @@ def convert_time_range(time_str):
     except ValueError:
         return ''
 
-# Load the CSV
-df = pd.read_csv("nmt_courses.csv")
+# Load the CSV (absolute path)
+csv_path = os.path.join(base_dir, "nmt_courses_latest.csv")
+df = pd.read_csv(csv_path)
 
 # Collect formatted lines
 formatted_classes = []
@@ -35,8 +40,9 @@ for _, row in df.iterrows():
     formatted_line = f"{course_code}, {dept}, {days}, {time_range}, {credit_hours}, {course_code} - {title} ({pretty_days} {time_range})"
     formatted_classes.append(formatted_line)
 
-# Write to output file
-with open("classes.txt", "w") as f:
+# Write to output file (absolute path)
+output_path = os.path.join(base_dir, "classes.txt")
+with open(output_path, "w") as f:
     for line in formatted_classes:
         f.write(line + "\n")
 

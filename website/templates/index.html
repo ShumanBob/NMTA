@@ -14,7 +14,7 @@
     <span class="rotating-letter">A</span>
   </div>
 
-  <form method="POST" action="{{ url_for('computer_science') }}">
+  <form method="POST" action="{{ url_for('selected_classes') }}">
     <button type="submit">Go to Schedule Builder</button>
   </form>
 
@@ -71,12 +71,11 @@
         chatMessages.appendChild(botDiv);
 
         try {
-          const response = await fetch("http://129.138.174.97:5001/chat", {  
+          const response = await fetch("/chatbot_api", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ message: message }),
-        });
-
+          });
 
           const data = await response.json();
 
@@ -89,6 +88,7 @@
 
         chatMessages.scrollTop = chatMessages.scrollHeight;
       }
+
 
       sendBtn.addEventListener("click", sendMessage);
       chatInput.addEventListener("keypress", function (e) {

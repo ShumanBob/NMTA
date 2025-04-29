@@ -14,7 +14,7 @@
   <div class="container">
     <div class="menu">
       <h2><center>Classes</center></h2>
-      <!-- Dropdown for filtering/sorting classes by department -->
+
       <center>
       <select id="department-filter">
         <option value="all">All Departments</option>
@@ -70,7 +70,7 @@
       </select>
     </center>
       <ul id="class-list">
-        <!-- Displaying only the class title from the selected_classes dictionary -->
+
         {% for class in selected_classes %}
           <li class="class-item" 
               data-class="{{ class.class_name }}" 
@@ -115,17 +115,15 @@
       </table>
     </div>
   </div>
-
-  <!-- Inline script to handle filtering by department -->
   <script>
     const filterDropdown = document.getElementById("department-filter");
     filterDropdown.addEventListener("change", function () {
       const selectedDept = this.value;
       const classItems = document.querySelectorAll(".class-item");
       classItems.forEach(item => {
-        const itemDept = item.getAttribute("data-department");
-        // Show all if "all" is selected, otherwise filter based on department match
-        if (selectedDept === "all" || itemDept === selectedDept) {
+        const itemDept = item.getAttribute("data-class");
+
+        if (selectedDept === "all" || itemDept.startsWith(selectedDept)) {
           item.style.display = "";
         } else {
           item.style.display = "none";
@@ -134,7 +132,6 @@
     });
   </script>
 
-  <!-- Link to the external JS file -->
   <script src="static/selected.js"></script>
 </body>
 </html>
