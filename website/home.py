@@ -17,12 +17,13 @@ subprocess.run(["python", FORMATTER_PATH], capture_output=True, text=True)
 app = Flask(__name__)
 
 class Course:
-    def __init__(self, class_name, department, days, time, credit_hours, title):
+    def __init__(self, class_name, department, days, time, credit_hours, seats, title):
         self.class_name = class_name
         self.department = department
         self.days = days
         self.time = time
         self.credit_hours = credit_hours
+        self.seats = seats
         self.title = title
 
     def __repr__(self):
@@ -37,14 +38,15 @@ def selected_classes():
                 line = line.strip()
                 if line:
                     parts = line.split(", ")
-                    if len(parts) == 6:
+                    if len(parts) == 7:
                         class_name = parts[0].strip()
                         department = parts[1].strip()
                         days = parts[2].strip()
                         time = parts[3].strip()
                         credit_hours = parts[4].strip()
-                        title = parts[5].strip()
-                        selected_classes.append(Course(class_name, department, days, time, credit_hours, title))
+                        seats = parts[5].strip()
+                        title = parts[6].strip()
+                        selected_classes.append(Course(class_name, department, days, time, credit_hours, seats, title))
     except FileNotFoundError:
         selected_classes = [{"Error": "classes.txt file not found."}]
     except Exception as e:

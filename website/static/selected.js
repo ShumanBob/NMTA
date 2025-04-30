@@ -30,6 +30,7 @@ function addClass(element) {
     const days = element.getAttribute('data-days');
     const time = element.getAttribute('data-time');
     const classDescription = element.getAttribute('data-title');
+    const seats = element.getAttribute('data-seats');
 
     const parsedDays = parseDays(days);
     const [startStr, endStr] = time.split(' - ');

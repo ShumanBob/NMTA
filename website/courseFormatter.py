@@ -32,12 +32,13 @@ for _, row in df.iterrows():
     time_range = convert_time_range(row['time'])
     title = row['title'] if pd.notna(row['title']) else ''
     credit_hours = row['credit_hours'] if 'credit_hours' in row and pd.notna(row['credit_hours']) else ''
+    seats = row['seats'] if 'seats' in row and pd.notna(row['seats']) else ''
 
     if not (course_code and dept and days and time_range and title and credit_hours):
         continue
 
     pretty_days = '/'.join(days)
-    formatted_line = f"{course_code}, {dept}, {days}, {time_range}, {credit_hours}, {course_code} - {title} ({pretty_days} {time_range})"
+    formatted_line = f"{course_code}, {dept}, {days}, {time_range}, {credit_hours}, {seats}, {course_code} - {title} ({pretty_days} {time_range})"
     formatted_classes.append(formatted_line)
 
 # Write to output file (absolute path)

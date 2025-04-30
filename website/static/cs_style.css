@@ -95,21 +95,20 @@ nav {
     background: #444;
 }
 
-/* Submit Button */
+/* ====== BUTTONS (GLOBAL STYLE) ====== */
 button {
-    background-color: #ff6600;
+    background-color: #b33939;
     color: white;
     padding: 12px 20px;
-    font-size: 18px;
+    font-size: 16px;
     border: none;
-    cursor: pointer;
     border-radius: 8px;
-    margin-top: 20px;
-    transition: background 0.3s ease, transform 0.2s ease;
+    cursor: pointer;
+    transition: all 0.3s ease;
 }
 
 button:hover {
-    background-color: #cc5500;
+    background-color: #0c2753;
     transform: scale(1.05);
 }
 
@@ -119,7 +118,8 @@ button:hover {
     color: #ff6600;
     margin-top: 20px;
     text-align: center;
-    animation: rotate 5s linear infinite; /* Rotates infinitely */
+    animation: rotate 5s linear infinite;
+    /* Rotates infinitely */
 }
 
 /* Rotation Animation */
@@ -127,6 +127,7 @@ button:hover {
     from {
         transform: rotate(0deg);
     }
+
     to {
         transform: rotate(360deg);
     }

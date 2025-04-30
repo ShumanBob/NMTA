@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,26 +15,29 @@
         }
 
         .flowchart-image {
-            width: 1200px; 
+            width: 1200px;
             height: auto;
         }
     </style>
 </head>
+
 <body>
 
     <nav>
         <a href="{{ url_for('home') }}" class="home-button">Home</a>
     </nav>
 
-    <section class="cs-flowchart">
-        <h1>NMT CSE/IT CLASSES</h1>
-        <form method="POST" action="{{ url_for('computer_science') }}">
-            <section class="flowchart-container">
-                <img src="{{ url_for('static', filename='images/cse.jpg') }}" alt="Computer Science Flowchart" class="flowchart-image">
-            </section>
-            <button type="submit">Go to Schedual Builder</button>
-        </form>
+    <h1 class="flowchart-title">CSCI/CSE Flowchart</h1>
+
+    <section class="flowchart-container">
+        <img src="{{ url_for('static', filename='images/cse.jpg') }}" alt="Computer Science Flowchart"
+            class="flowchart-image">
     </section>
 
+    <form method="POST" action="{{ url_for('selected_classes') }}">
+        <button type="submit">Go to Schedule Builder</button>
+    </form>
+
 </body>
+
 </html>
