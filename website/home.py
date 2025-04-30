@@ -78,6 +78,10 @@ def electrical_engineering():
 def biology():
     return render_template("biology.html")
 
+@app.route("/basic_sciences")
+def basic_sciences():
+    return render_template("basic_sciences.html")
+
 # forward chatbot requests
 CHATBOT_URL = "http://localhost:5001"
 
