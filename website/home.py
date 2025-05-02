@@ -6,53 +6,110 @@ from pyngrok import ngrok
 
 # Paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CLASSES_FILE = os.path.join(BASE_DIR, "classes.txt")
+CLASSES_FILE = os.path.join(BASE_DIR, "data/classes.txt")
 SCRAPER_PATH = os.path.join(BASE_DIR, "courseScraper.py")
 FORMATTER_PATH = os.path.join(BASE_DIR, "courseFormatter.py")
 
-# run course scraper
+# Run course scraper and formatter
 subprocess.run(["python", SCRAPER_PATH], capture_output=True, text=True)
 subprocess.run(["python", FORMATTER_PATH], capture_output=True, text=True)
 
 app = Flask(__name__)
 
 class Course:
-    def __init__(self, class_name, department, days, time, credit_hours, seats, title):
+    def __init__(self, class_name, crn, department, days, time, credit_hours, seats, title,
+                 instructor, location, course_type, term, subject, campus,
+                 date_range, limit, enrolled, waitlist, fees, bookstore_link):
         self.class_name = class_name
+        self.crn = crn
         self.department = department
         self.days = days
         self.time = time
         self.credit_hours = credit_hours
         self.seats = seats
         self.title = title
+        self.instructor = instructor
+        self.location = location
+        self.course_type = course_type
+        self.term = term
+        self.subject = subject
+        self.campus = campus
+        self.date_range = date_range
+        self.limit = limit
+        self.enrolled = enrolled
+        self.waitlist = waitlist
+        self.fees = fees
+        self.bookstore_link = bookstore_link
 
     def __repr__(self):
-        return f"{self.class_name} - {self.title} ({self.days} {self.time}, {self.credit_hours} credit hours)"
+        return f"{self.class_name} - {self.title} ({self.days} {self.time})"
 
-@app.route("/selected_classes", methods=["GET", "POST"])
-def selected_classes():
+@app.route("/schedule_builder", methods=["GET", "POST"])
+def schedule_builder():
     selected_classes = []
     try:
         with open(CLASSES_FILE, "r") as f:
             for line in f:
                 line = line.strip()
-                if line:
-                    parts = line.split(", ")
-                    if len(parts) == 7:
-                        class_name = parts[0].strip()
-                        department = parts[1].strip()
-                        days = parts[2].strip()
-                        time = parts[3].strip()
-                        credit_hours = parts[4].strip()
-                        seats = parts[5].strip()
-                        title = parts[6].strip()
-                        selected_classes.append(Course(class_name, department, days, time, credit_hours, seats, title))
+                if not line:
+                    continue
+
+                try:
+                    main_part, _, meta_part = line.partition(" | ")
+                    parts = [p.strip() for p in main_part.split(",")]
+                    if len(parts) < 7:
+                        continue
+
+                    # Parse metadata first (must come before department is used)
+                    meta_parts = {}
+                    for kv in meta_part.split(", "):
+                        if ": " in kv:
+                            key, value = kv.split(": ", 1)
+                            val = value.strip() or "N/A"
+                            meta_parts[key.strip()] = val
+
+                    class_name = parts[0]
+                    crn = parts[1]
+                    days = parts[2]
+                    time = parts[3]
+                    credit_hours = parts[4]
+                    seats = parts[5]
+                    title = parts[6]
+                    department = meta_parts.get("Subject", "N/A")
+
+                    course = Course(
+                        class_name=class_name,
+                        crn=crn,
+                        department=department,
+                        days=days,
+                        time=time,
+                        credit_hours=credit_hours,
+                        seats=seats,
+                        title=title,
+                        instructor=meta_parts.get("Instructor", "N/A"),
+                        location=meta_parts.get("Location", "N/A"),
+                        course_type=meta_parts.get("Type", "N/A"),
+                        term=meta_parts.get("Term", "N/A"),
+                        subject=meta_parts.get("Subject", "N/A"),
+                        campus=meta_parts.get("Campus", "N/A"),
+                        date_range=meta_parts.get("Date Range", "N/A"),
+                        limit=meta_parts.get("Limit", "N/A"),
+                        enrolled=meta_parts.get("Enrolled", "N/A"),
+                        waitlist=meta_parts.get("Waitlist", "N/A"),
+                        fees=meta_parts.get("Fees", "N/A"),
+                        bookstore_link=meta_parts.get("Bookstore", "N/A")
+                    )
+
+                    selected_classes.append(course)
+                except Exception as parse_error:
+                    print(f"Error parsing line: {line}\n{parse_error}")
+
     except FileNotFoundError:
         selected_classes = [{"Error": "classes.txt file not found."}]
     except Exception as e:
         selected_classes = [{"Error": f"An unexpected error occurred: {str(e)}"}]
 
-    return render_template("selected_classes.html", selected_classes=selected_classes)
+    return render_template("schedule_builder.html", selected_classes=selected_classes)
 
 @app.route("/")
 def home():
@@ -82,27 +139,59 @@ def biology():
 def basic_sciences():
     return render_template("basic_sciences.html")
 
-# forward chatbot requests
-CHATBOT_URL = "http://localhost:5001"
+@app.route('/acceleratedphysics')
+def acceleratedphysics():
+    return render_template('acceleratedphysics.html')
 
-@app.route("/chatbot_api", methods=["POST"])
-def chatbot_api():
+@app.route('/astrophysics')
+def astrophysics():
+    return render_template('astrophysics.html')
+
+@app.route('/atmosphereicphysics')
+def atmosphereicphysics():
+    return render_template('atmosphereicphysics.html')
+
+@app.route('/chemEngineering')
+def chemEngineering():
+    return render_template('chemEngineering.html')
+
+@app.route('/chemistry')
+def chemistry():
+    return render_template('chemistry.html')
+
+@app.route('/mathematics')
+def mathematics():
+    return render_template('mathematics.html')
+
+@app.route('/petroleum')
+def petroleum():
+    return render_template('petroleum.html')
+
+@app.route('/physics')
+def physics():
+    return render_template('physics.html')
+
+@app.route('/noflowchart')
+def noflowchart():
+    return render_template('noflowchart.html')
+
+
+@app.route("/chat", methods=["POST"])
+def chatbot():
     try:
+        CHATBOT_URL = os.environ.get("CHATBOT_URL", "http://localhost:5001")
         user_message = request.json.get("message")
         if not user_message:
             return jsonify({"error": "No message provided"}), 400
 
-        # Forward the request to chatbot.py
         response = requests.post(f"{CHATBOT_URL}/chat", json={"message": user_message})
         return jsonify(response.json())
     except requests.RequestException as e:
         return jsonify({"error": f"Failed to reach chatbot server: {str(e)}"}), 500
 
 if __name__ == "__main__":
-    # prevents duplicate ngrok tunnel when flask is reloaded
     if not os.environ.get("WERKZEUG_RUN_MAIN"):
         public_url = ngrok.connect(5000)
         print(" * ngrok tunnel running at:", public_url)
 
-    app.run(host="0.0.0.0", port=5000, debug=True)
-
+    app.run(port=5000, debug=False)

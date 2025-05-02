@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Schedule Builder</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/schedule.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/schedule_chatbot.css') }}">
+</head>
+
+<body>
+  
+  <div id="credit-hour-display">
+    Credit Hours: <span id="credit-hours">0</span>
+    <button id="copy-crns-btn" style="margin-left: 10px;">Copy CRNs</button>
+  </div>
+  
+  <nav>
+    <a href="{{ url_for('home') }}" class="home-button">Home</a>
+  </nav>
+
+  <div class="container">
+    <div class="menu">
+      <h2><center>Classes</center></h2>
+      <center>
+        <select id="department-filter">
+          <option value="all">All Departments</option>
+          {% set departments = selected_classes | map(attribute='department') | unique | list | sort %}
+          {% for dept in departments if dept %}
+          <option value="{{ dept }}">{{ dept }}</option>
+          {% endfor %}
+        </select>
+      </center>
+
+      <ul id="class-list">
+        {% for class in selected_classes %}
+        {% if class.department and class.time and class.days and class.class_name %}
+        <li class="class-item"
+            data-crn="{{ class.crn }}"
+            data-class="{{ class.class_name }}"
+            data-department="{{ class.department }}"
+            data-days="{{ class.days }}"
+            data-time="{{ class.time }}"
+            data-seats="{{ class.seats }}"
+            data-title="{{ class.title }}"
+            data-credit_hours="{{ class.credit_hours }}"
+            onclick="addClass(this)"
+            title="Instructor: {{ class.instructor }}&#10;Location: {{ class.location }}&#10;Type: {{ class.course_type }}&#10;Term: {{ class.term }}&#10;Subject: {{ class.subject }}&#10;Campus: {{ class.campus }}&#10;Date Range: {{ class.date_range }}&#10;Limit: {{ class.limit }}&#10;Enrolled: {{ class.enrolled }}&#10;Waitlist: {{ class.waitlist }}&#10;Fees: {{ class.fees }}">
+          {{ class.title }} (CRN: {{ class.crn }}) | Credit Hours: {{ class.credit_hours }} | Seats: {{ class.seats }} |
+          <a href="{{ class.bookstore_link }}" target="_blank">BookLink</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="content">
+      <h2><center>Class Schedule</center></h2>
+      <div class="calendar-wrapper">
+        <div class="calendar-header">
+          <div class="calendar-cell empty"></div>
+          <div class="calendar-cell">Monday</div>
+          <div class="calendar-cell">Tuesday</div>
+          <div class="calendar-cell">Wednesday</div>
+          <div class="calendar-cell">Thursday</div>
+          <div class="calendar-cell">Friday</div>
+        </div>
+
+        <div class="calendar-grid">
+          <div class="time-labels">
+            {% for hour in range(8, 21) %}
+              <div class="time-label">{{ hour if hour <= 12 else hour - 12 }}:00 {{ 'AM' if hour < 12 else 'PM' }}</div>
+            {% endfor %}
+          </div>
+
+          {% for day in ["monday", "tuesday", "wednesday", "thursday", "friday"] %}
+            <div class="day-column" id="{{ day }}-column" data-day="{{ day }}">
+              {% for _ in range(8, 21) %}
+                <div class="hour-line"></div>
+              {% endfor %}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Scripts -->
+  
+  <script>
+    const filterDropdown = document.getElementById("department-filter");
+    filterDropdown.addEventListener("change", function () {
+      const selectedDept = this.value;
+      const classItems = document.querySelectorAll(".class-item");
+      classItems.forEach(item => {
+        const itemDept = item.getAttribute("data-department");
+        item.style.display = (selectedDept === "all" || itemDept === selectedDept) ? "" : "none";
+      });
+    });
+  </script>
+  <script src="{{ url_for('static', filename='javascript/schedule.js') }}"></script>
+  <script src="{{ url_for('static', filename='javascript/schedule_chatbot.js') }}"></script>
+</body>
+</html>

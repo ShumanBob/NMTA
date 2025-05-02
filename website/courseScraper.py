@@ -13,6 +13,17 @@ class NmtCoursesSpider(scrapy.Spider):
         terms = response.css('select[name="p_term"] option::attr(value)').getall()
         subjects = response.css('select[name="p_subj"] option::attr(value)').getall()
 
+        """
+        for subject in subjects:
+            # self.logger.info(f"Submitting form with term={term}, subject={subject}")
+            yield scrapy.FormRequest(
+                url="https://banweb7.nmt.edu/pls/PROD/hwzkcrof.P_UncgSrchCrsOff",
+                formdata={"p_term": terms, "p_subj": subject},
+                callback=self.parse_courses,
+                meta={"term": terms, "subject": subject}
+            )
+        """
+
         latest_term = max(terms)
 
         for subject in subjects:
@@ -57,7 +68,7 @@ class NmtCoursesSpider(scrapy.Spider):
 if __name__ == "__main__":
     process = CrawlerProcess(settings={
         "FEEDS": {
-            os.path.join(os.path.dirname(__file__), "nmt_courses_latest.csv"): {"format": "csv", "overwrite": True}
+            os.path.join(os.path.dirname(__file__), "data/nmt_courses_latest.csv"): {"format": "csv", "overwrite": True}
 
         },
         "LOG_LEVEL": "INFO"

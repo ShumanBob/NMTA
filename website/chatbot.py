@@ -6,7 +6,7 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
 
 OLLAMA_API_URL = "http://localhost:11434/api/generate"
-OLLAMA_MODEL_NAME = "NMTA"
+OLLAMA_MODEL_NAME = "NMTA-1.0"
 
 @app.route("/chat", methods=["POST"])
 def chat():
@@ -40,4 +40,4 @@ def chat():
         return jsonify({"response": "Sorry, an error occurred."}), 500
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5001, debug=True)
+    app.run(port=5001, debug=False)

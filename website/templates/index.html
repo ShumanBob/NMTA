@@ -4,114 +4,98 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Schedule Builder</title>
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/front_page.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/front_page_chatbot.css') }}">
 </head>
+
 <body>
-  <div class="rotating-logo">
-    <span class="rotating-letter">N</span>
-    <span class="rotating-letter">M</span>
-    <span class="rotating-letter">T</span>
-    <span class="rotating-letter">A</span>
-  </div>
+  <!-- TOP SECTION -->
+  <section class="top-section">
+    <div class="rotating-logo">
+      <span class="rotating-letter">N</span>
+      <span class="rotating-letter">M</span>
+      <span class="rotating-letter">T</span>
+      <span class="rotating-letter">A</span>
+    </div>
+  </section>
 
-  <form method="POST" action="{{ url_for('selected_classes') }}">
-    <button type="submit">Go to Schedule Builder</button>
-  </form>
+  <!-- MIDDLE SECTION -->
+  <section class="middle-section">
+    <form method="POST" action="{{ url_for('schedule_builder') }}">
+      <button type="submit" class="schedule-button">Go to Schedule Builder</button>
+    </form>
 
-  <section class="chat-bot-box">
-    <div id="chatbot-container" class="chatbot-box">
-      <div class="chat-header">
-        <h3>What do you need help with?</h3>
-      </div>
-      <div id="chat-messages" class="chat-messages"></div>
-      <div class="chat-input-container">
-        <input type="text" id="chat-input" placeholder="Enter message..." />
-        <button id="send-btn">Send</button>
+    <div class="chat-bot-box">
+      <div id="chatbot-container" class="chatbot-box">
+        <div class="chat-header">
+          <h3>What do you need help with?</h3>
+        </div>
+        <div id="chat-messages" class="chat-messages"></div>
+        <div class="chat-input-container">
+          <input type="text" id="chat-input" placeholder="Enter message..." />
+          <button id="send-btn">Send</button>
+        </div>
       </div>
     </div>
   </section>
 
-  <section class="flowcharts">
-    <h2>Select your Major</h2>
+  <!-- BOTTOM SECTION -->
+  <section class="bottom-section">
+    <h2>Search For Your Degree Guide</h2>
+    <input
+      type="text"
+      id="flowchart-search"
+      placeholder="e.g., Computer Science"
+      style="margin-bottom: 1em; padding: 0.5em; width: 100%; max-width: 300px;"
+    />
     <div class="flowchart-container">
-      <a href="{{ url_for('computer_science') }}" class="flowchart-box">Computer Science and Engineering</a>
+      <a href="{{ url_for('computer_science') }}" class="flowchart-box">Computer Science</a>
       <a href="{{ url_for('mechanical_engineering') }}" class="flowchart-box">Mechanical Engineering</a>
-      <a href="{{ url_for('civil_engineering') }}" class="flowchart-box">Civil Engineering Flowchart</a>
+      <a href="{{ url_for('civil_engineering') }}" class="flowchart-box">Civil Engineering</a>
       <a href="{{ url_for('electrical_engineering') }}" class="flowchart-box">Electrical Engineering</a>
       <a href="{{ url_for('biology') }}" class="flowchart-box">Biology</a>
-      <a href="{{ url_for('basic_sciences') }}" class="flowchart-box">Basic Sciences</a>
-      {# <a href="{{ url_for('biomedical_sciences') }}" class="flowchart-box">Biomedical Sciences</a>
-      <a href="{{ url_for('chemical_engineering') }}" class="flowchart-box">Chemical Engineering</a>
+      <a href="{{ url_for('acceleratedphysics') }}" class="flowchart-box">Accelerated MS Physics</a>
+      <a href="{{ url_for('astrophysics') }}" class="flowchart-box">Astrophysics</a>
+      <a href="{{ url_for('atmosphereicphysics') }}" class="flowchart-box">Atmospheric Physics</a>
+      <a href="{{ url_for('chemEngineering') }}" class="flowchart-box">Chemical Engineering</a>
       <a href="{{ url_for('chemistry') }}" class="flowchart-box">Chemistry</a>
-      <a href="{{ url_for('earth_science') }}" class="flowchart-box">Earth Science</a>
-      <a href="{{ url_for('environmental_engineering') }}" class="flowchart-box">Environmental Engineering</a>
-      <a href="{{ url_for('environmental_science') }}" class="flowchart-box">Environmental Science</a>
-      <a href="{{ url_for('general_studies') }}" class="flowchart-box">General Studies</a>
-      <a href="{{ url_for('information_technology') }}" class="flowchart-box">Information Technology</a>
-      <a href="{{ url_for('management') }}" class="flowchart-box">Management</a>
-      <a href="{{ url_for('materials_engineering') }}" class="flowchart-box">Materials Engineering</a>
       <a href="{{ url_for('mathematics') }}" class="flowchart-box">Mathematics</a>
-      <a href="{{ url_for('mineral_engineering') }}" class="flowchart-box">Mineral Engineering</a>
-      <a href="{{ url_for('petroleum_and_natural_gas_engineering') }}" class="flowchart-box">Pertroleum and Natural Gas Engineering</a>
+      <a href="{{ url_for('petroleum') }}" class="flowchart-box">Petroleum</a>
       <a href="{{ url_for('physics') }}" class="flowchart-box">Physics</a>
-      <a href="{{ url_for('psychology') }}" class="flowchart-box">Psychology</a>
-      <a href="{{ url_for('teacher_education') }}" class="flowchart-box">Teacher Education</a>
-      <a href="{{ url_for('technical_communication') }}" class="flowchart-box">Technical Communication</a>
-    #}
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">Environmental Engineering</a>
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">Materials & Metallurgical Engineering</a>
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">Mineral Engineering</a>
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">Earth Science</a>
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">Environmental Science</a>
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">Business Management</a>
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">Management of Technology</a>
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">Technical Communication</a>
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">Psychology</a>
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">General Studies</a>
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">Music</a>
+      <a href="{{ url_for('noflowchart') }}" class="flowchart-box">Biotechnology</a>
     </div>
+    <footer>
+      <p>&copy; 2025 NMTA | Chris, Jaxen, Tyler, Zixi</p>
+    </footer>
   </section>
 
-  <footer>
-    <p>&copy; 2025 NMTA | Chris, Jaxen, Tyler, Zixi</p>
-  </footer>
+  <!-- CHATBOT SCRIPT -->
+  <script src="{{ url_for('static', filename='javascript/front_page_chatbot.js') }}"></script>
 
-  <!-- Chatbot JavaScript -->
+  <!-- SEARCH SCRIPT -->
   <script>
     document.addEventListener("DOMContentLoaded", function () {
-      const chatMessages = document.getElementById("chat-messages");
-      const chatInput = document.getElementById("chat-input");
-      const sendBtn = document.getElementById("send-btn");
+      const searchInput = document.getElementById("flowchart-search");
+      const flowchartBoxes = document.querySelectorAll(".flowchart-box");
 
-      async function sendMessage() {
-        const message = chatInput.value.trim();
-        if (message === "") return;
+      searchInput.addEventListener("input", function () {
+        const query = searchInput.value.toLowerCase();
 
-        // Show user message
-        const userDiv = document.createElement("div");
-        userDiv.innerHTML = `<strong>You:</strong> ${message}`;
-        chatMessages.appendChild(userDiv);
-
-        // Clear input
-        chatInput.value = "";
-
-        // Show typing animation
-        const botDiv = document.createElement("div");
-        botDiv.innerHTML = `<strong>Bot:</strong> <span id="typing">Typing...</span>`;
-        chatMessages.appendChild(botDiv);
-
-        try {
-          const response = await fetch("/chatbot_api", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ message: message }),
-          });
-
-          const data = await response.json();
-
-          // Replace typing with bot message
-          botDiv.innerHTML = `<strong>Bot:</strong> ${data.response}`;
-        } catch (error) {
-          botDiv.innerHTML = `<strong>Bot:</strong> Sorry, an error occurred.`;
-          console.error("Chat error:", error);
-        }
-
-        chatMessages.scrollTop = chatMessages.scrollHeight;
-      }
-
-
-      sendBtn.addEventListener("click", sendMessage);
-      chatInput.addEventListener("keypress", function (e) {
-        if (e.key === "Enter") sendMessage();
+        flowchartBoxes.forEach(box => {
+          const text = box.textContent.toLowerCase();
+          box.style.display = text.includes(query) ? "inline-block" : "none";
+        });
       });
     });
   </script>

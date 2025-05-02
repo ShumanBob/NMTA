@@ -1,12 +1,11 @@
 let scheduledClasses = {};
+let totalCreditHours = 0; //initialize total credit hours to 0
 
 function convertTimeToMinutes(timeString) {
     const [time, period] = timeString.trim().split(" ");
     let [hour, minute] = time.split(":").map(Number);
-
     if (period === "PM" && hour !== 12) hour += 12;
     if (period === "AM" && hour === 12) hour = 0;
-
     return hour * 60 + minute;
 }
 
@@ -30,7 +29,7 @@ function addClass(element) {
     const days = element.getAttribute('data-days');
     const time = element.getAttribute('data-time');
     const classDescription = element.getAttribute('data-title');
-    const seats = element.getAttribute('data-seats');
+    const creditValue = parseInt(element.getAttribute("data-credit_hours"));
 
     const parsedDays = parseDays(days);
     const [startStr, endStr] = time.split(' - ');
@@ -65,65 +64,45 @@ function addClass(element) {
     // No conflict, schedule class
     parsedDays.forEach(day => {
         if (!scheduledClasses[day]) scheduledClasses[day] = [];
-        scheduledClasses[day].push({
-            name: className,
-            startMin,
-            endMin
-        });
+        scheduledClasses[day].push({ name: className, startMin, endMin });
 
-        const startHour = Math.floor(startMin / 60);
-        const endHour = Math.floor(endMin / 60);
+        const column = document.getElementById(`${day}-column`);
+        if (!column) return;
 
-        for (let hour = startHour; hour <= endHour; hour++) {
-            const slot = document.getElementById(`${day}-${hour}`);
-            if (!slot) continue;
+        const duration = endMin - startMin;
+        const top = startMin - 480; // 8:00 AM is base (480 min)
 
-            const hourStart = hour * 60;
-            const hourEnd = (hour + 1) * 60;
+        const block = document.createElement("div");
+        block.className = "class-block";
+        block.textContent = classDescription;
+        block.style.top = `${top}px`;
+        block.style.height = `${duration}px`;
 
-            if (timeRangesOverlap(startMin, endMin, hourStart, hourEnd)) {
-                const block = document.createElement("div");
-                block.className = "class-block";
-                block.textContent = classDescription;
-
-                const topPercent = Math.max(0, (Math.max(startMin, hourStart) - hourStart) / 60) * 100;
-                const heightPercent = (Math.min(endMin, hourEnd) - Math.max(startMin, hourStart)) / 60 * 100;
-
-                block.style.top = `${topPercent}%`;
-                block.style.height = `${heightPercent}%`;
-
-                block.addEventListener("click", () => removeClassFromSchedule(className));
-
-                slot.appendChild(block);
-            }
-        }
+        block.addEventListener("click", () => removeClassFromSchedule(className));
+        column.appendChild(block);
     });
 
     // Update credit hours
-    const creditValue = parseInt(element.getAttribute("data-credits"));
-    const creditDisplay = document.getElementById("credit-hours");
-    creditDisplay.textContent = parseInt(creditDisplay.textContent) + creditValue;
+    totalCreditHours += creditValue;
+    updateCreditHoursDisplay();
 }
 
 function removeClassFromSchedule(className) {
     Object.keys(scheduledClasses).forEach(day => {
         scheduledClasses[day] = scheduledClasses[day].filter(cls => cls.name !== className);
-        for (let hour = 8; hour <= 20; hour++) {
-            const slot = document.getElementById(`${day}-${hour}`);
-            if (slot) {
-                const blocksToRemove = Array.from(slot.getElementsByClassName("class-block"))
-                    .filter(block => block.textContent === className || block.textContent.includes(className));
-                blocksToRemove.forEach(block => slot.removeChild(block));
-            }
+        const column = document.getElementById(`${day}-column`);
+        if (column) {
+            const blocksToRemove = Array.from(column.getElementsByClassName("class-block"))
+                .filter(block => block.textContent === className || block.textContent.includes(className));
+            blocksToRemove.forEach(block => column.removeChild(block));
         }
     });
 
-    // Adjust credit hours
     const classElement = document.querySelector(`[data-class="${className}"]`);
     if (classElement) {
-        const creditValue = parseInt(classElement.getAttribute("data-credits"));
-        const creditDisplay = document.getElementById("credit-hours");
-        creditDisplay.textContent = Math.max(0, parseInt(creditDisplay.textContent) - creditValue);
+        const creditValue = parseInt(classElement.getAttribute("data-credit_hours"));
+        totalCreditHours = Math.max(0, totalCreditHours - creditValue);
+        updateCreditHoursDisplay();
     }
 }
 
@@ -164,3 +143,33 @@ function showConflictModal() {
     document.body.appendChild(modal);
 }
 
+function updateCreditHoursDisplay() {
+    document.getElementById("credit-hours").textContent = totalCreditHours;
+}
+
+document.getElementById("copy-crns-btn").addEventListener("click", () => {
+    const crns = new Set();
+
+    Object.keys(scheduledClasses).forEach(day => {
+        scheduledClasses[day].forEach(cls => {
+            const classElement = document.querySelector(`[data-class="${cls.name}"]`);
+            if (classElement) {
+                const crn = classElement.getAttribute("data-crn");
+                if (crn) crns.add(crn);
+            }
+        });
+    });
+
+    const crnList = Array.from(crns).join(" ");
+    if (crnList.length === 0) {
+        alert("Add a class first.");
+        return;
+    }
+
+    navigator.clipboard.writeText(crnList).then(() => {
+        alert("Copied:\n" + crnList);
+    }).catch(err => {
+        console.error("Copy failed: ", err);
+        alert("Failed to copy CRNs.");
+    });
+});

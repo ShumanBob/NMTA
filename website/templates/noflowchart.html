@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Engineering Flowchart</title>
+    <title>Accelerated MS Physics Flowchart</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/cs_style.css') }}">
 </head>
 
@@ -12,18 +12,16 @@
     <nav>
         <a href="{{ url_for('home') }}" class="home-button">Home</a>
     </nav>
-
-    <h1 class="flowchart-title">Civil Engineering Flowchart</h1>
+    <h1 class="flowchart-title">WOMP WOMP</h1>
 
     <section class="flowchart-container">
-        <img src="{{ url_for('static', filename='images/civil.png') }}" alt="Civil Engineering Flowchart"
+        <img src="{{ url_for('static', filename='images/noflowchart.png') }}" alt="WOMP WOMP"
             class="flowchart-image">
     </section>
 
     <form method="POST" action="{{ url_for('schedule_builder') }}">
         <button type="submit">Go to Schedule Builder</button>
     </form>
-
 </body>
 
 </html>
