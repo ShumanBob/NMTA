@@ -86,6 +86,24 @@
   </div>
 
 
+
+
+
+  <!-- Chatbot -->
+  <button id="chatbot-open-btn" onclick="openChatbot()">Chat</button>
+  <div id="chatbot-popup">
+    <form class="chatbot-form" onsubmit="return false;">
+      <h1>Chat</h1>
+      <label><b>What do you need help with?</b></label>
+      <div id="chatbot-messages"></div>
+      <div class="chatbot-input-container">
+        <input type="text" id="chatbot-input" placeholder="Enter message..." />
+        <button type="button" id="chatbot-send-btn">Send</button>
+      </div>
+      <button type="button" class="chatbot-cancel-btn" onclick="closeChatbot()">Close</button>
+    </form>
+  </div>
+  
   <!-- Scripts -->
   
   <script>

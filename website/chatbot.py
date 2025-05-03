@@ -33,6 +33,10 @@ def chat():
         if "### End" in model_output:
             model_output = model_output.split("### End")[0]
 
+        # Replace "202620" with "Fall 2025"
+        model_output = model_output.replace("202620", "Fall 2025")
+        model_output = model_output.replace("was", "is")
+
         return jsonify({"response": model_output.strip()})
 
     except Exception as e:
