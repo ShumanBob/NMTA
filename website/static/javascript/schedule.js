@@ -1,6 +1,7 @@
 let scheduledClasses = {};
 let totalCreditHours = 0; //initialize total credit hours to 0
 
+// converts time string to minutes since midnight
 function convertTimeToMinutes(timeString) {
     const [time, period] = timeString.trim().split(" ");
     let [hour, minute] = time.split(":").map(Number);
@@ -8,7 +9,7 @@ function convertTimeToMinutes(timeString) {
     if (period === "AM" && hour === 12) hour = 0;
     return hour * 60 + minute;
 }
-
+// parses string of day initials into full names
 function parseDays(days) {
     const dayMap = {
         M: "monday",
@@ -19,11 +20,11 @@ function parseDays(days) {
     };
     return Array.from(days).map(day => dayMap[day]);
 }
-
+// checks for time overlaps
 function timeRangesOverlap(startA, endA, startB, endB) {
     return startA < endB && startB < endA;
 }
-
+// adds class to calendar UI
 function addClass(element) {
     const className = element.getAttribute('data-class');
     const days = element.getAttribute('data-days');
@@ -35,7 +36,7 @@ function addClass(element) {
     const [startStr, endStr] = time.split(' - ');
     const startMin = convertTimeToMinutes(startStr);
     const endMin = convertTimeToMinutes(endStr);
-
+    // prevents addition of duplicate class
     const isScheduled = Object.values(scheduledClasses).some(dayArr =>
         dayArr.some(cls => cls.name === className)
     );
@@ -43,7 +44,7 @@ function addClass(element) {
         removeClassFromSchedule(className);
         return;
     }
-
+    // check for schedule conflicts
     let conflict = false;
     parsedDays.forEach(day => {
         if (scheduledClasses[day]) {
@@ -57,11 +58,11 @@ function addClass(element) {
     });
 
     if (conflict) {
-        showConflictModal();
+        showConflictModal(); // show conflict popup
         return;
     }
 
-    // No conflict, schedule class
+    // schedule the class if there is no conflict
     parsedDays.forEach(day => {
         if (!scheduledClasses[day]) scheduledClasses[day] = [];
         scheduledClasses[day].push({ name: className, startMin, endMin });
@@ -70,7 +71,7 @@ function addClass(element) {
         if (!column) return;
 
         const duration = endMin - startMin;
-        const top = startMin - 480; // 8:00 AM is base (480 min)
+        const top = startMin - 480; // use 8 am as the base
 
         const block = document.createElement("div");
         block.className = "class-block";
@@ -82,11 +83,11 @@ function addClass(element) {
         column.appendChild(block);
     });
 
-    // Update credit hours
+    // update the credit hours
     totalCreditHours += creditValue;
     updateCreditHoursDisplay();
 }
-
+// removes the class from calendar UI
 function removeClassFromSchedule(className) {
     Object.keys(scheduledClasses).forEach(day => {
         scheduledClasses[day] = scheduledClasses[day].filter(cls => cls.name !== className);
@@ -105,7 +106,7 @@ function removeClassFromSchedule(className) {
         updateCreditHoursDisplay();
     }
 }
-
+// displays popup in case of schedule conflict
 function showConflictModal() {
     const modal = document.createElement("div");
     modal.style.position = "fixed";
@@ -142,11 +143,11 @@ function showConflictModal() {
     modal.appendChild(message);
     document.body.appendChild(modal);
 }
-
+// updates total displayed credit hours
 function updateCreditHoursDisplay() {
     document.getElementById("credit-hours").textContent = totalCreditHours;
 }
-
+// collects and copies all CRNs of currently scheduled classes
 document.getElementById("copy-crns-btn").addEventListener("click", () => {
     const crns = new Set();
 
@@ -159,13 +160,13 @@ document.getElementById("copy-crns-btn").addEventListener("click", () => {
             }
         });
     });
-
+    // error if no classes added
     const crnList = Array.from(crns).join(" ");
     if (crnList.length === 0) {
         alert("Add a class first.");
         return;
     }
-
+    // copy the CRNs to clipboard
     navigator.clipboard.writeText(crnList).then(() => {
         alert("Copied:\n" + crnList);
     }).catch(err => {

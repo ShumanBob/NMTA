@@ -1,4 +1,4 @@
-/* ====== CHATBOT POPUP CONTAINER ====== */
+/* chatbot popup */
 #chatbot-popup {
   display: none;
   position: fixed;
@@ -11,21 +11,21 @@
   box-shadow: 0 0 15px rgba(98, 117, 171, 0.4);
 }
 
-/* ====== FORM STYLING ====== */
+/* form */
 .chatbot-form {
   max-width: 360px;
   padding: 15px;
   background-color: #0c2753;
 }
 
-/* ====== CHAT HEADER ====== */
+/* chat header */
 .chatbot-form h1 {
   color: #BCCEFF;
   font-size: 20px;
   margin-bottom: 10px;
 }
 
-/* ====== MESSAGE DISPLAY AREA ====== */
+/* message display */
 #chatbot-messages {
   height: 200px;
   overflow-y: auto;
@@ -39,14 +39,14 @@
   color: #f5f5f5;
 }
 
-/* ====== INPUT + SEND CONTAINER ====== */
+/* input and send */
 .chatbot-input-container {
   display: flex;
   gap: 8px;
   margin-bottom: 10px;
 }
 
-/* ====== INPUT FIELD ====== */
+/* input field */
 #chatbot-input {
   flex: 1;
   padding: 12px;
@@ -63,7 +63,7 @@
   color: #0c2753;
 }
 
-/* ====== SEND BUTTON ====== */
+/* send button */
 #chatbot-send-btn {
   background: #BCCEFF;
   color: #0c2753;
@@ -80,7 +80,7 @@
   transform: scale(1.05);
 }
 
-/* ====== OPEN + CLOSE BUTTONS ====== */
+/* open and close */
 #chatbot-open-btn {
   background-color: #6275AB;
   color: white;

@@ -2,10 +2,10 @@ import pandas as pd
 from datetime import datetime
 import os
 
-# Get directory where this script is located
+# get directory of this file
 base_dir = os.path.dirname(__file__)
 
-# Convert "HHMM-HHMM" format to "HH:MM AM/PM - HH:MM AM/PM"
+# convert time from HHMM-HHMM to HH:MM AM/PM - HH:MM AM/PM
 def convert_time_range(time_str):
     if pd.isna(time_str) or '-' not in str(time_str):
         return ''
@@ -17,13 +17,15 @@ def convert_time_range(time_str):
     except ValueError:
         return ''
 
-# Load the CSV (absolute path)
+# get absolute path to the CSV file
 csv_path = os.path.join(base_dir, "data/nmt_courses_latest.csv")
+# load csv file into pandas dataframe
 df = pd.read_csv(csv_path)
 
-# Collect formatted lines
+# list to hold classes entries
 formatted_classes = []
 
+# iterate through dataframe rows
 for _, row in df.iterrows():
     course_full = row['course_code'] if pd.notna(row['course_code']) else ''
     course_code = course_full.split('-')[0] if '-' in course_full else course_full
@@ -46,11 +48,13 @@ for _, row in df.iterrows():
     fees = row['fees'] if pd.notna(row['fees']) else ''
     bookstore_link = row['bookstore_link'] if pd.notna(row['bookstore_link']) else ''
 
-    # Skip incomplete entries
+    # skip if entries are incomplete
     if not (course_code and crn and days and time_range and title and credit_hours):
         continue
-
+    # convert day strings from MWF to M/W/F
     pretty_days = '/'.join(days)
+
+    # construct formatted string for course
     formatted_line = (
         f"{course_code}, {crn}, {days}, {time_range}, {credit_hours}, {seats}, "
         f"{course_code} - {title} ({pretty_days} {time_range}) | "
@@ -59,12 +63,11 @@ for _, row in df.iterrows():
         f"Limit: {limit}, Enrolled: {enrolled}, Waitlist: {waitlist}, Fees: {fees}, "
         f"Bookstore: {bookstore_link}"
     )
+    # add string to list
     formatted_classes.append(formatted_line)
 
-# Write to output file (absolute path)
+# write file to output directory
 output_path = os.path.join(base_dir, "data/classes.txt")
 with open(output_path, "w") as f:
     for line in formatted_classes:
         f.write(line + "\n")
-
-print("classes.txt has been created.")

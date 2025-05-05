@@ -1,4 +1,4 @@
-/* Reset & Global Styles */
+/* global styles */
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@
     text-align: center;
   }
   
-  /* Navigation */
+  /* navigation */
   nav {
     position: fixed;
     top: 10px;
@@ -35,7 +35,7 @@
     color: #BCCEFF;
   }
   
-  /* Flowchart Container */
+  /* flowchart */
   .cs-flowchart {
     margin-top: 80px;
     width: 80%;
@@ -47,7 +47,7 @@
     box-shadow: 0px 0px 15px rgba(188, 206, 255, 0.3);
   }
   
-  /* Year Titles */
+  /* year titles */
   .year-title {
     font-size: 24px;
     margin-top: 20px;
@@ -58,7 +58,7 @@
     display: inline-block;
   }
   
-  /* Course Boxes */
+  /* course boxes */
   .row {
     display: flex;
     justify-content: center;
@@ -89,7 +89,7 @@
     color: #0c2753;
   }
   
-  /* Color Codes */
+  /* colors */
   .red {
     background: #FF7F7F !important;
   }
@@ -98,7 +98,7 @@
     background: #39FF14 !important;
   }
   
-  /* ====== BUTTONS (GLOBAL STYLE) ====== */
+  /* global buttons */
   button {
     background-color: #6275AB;
     color: white;
@@ -116,7 +116,7 @@
     transform: scale(1.05);
   }
   
-  /* Rotating Logo */
+  /* rotating logo */
   .rotating-logo {
     font-size: 40px;
     font-weight: bold;
@@ -126,7 +126,7 @@
     animation: rotate 5s linear infinite;
   }
   
-  /* Rotation Animation */
+  /* rotation animation */
   @keyframes rotate {
     from {
       transform: rotate(0deg);

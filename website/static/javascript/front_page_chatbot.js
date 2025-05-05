@@ -8,15 +8,15 @@ document.addEventListener("DOMContentLoaded", function () {
     const message = chatInput.value.trim();
     if (message === "") return;
 
-    // Show user message
+    // show user message
     const userDiv = document.createElement("div");
     userDiv.innerHTML = `<strong>You:</strong> ${message}`;
     chatMessages.appendChild(userDiv);
 
-    // Clear input
+    // clear input
     chatInput.value = "";
 
-    // Show typing animation
+    // thinking animation
     const botDiv = document.createElement("div");
     botDiv.innerHTML = `<strong>TA:</strong> <span id="typing">Thinking...</span>`;
     chatMessages.appendChild(botDiv);
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       const data = await response.json();
 
-      // Replace typing with bot message
+      // replace bot message
       botDiv.innerHTML = `<strong>TA:</strong> ${data.response}`;
     } catch (error) {
       botDiv.innerHTML = `<strong>TA:</strong> Sorry, an error occurred.`;

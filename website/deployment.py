@@ -3,19 +3,22 @@ import time
 import threading
 import os
 
-# getting the absolute paths for flask servers
+# get the directory of this file
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# get the paths of the flask servers
 HOME_PATH = os.path.join(BASE_DIR, "home.py")
 CHATBOT_PATH = os.path.join(BASE_DIR, "chatbot.py")
 
-# using global process for reference
+# dictionary to keep track of processes
 processes = {}
 
+# use subprocess to run the servers
 def launch_process(name, path):
     print(f"[{name}] Starting...")
     return subprocess.Popen(["python", path])
 
 def monitor_process(name, path, restart_interval=None):
+    # monitor processes based on name; restart when crash occurs or when interval is met
     while True:
         proc = launch_process(name, path)
         processes[name] = proc
@@ -23,6 +26,7 @@ def monitor_process(name, path, restart_interval=None):
 
         while True:
             try:
+                # wait up to 5 seconds
                 proc.wait(timeout=5)
                 print(f"[{name}] Crashed. Restarting...")
                 break  # restart when crashing occurs
@@ -33,8 +37,10 @@ def monitor_process(name, path, restart_interval=None):
                     proc.terminate()
                     try:
                         proc.wait(timeout=5)
+                        # force kill if it won't terminate
                     except subprocess.TimeoutExpired:
                         proc.kill()
+                        # restart the process
                     break
 
 def main():
