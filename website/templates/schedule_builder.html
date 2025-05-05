@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  
+  <!--dispalys credit hours corresponding to amount of classes currenlty selected.-->
   <div id="credit-hour-display">
     Credit Hours: <span id="credit-hours">0</span>
     <button id="copy-crns-btn" style="margin-left: 10px;">Copy CRNs</button>
@@ -31,7 +31,7 @@
           {% endfor %}
         </select>
       </center>
-
+      <!--Format for class list that appears in the left side menu on the schedual builder page, values are being read in from arrays defined in home.py-->
       <ul id="class-list">
         {% for class in selected_classes %}
         {% if class.department and class.time and class.days and class.class_name %}
@@ -53,7 +53,8 @@
         {% endfor %}
       </ul>
     </div>
-
+    <!--Formatting for schedual builder calener where classes appear, the calender is made from multiple differnt page divisions that are 
+    edited by schedual.js whenever a class in selected or deslected.-->
     <div class="content">
       <h2><center>Class Schedule</center></h2>
       <div class="calendar-wrapper">
@@ -85,11 +86,7 @@
     </div>
   </div>
 
-
-
-
-
-  <!-- Chatbot -->
+  <!-- chatbot formattting and functionality for chatbot found in the bottom right corner of the schedual builder page. -->
   <button id="chatbot-open-btn" onclick="openChatbot()">Chat</button>
   <div id="chatbot-popup">
     <form class="chatbot-form" onsubmit="return false;">
@@ -103,7 +100,7 @@
       <button type="button" class="chatbot-cancel-btn" onclick="closeChatbot()">Close</button>
     </form>
   </div>
-  
+
   <!-- Scripts -->
   
   <script>

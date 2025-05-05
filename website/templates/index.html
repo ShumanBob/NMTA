@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <!-- TOP SECTION -->
+  <!--html for the to pthird of the page, only has the NMTA logo--> ->
   <section class="top-section">
     <div class="rotating-logo">
       <span class="rotating-letter">N</span>
@@ -19,7 +19,7 @@
     </div>
   </section>
 
-  <!-- MIDDLE SECTION -->
+  <!-- html for the middle section of the homepage, contains the chatbot box and input functionality-->
   <section class="middle-section">
     <form method="POST" action="{{ url_for('schedule_builder') }}">
       <button type="submit" class="schedule-button">Go to Schedule Builder</button>
@@ -39,7 +39,7 @@
     </div>
   </section>
 
-  <!-- BOTTOM SECTION -->
+  <!-- The lower section of the homepage, contains the major searchbar and the buttons leading you to major flowcharts -->
   <section class="bottom-section">
     <h2>Search For Your Degree Guide</h2>
     <input
@@ -48,6 +48,7 @@
       placeholder="e.g., Computer Science"
       style="margin-bottom: 1em; padding: 0.5em; width: 100%; max-width: 300px;"
     />
+    <!--Links to each html flowchart page, for majors that dont have a flowchart users are redirected to 'noflowchart' page-->
     <div class="flowchart-container">
       <a href="{{ url_for('computer_science') }}" class="flowchart-box">Computer Science</a>
       <a href="{{ url_for('mechanical_engineering') }}" class="flowchart-box">Mechanical Engineering</a>
@@ -80,10 +81,10 @@
     </footer>
   </section>
 
-  <!-- CHATBOT SCRIPT -->
+  <!-- Script for the Llama 2 chatbot functionality -->
   <script src="{{ url_for('static', filename='javascript/front_page_chatbot.js') }}"></script>
 
-  <!-- SEARCH SCRIPT -->
+  <!-- script for the majors searchbar in the bottom section of the homepage -->
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const searchInput = document.getElementById("flowchart-search");
