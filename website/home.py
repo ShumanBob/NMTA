@@ -195,6 +195,6 @@ def chatbot():
 if __name__ == "__main__":
     # make sure ngrok onlt runs once
     if not os.environ.get("WERKZEUG_RUN_MAIN"):
-        public_url = ngrok.connect(5000)
+        public_url = ngrok.connect(addr=5000, domain="enormously-proper-starfish.ngrok-free.app")
         print(" * ngrok tunnel running at:", public_url)
     app.run(port=5000, debug=False)
